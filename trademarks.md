@@ -1,13 +1,5 @@
 # Trademarks in Open Source
 
-<!-- BEGIN INTERNAL ONLY external="This document does not provide legal advice,
-and represents the views solely of the Google Open Source Program Office. Please
-consult with your own lawyer for legal advice." -->
-
-**Status:** DRAFT v1.1
-
-<!-- END INTERNAL ONLY -->
-
 [TOC]
 
 ## Introduction

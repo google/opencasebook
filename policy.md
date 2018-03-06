@@ -2,16 +2,6 @@
 
 go/cla-policy
 
-<!-- BEGIN INTERNAL ONLY external="This document does not provide legal advice,
-and represents the views solely of the Google Open Source Program Office. Please
-consult with your own lawyer for legal advice." -->
-
-**Status:** Final, shared with limited partners \
-**Last Updated:** 2017-01-17 \
-**Contact:** opensource-licensing@
-
-<!-- END INTERNAL ONLY -->
-
 [TOC]
 
 ## Introduction

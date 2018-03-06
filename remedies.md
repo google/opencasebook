@@ -1,14 +1,5 @@
 # Contract and Copyright Remedies Available under Open Source Licenses
 
-<!-- BEGIN INTERNAL ONLY external="This document does not provide legal advice,
-and represents the views solely of the Google Open Source Program Office. Please
-consult with your own lawyer for legal advice." -->
-
-**Status:** Final \
-**Last Updated:** 2017-03-01
-
-<!-- END INTERNAL ONLY -->
-
 [TOC]
 
 ## Introduction
