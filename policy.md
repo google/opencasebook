@@ -1,6 +1,4 @@
-# Alphabet CLA Policy and Rationale
-
-go/cla-policy
+# Model CLA Policy and Rationale
 
 [TOC]
 
