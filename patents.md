@@ -1472,8 +1472,543 @@ DEALINGS IN THE SOFTWARE.
   Can the use of a license that was not drafted by the licensor be construed 
   against the licensor?
 
+### Cases
+
+The discussion in the previous section was focused on license terms that 
+specifically reflect or at least implicate reserved rights under patent
+law. A careful review of the language, however, shows that there are also
+*broad, but unspecific* grants of rights in many open source licenses.
+For example, the MIT license:
+
+> Permission is hereby granted, free of charge, to any person obtaining a 
+> copy of this software... to deal in the Software without restriction...
+
+The GNU GPL, version 2:
+
+> Activities other than copying, distribution and modification are not 
+> covered by this License; they are outside its scope. The act of running 
+> the Program is not restricted...
+
+As you read the following cases, think about whether these statements may
+act as express patent licenses granted to recipients of the open source 
+software. 
+
+#### A. Natterman & CIE GmBH v. Bayer Corp.
+
+--------------------------------------------------------------------------------
+_A. Natterman & CIE GmBH v. Bayer Corp._, 428 F. Supp. 2d 253, E.D.Pa, 2006. [^NattermanHeadnote]
+
+[^NattermanHeadnote]: _A. Natterman & CIE GmBH v. Bayer Corp._, 428 F. Supp. 2d 253, E.D.Pa, (2006), _available at_ [https://www.leagle.com/decision/2006681428fsupp2d2531659](https://www.leagle.com/decision/2006681428fsupp2d2531659)
+
+**MEMORANDUM AND ORDER**
+
+*ANITA B. BRODY, District Judge.*
+
+In this patent infringement action, Plaintiffs A. Nattermann & Cie GmbH 
+("Nattermann") and Aventis Behring L.L.C. bring suit against Defendants Bayer 
+Corporation and Bayer Healthcare LLC for alleged infringement of U.S. Patent 
+No. 5,565,427 ("the '427 patent"). Defendants bring counterclaims against 
+Plaintiffs and Counterclaim Defendant Aventis Behring GmbH.[^FNOmitted] 
+Plaintiff Nattermann is the owner of the '427 patent, Counterclaim Defendant 
+Aventis Behring GmbH has a non-exclusive license to the patent, and Plaintiff 
+Aventis Behring L.L.C. has a sublicense. The '427 patent involves a drug used 
+in the treatment of hemophilia. Plaintiffs claim that an anti-hemophilila drug 
+marketed by Defendants under the name KOGENATE® FS infringes the '427 patent. 
+Defendants bring counterclaims against Plaintiffs for, inter alia, breach of a 
+1998 Supply Agreement entered into by Bayer and Centeon L.L.C., a predecessor 
+of Plaintiff Aventis Behring L.L.C., under which Bayer was to manufacture its 
+KOGENATE® product for Centeon L.L.C.
+
+[^FNOmitted]: Except where noted, footnotes and cites to the record have been omitted.
+
+Before me is Defendants' motion for summary judgment on their fourth 
+affirmative defense of license under the '427 patent. Defendants claim that 
+the 1998 Supply Agreement between Bayer and Centeon L.L.C. granted Defendants 
+an express license under the '427 patent and that this license is a complete 
+defense to the instant patent infringement suit. Also before me is 
+Plaintiffs' motion for summary judgment on Defendants' affirmative defense of 
+license and Defendants' third counterclaim for breach of contract. Plaintiffs 
+seek a judgment that Defendants have no express or implied license under the 
+'427 patent and that, as a result, Defendants' counterclaim for breach of 
+contract fails as a matter of law. For the reasons that follow, I will deny 
+both motions.
+
+**I. FACTUAL BACKGROUND**
+
+For purposes of the instant motions, the relevant undisputed facts are as 
+follows.
+
+A. *The 1993 Patent Settlement Agreement*
+
+In 1993, Defendants' predecessor Miles Inc. ("Miles") and Rhône Poulenc Rorer 
+Inc. ("RPR"), parent company of Centeon L.L.C.'s predecessor Armour 
+Pharmaceutical Co. ("Armour"), signed an agreement ("the 1993 Patent Settlement 
+Agreement") settling their previous patent litigation. As a result of the 
+1993 Patent Settlement Agreement, Bayer AG, the parent company of Miles, 
+received an express license to certain patents, known as the "Scripps patents," 
+involving recombinant factor VIII technology used in the treatment of 
+hemophilia. 
+
+B. *The 1994 Supply Agreement*
+
+As part of the 1993 Patent Settlement Agreement, Miles and Armour, the 
+predecessors of Bayer and Centeon L.L.C. respectively, entered into the 1994 
+Supply Agreement. The 1994 Supply Agreement obligated Bayer to supply Centeon 
+L.L.C. "with certain defined quantities of recombinant factor VIII (the 
+'Product' as further defined below). . . ." The "Product" of the 1994 Supply 
+Agreement consisted of Bayer AG's first-generation KOGENATE 0 product. 
+Under the 1994 Supply Agreement, Bayer supplied Centeon L.L.C. with KOGENATE®, 
+and Centeon L.L.C. sold this product under its own HELIXATE® trade-name. 
+
+Section 9 of the 1994 Supply Agreement states:
+
+> No license, express or implied, is granted by one party to the other 
+> hereunder, save for those purposes which permit performance, by each party, 
+> of its obligations under this Agreement.
+
+C. *The 1998 Supply Agreement*
+
+From 1997 to 1998, Bayer and Centeon L.L.C. renegotiated the 1994 Supply 
+Agreement and formed the 1998 Supply Agreement. Bayer and Centeon L.L.C. 
+renegotiated the Supply Agreement, in part, so that each party could secure 
+continued access to future recombinant factor VIII products. Under the 1998 
+Supply Agreement, Bayer agreed to "continue to provide quantities of human 
+recombinant Factor VIII to Centeon under the terms and conditions specified 
+herein. . . ." The 1998 Supply Agreement was to be "considered part of 
+the Settlement Agreement between Bayer AG and Armour just as the 1994 Agreement 
+was part of said Settlement Agreement." The parties incorporated Section 9 of 
+the 1994 Agreement into Section 10 of the 1998 Agreement. 
+
+D. *KOGENATE® FS and the 1998 Supply Agreement*
+
+When the parties negotiated and signed the 1998 Supply Agreement, Bayer was 
+marketing its first-generation KOGENATE® product, which does not infringe the 
+'427 patent. The 1998 Supply Agreement provides that Centeon L.L.C. and its 
+successors would receive access to later improvements of Bayer's KOGENATE® 
+product. One such contemplated improvement that was specifically contemplated 
+in the Agreement was called KOGENATE® II. KOGENATE® II was defined in the 1998 
+Supply Agreement as "an antihemophilic Factor VIII (Recombinant) protein to be 
+formulated as a sterile, stable, purified, freezedried concentrate, purified 
+and formulated without the use of albumin." Bayer has assigned the trademark 
+KOGENATE® FS to the KOGENATE® II Product referenced in the 1998 Supply 
+Agreement. At the time Bayer and Centeon L.L.C signed the 1998 Supply 
+Agreement, Bayer had not provided Centeon L.L.C. with full specifications for 
+any future recombinant factor VIII product in development, including 
+KOGENATE® FS. 
+
+\[...\]
+
+**III. DISCUSSION**
+
+Defendants move for summary judgment on the affirmative defense of express 
+license under the '427 patent. Plaintiffs cross-move for summary judgment on 
+Defendants' affirmative defense of license, seeking judgment as a matter of law 
+that Defendants have no license to the '427 patent, either express or implied. 
+Plaintiffs also move for summary judgment on Defendants' third counterclaim 
+(breach of the 1998 Supply Agreement), which they assert is dependent on a 
+finding that the Agreement created a license to the '427 patent. All of these 
+issues boil down to the single question of whether Defendants were licensed 
+under the '427 patent.
+
+A. *Background*
+
+A license, whether express or implied, is a defense to patent infringement.
+\[FN8\] *See* _Carborundum Co. v. Molten Metal Equip. Innovations_, 72 F.3d 
+872, 878 (Fed. Cir.1995). The alleged infringer has the burden of establishing 
+this affirmative defense. *Id*. It has been observed that:
+
+> \[n\]o formal granting of a license is necessary in order to give it 
+> effect. Any language used by the owner of the patent, or any conduct on his 
+> part exhibited to another from which that other may properly infer that the 
+> owner consents to his use of the patent in making or using it, or selling it, 
+> upon which the other acts, constitutes a license and a defense to an action 
+> for a tort.
+
+_Wang Labs., Inc. v. Mitsubishi Electronics Am., Inc._, 103 F.3d 1571, 1580 
+(Fed.Cir. 1997) (quoting _De Forest Radio Tel. & Tel. Co. v. United States_, 
+273 U.S. 236, 241, 47 S.Ct. 366, 71 L.Ed. 625 (1927)). Defendants claim that 
+the 1998 Supply Agreement between Plaintiffs' predecessor Centeon L.L.C. and 
+Bayer gave Defendants an express license to manufacture KOGENATE® FS, the drug 
+that Plaintiffs allege infringes the '427 patent. The determination of whether 
+there is an express license or an implied license to a patent is "governed by 
+ordinary principles of state contract law." _State Contracting & Eng'g Corp. 
+v. Florida_, 258 F.3d 1329, 1339 (Fed. Cir.2001) (quoting _McCoy v. Mitsuboshi 
+Cutlery, Inc._, 67 F.3d 917, 920 (Fed.Cir. 1995)).
+
+Here, the parties agree that Connecticut law applies to the interpretation of 
+the 1998 Supply Agreement upon which Defendants' claim of express license is 
+based. Under Connecticut law, "\[a\]lthough ordinarily the question of contract 
+interpretation, being a question of the parties' intent, is a question of fact, 
+where there is definitive contract language, the determination of what the 
+parties intended by their contractual commitments is a question of law." _Hanks 
+v. Powder Ridge Restaurant Corp._, 276 Conn. 314, 885 A.2d 734, 739 (2005) 
+(internal citations omitted).
+
+B. *Defendants' Motion for Summary Judgment*
+
+Defendants do not dispute that no license to the '427 patent is explicitly 
+mentioned in the 1998 Supply Agreement or any of its precursors. However, 
+Defendants claim that Section 10 of the 1998 Supply Agreement created an 
+express license to the '427 patent:
+
+> **No Express or Implied License**
+>
+> No license, express or implied, is granted by one party to the other 
+> hereunder, *save for those purposes which permit performance, by each 
+> party, of its obligations under this Agreement.*
+
+(Defs.' Mot. Summ. J. Ex. A at 27 (emphasis added).) Defendants claim that 
+the plain meaning of Section 10 is to create express licenses to such patents 
+as "permit performance, by each party, of its obligations under this 
+Agreement." Defendants claim that because a license to the '427 patent was 
+essential to Bayer's performance of the contract, this provision creates an 
+express license to that patent. They cite various other provisions of the 
+Supply Agreement in support of the contention that Bayer required a license 
+to the '427 patent in order to perform its obligations under the Agreement.
+
+In order for Defendants to obtain summary judgment on the question of express 
+license, it would have to be clear from the four corners of the 1998 Supply 
+Agreement that Section 10 grants Bayer an express license to the '427 patent. 
+The fact that the provision is entitled "No Express or Implied License" and 
+provides, in part, that "\[n\]o license, express or implied, is granted by one 
+party to the other hereunder" is at least enough to raise sufficient ambiguity 
+to preclude summary judgment for Defendants.
+
+C. *Plaintiffs' Motion for Summary Judgment*
+
+Plaintiffs raise several arguments for why summary judgment for Defendants 
+is improper and why, in fact, summary judgment should be granted in Plaintiffs' 
+favor: (1) Centeon L.L.C. never had the right to license the '427 patent to 
+Bayer in the first place; (2) even if it did, the plain terms of the 1998 
+Supply Agreement foreclose any express or implied license to the '427 patent; 
+and (3) even if the Supply Agreement were construed to grant an express or 
+implied license to patents necessary to the performance of the parties' 
+contractual obligations, the '427 patent would not fall within the scope of 
+such a license. An absence of genuine issues of material fact as to any one of 
+these three issues might entitle Plaintiffs to summary judgment. Thus, I will 
+address each argument in turn.
+
+\[...\]
 
 
+2\. *Whether the 1998 Supply Agreement forecloses any license to the 
+'427 patent*
+
+Plaintiffs also argue that the plain terms of the 1998 Supply Agreement 
+unambiguously negate the existence of any license to the '427 patent, express 
+or implied. Under Connecticut law, contract interpretation is a question of 
+fact for the jury unless the parties' intent is "clear and unambiguous" from 
+the four corners of the contract, in which case it becomes a question of law 
+for the court. _Peter-Michael, Inc. v. Sea Shell Assocs._, 244 Conn. 269, 709 
+A.2d 558, 562 (1998); see also _McCann Real Equities Series XXII, LLC v. David 
+McDermott Chevrolet, Inc._, 93 Conn.App. 486, 890 A.2d 140, 153 (2006) ("When 
+only one interpretation of a contract is possible, the court need not look 
+outside the four corners of the contract."). The parties' intent is not clear 
+and unambiguous from the four corners of the 1998 Supply Agreement with respect 
+to whether the Agreement grants licenses to patents necessary for the 
+performance of the parties' contractual obligations.
+
+Section 10 of the 1998 Supply Agreement provides:
+
+> No license, express or implied, is granted by one party to the other 
+> hereunder, save for those purposes which permit performance, by each 
+> party, of its obligations under this Agreement.
+
+In order to grant summary judgment for Plaintiffs on this question, I would 
+have to find that the language of Section 10 clearly and unambiguously 
+forecloses any express or implied license to the '427 patent. Section 10's 
+plain terms do not do this. Plaintiffs would have me read this provision as 
+stating simply that "no license, express or implied, is granted by one party to 
+the other hereunder." Such a statement would indeed have been an unambiguous 
+expression that the contract foreclosed any express or implied licenses. 
+
+Yet Section 10 does not say that; rather it states that the Agreement 
+creates no express or implied licenses "*save* for those purposes which permit 
+performance, by each party, of its obligations under this Agreement." A 
+plausible reading of this provision would thus be that it *does* grant such 
+licenses as are necessary to the performance of the 1998 Supply Agreement.
+
+At the very least, Section 10 does not clearly and unambiguously rule out 
+an implied license to the '427 patent. \[FN12] To the contrary, the provision 
+seems to contemplate the possibility that one or more patent licenses would 
+be necessary to the performance of the Agreement, and carves out such licenses 
+from the general statement that "no license, express or implied, is granted by 
+one party to the other hereunder." Thus, Plaintiffs are not entitled to summary 
+judgment because the 1998 Supply Agreement does not, as a matter of law, 
+foreclose the possibility of a license to the '427 patent. There is a genuine 
+issue of material fact as to this question.
+
+Plaintiffs also argue that, read as a whole, the 1998 Supply Agreement cannot 
+be interpreted to create a license to the '427 patent, because it incorporates 
+express licenses to other patents while making no mention of the '427 patent. 
+Plaintiffs rely on the principle of *expressio unius est exclusio alterius*, 
+under which the express mention of one thing (such as the grant of a license) 
+in a written document is presumed to exclude another that is not mentioned. 
+The problem with this argument is that nowhere does the 1998 Supply Agreement 
+expressly grant any patent rights to either party. Plaintiffs claim that 
+because the 1998 Supply Agreement was considered part of the 1993 Patent 
+Settlement Agreement settlement between RPR and Miles, predecessors of 
+Plaintiffs and Defendants respectively, the 1998 Supply Agreement incorporates 
+the express license to the Scripps patents that was included in the 1993 
+settlement. The failure to mention the '427 patent explicitly in the 1998 
+Agreement, Plaintiffs argue, coupled with the express license of the Scripps 
+patents in 1993, creates a presumption that the 1998 Agreement creates no new 
+licenses.
+
+If the 1998 Supply Agreement itself had explicitly mentioned a license to the 
+Scripps patents, or to some other patent, and conspicuously omitted any mention 
+of the '427 patent, Plaintiffs' argument might have some force. See, e.g., 
+*State Contracting*, 258 F.3d at 1340 ("The provision for licensing of patents 
+is limited to work under the contract and does not convey any license to future 
+use of the patented technology. The existence of this provision shows that, if 
+the parties had intended to convey other patent rights, they would have done so 
+explicitly."); _Hilgraeve Corp. v. Symantec Corp._, 265 F.3d 1336, 1345 
+(Fed.Cir.2001) ("Here, the contract provided for Hilgraeve to transfer `all 
+copyright rights in the Software,' but failed to mention the transfer of patent 
+rights. From the terms of the contract we cannot conclude that the parties 
+intended to transfer any patent rights."). However, because the 1998 Supply 
+Agreement is completely silent on the issue of licenses to intellectual 
+property (aside from Section 10, which I have already found to be ambiguous), 
+Plaintiffs' argument fails.
+
+There are genuine issues of material fact as to whether the 1998 Supply 
+Agreement was intended to create a license to the '427 patent as a patent 
+necessary to the performance of the parties' contractual obligations.
+
+3\. *Whether a license to the '427 patent was necessary to Bayer's 
+performance of its obligations under the 1998 Supply Agreement*
+
+Finally, Plaintiffs argue that even if the 1998 Agreement granted express or 
+implied licenses to those patents necessary to the performance of the parties' 
+obligations, the '427 patent was not such a patent. The parties devote much of 
+the briefing of the instant motions to debating whether Bayer could have 
+fulfilled its obligations under the Agreement without infringing the '427 
+patent. This question presents genuine issues of material fact.
+
+**IV. CONCLUSION**
+
+Because there are genuine issues of material fact precluding summary judgment 
+to either party on the issues raised in the instant motions, I will deny both 
+parties' motions for summary judgment.
+
+____
+
+*Selected footnotes from A. Natterman & CIE GmBH v. Bayer Corp:*
+
+\[FN8\]: An express license is merely "\[o\]ne which is granted in direct 
+terms." Black's Law Dictionary 920 (6th ed.1990). The definition of "implied 
+license" in this context is slightly more nuanced. In patent law, the term 
+"implied license" has been used to refer to "different categories of conduct 
+which lead to the same conclusion," namely, "a patentee's waiver of the 
+statutory right to exclude others from making, using, or selling the patented 
+invention." _Wang Labs., Inc. v. Mitsubishi Electronics Am., Inc._, 103 F.3d 
+1571, 1580 (Fed.Cir.1997). "\[C\]ourts and commentators relate that implied 
+licenses arise by acquiescence, by conduct, by equitable estoppel (estoppel in 
+pais), or by legal estoppel." *Id*. These distinctions as to implied licenses 
+are not relevant for purposes of the instant motions.
+
+\[FN12\]: Plaintiffs "move for summary judgment of no license—either express 
+or implied." Because I find that the plain terms of the 1998 Supply Agreement 
+do not, as a matter of law, necessarily foreclose an implied license to the 
+'427 patent, I do not address whether they foreclose an express license to the 
+patent.
+
+#### In re Davidson Hydrant Techs., Inc.
+
+--------------------------------------------------------------------------------
+_In re Davidson Hydrant Techs., Inc._, 2012 Bankr. LEXIS 1120, (Bankr. N.D. Ga.  2012).[^DavidsonHeadnote]
+
+[^DavidsonHeadnote]: _In re Davidson Hydrant Techs., Inc._, 2012 Bankr. LEXIS 1120, (Bankr. N.D. Ga.  2012), _available at_ [https://www.leagle.com/decision/inbco20120327726](https://www.leagle.com/decision/inbco20120327726)
+
+**ORDER**
+
+W. H. DRAKE, Bankruptcy Judge
+
+Before the Court is the Motion to Reject Exclusive Marketing Agreement with 
+Windsor Distribution Corporation, filed by Davidson Hydrant Technologies, Inc. 
+(hereinafter the "Debtor"). Windsor Technologies Corporation, f/k/a Windsor 
+Distribution Corporation (hereinafter "Windsor") objects to the Motion. Windsor 
+asserts that section 365(n)(1) of the Bankruptcy Code applies to permit Windsor 
+to retain certain rights allegedly provided under the agreement between the 
+parties. This matter is a core proceeding, pursuant to 
+28 U.S.C. § 157(b)(2)(A), over which this Court has subject matter jurisdiction. See 28 U.S.C. § 1334.
+
+**BACKGROUND AND PROCEDURAL HISTORY**
+
+Debtor owns patents in fire hydrant technology and manufactures and sells the 
+patented products to both end-users and manufacturers. Debtor signed marketing 
+agreements in 2003 and 2005 with Windsor before entering into the current 
+marketing agreement in 2007 (hereinafter the "Agreement"). By its terms, the 
+Agreement will last through December 2018, with a five-year right of renewal 
+granted to Windsor at the end of the stated term.
+
+The pertinent aspects of the Agreement are as follows:
+
+> * Davidson hereby engages Windsor, and Windsor hereby accepts such 
+>   engagement, to market and promote the Products, Davidson's training, and 
+>   installation services within the Territory, all strictly in accordance with 
+>   the terms and conditions of this Agreement. Subject to Section 10, Davidson 
+>   engages Windsor on an exclusive basis within the Territory during the Term. 
+>   Agreement, § 2A.
+
+\[...\]
+
+...Essentially, the parties disagree over whether Windsor is a licensee of a 
+right to Debtor's intellectual property, either expressly under the Agreement, 
+or by virtue of an implied license arising from the parties' conduct.
+
+Debtor argues that Windsor's sole duty and right under the Agreement was to 
+market and promote Debtor's products and services, which did not require or 
+result in a license of a right to use, sell, or offer to sell Debtor's 
+intellectual property. In support of its position, Debtor states that the 
+Agreement provided Debtor the right to accept or reject any purchase order 
+submitted by Windsor, and the Agreement only provided Windsor with a license 
+to use Debtor's trademarks, which are excluded from the Bankruptcy Code's 
+definition of intellectual property. The Debtor further submits that no implied 
+license to offer the products for sale arose because Debtor lacked the 
+requisite intent to grant Windsor a license and Windsor gave no consideration 
+for the alleged implied license.
+
+In response, Windsor argues that the Agreement grants Windsor a right to use 
+intellectual property because it permits Windsor to offer for sale Debtor's 
+products and gives Windsor the right to use and create works of authorship 
+owned by Debtor. In the alternative, Windsor submits that the parties mutually 
+departed from the written terms of the Agreement, thus resulting in a modified 
+contract, under which Windsor had the authority to directly sell products to 
+customers, or that Debtor's conduct gave rise to an implied license of the 
+right to offer for sale and sell Debtor's products.
+
+\[...\]
+
+The Bankruptcy Code does not define the terms "licensor" or "license." 
+According to federal law applicable to patents, a "license" is essentially 
+permission to use, make, or sell intellectual property and a "promise by the 
+licensor not to sue the licensee." _A. Natterman & CIE Gmbh v. Bayer Corp._, 
+428 F.Supp.2d 253, 258 (E.D. Pa. 2006); _In re Spansion, Inc._, 2011 
+3268084, * 7 (D. Del. July 26, 2011). Under the Bankruptcy Code, "intellectual 
+property" includes a trade secret; invention, process, design, or plant 
+protected under title 35; patent application; plant variety; work of authorship 
+protected under title 17; or mask work protected under chapter 9 of title 17, 
+"to the extent protected by applicable nonbankruptcy law." 
+11 U.S.C. § 101(35A). Accordingly, a "licensor of a right to intellectual 
+property" within the meaning of section 365(n)(1), is a party who has been 
+authorized to use, make, or sell a trade secret, a patented invention, process, 
+design, or plant, a plant variety, a copyrighted work of authorship, or a mask 
+work. *Spansion*, 2011 WL 3268084 at *7.
+
+Further, under federal patent law, a patent is considered to be a "bundle of 
+rights." See _Carborundum Co. v. Molten Metal Equip. Innovations_, 72 F.3d 872, 
+878 (Fed. Cir. 1995). Each "stick" in the bundle can be licensed to another 
+party. Here, Windsor asserts that the right to offer for sale a patented 
+product is such a "stick" in the bundle of rights. This assertion is consistent 
+with patent law, which permits the holder of a patent to sue a party for patent 
+infringement if the party offers to sell a product using the patent holder's 
+patent without authorization. See 35 U.S.C. § 271(a).
+
+Windsor contends that the Agreement permits Windsor to offer Debtor's products 
+for sale. If so, the authorization to offer the products for sale without being 
+subject to suit for infringement of Debtor's patent constitutes the license of 
+a right in the patent. For purposes of determining whether particular conduct 
+constitutes an "offer to sell," the term "offer to sell" is "interpreted 
+according to its ordinary meaning in contract law, as revealed by traditional 
+sources of authority." _Rotec Indus., Inc. v. Mitsubishi Corp._, 215 F.3d 1246 
+(Fed. Cir. 2000).... 
+
+**B. Whether the Agreement Grants a License of Intellectual Property**
+
+Under federal patent law, a license of intellectual property can be either 
+express or implied. See Bayer Corp., 428 F.Supp. at 258. "An express license is 
+merely '\[o\]ne which is granted in direct terms.'" *Id, n.8 (quoting BLACK'S 
+LAW DICTIONARY 920 (6th ed. 1990)). Whether a contract includes a license to 
+intellectual property is a matter of contract interpretation. _Wisconsin Alumni 
+Research Foundation v. Intel Corp._, 656 F.Supp.2d 898, 910 (W.D. Wis. 2009) 
+(citing _State Contracting & Engineering Corp. v. Florida_, 258 F.3d 1329, 1339 
+(Fed. Cir. 2001)). Here, the parties agree that Georgia contract law applies.
+
+Under Georgia law, "the cardinal rule of contract interpretation is to 
+determine the intent of the parties. . . ." _Flynt v. Life of the South Ins. 
+Co._, 2011 WL 5305431, *4 (Ga. App. 2011) (citations omitted). To ascertain 
+the intent of the parties, the Court must first determine "'if the contract 
+language is unambiguous, and if so the court enforces the contract's clear 
+terms.'" _NW Parkway, LLC v. Lemser_, 709 S.E.2d 858, 861 (Ga. App. 2011) 
+(quoting _Eckerd Corp. v. Alterman Properties, Ltd._, 589 S.E.2d 660 (Ga. App. 
+2003)). In determining a contract's nature, a court looks at the plain meaning 
+of the contract provisions. *Id*. (quoting _Ga. Real Estate Properties, v. 
+Lindwall_, 692 S.E.2d 690 (Ga. App. 2010)). "'\[A\]ll the contract terms must 
+be considered together in arriving at the construction of any part, and a 
+construction upholding the contract in whole and every part is preferred.'" 
+*Flynt*, 2011 WL 5305431 at *4 (citations omitted). "'Words generally bear 
+their usual and common signification; but technical words, words of art, or 
+words used in a particular trade or business will be construed, generally, to 
+be used in reference to this peculiar meaning. The local usage or understanding 
+of a word may be proved in order to arrive at the meaning intended by the 
+parties[.]'" NW Parkway, 709 S.E.2d at 861 (quoting O.C.G.A. § 13-2-2(2)).
+
+The plain language of the Agreement does not grant a license of intellectual 
+property protected under section 365(n)(1). Windsor first asserts that the 
+Agreement includes an express license of a right to intellectual property, 
+either in the form of a right to offer for sale and to sell a patented product, 
+or the right to use works of authorship. While the Agreement expressly grants 
+to Windsor a non-exclusive license to use Debtor's trademarked name and logo, 
+it is silent as to a right to use Debtor's patents or patents pending.
+
+The Agreement authorizes Windsor "to market and promote" Debtor's products. 
+Windsor asserts that the use of the word "market" is the grant of an 
+authorization to offer for sale Debtor's products. Windsor submits that the 
+terms "market" and "promote" must have different meanings in order for each 
+term in the Agreement to have meaning. Thus, relying on one dictionary 
+definition of the verb "to market," Windsor asserts that "to promote" means to 
+advertise and "to market" means to sell or offer for sale. However, the verb 
+"to market" is also defined as "to expose for sale in a market." WESBTER'S 
+THIRD NEW INTERNATIONAL DICTIONARY, Merriam-Webster (1993). Exposing a product 
+for sale is more akin to advertising than to offering a product for sale. Read 
+as whole, the Agreement suggests a more synonymous meaning for the words 
+"market" and "promote," as if they form one phrase — to make the products known 
+to customers in the market for the purchase of Debtor's products.
+
+This interpretation is supported by the rights actually granted to Windsor 
+under the Agreement. Every provision of the Agreement suggests Debtor intended 
+to engage Windsor for the sole purpose of generating interest in the product 
+and finding customers, rather than concluding sales on Debtor's behalf. If the 
+parties intended Windsor to have the right to sell or offer the products for 
+sale, one would expect Windsor to have the right to bind Debtor to the sale. To 
+the contrary, the Agreement does not give Windsor authority to bind Debtor to 
+any sales. Furthermore, customers were on notice of this relationship, as 
+Debtor's Term Sheet, which was provided to Debtor's customers, expressly states 
+that "\[a\] Purchase Order will be binding on \[Debtor\] only after accepted 
+in writing . . . by \[Debtor\]." Agreement, Exhibit B, § 1. Therefore, under 
+Georgia contract law and general principles of patent law, Windsor could not 
+offer the products for sale....
+
+#### In re Spansion, Inc.
+
+--------------------------------------------------------------------------------
+Excerpt from _In re Spansion, Inc._, 507 F. App'x 125, 128 (3d Cir. 2012), 
+internal citations omitted..[^SpansionHeadnote]
+
+[^SpansionHeadnote]: _In re Spansion, Inc._, 507 F. App'x 125, 128 (3d Cir. 2012), _available at_ [http://www.ca3.uscourts.gov/opinarch/113323np.pdf](http://www.ca3.uscourts.gov/opinarch/113323np.pdf)
+
+> \[A\] license ... \[is\] a mere waiver of the right to sue by the patentee."  
+> A license need not be a formal grant, but is instead a "consent[] to \[the\] 
+> use of the patent in making or using it, or selling it ... and a defense to 
+> an action for a tort." The Court of Appeals for the Federal Circuit 
+> explained that the inquiry focuses on what the agreement authorizes, not 
+> whether the language is couched in terms of a license or a covenant not 
+> to sue; effectively the two are equivalent. 
+
+##### Discussion
+ 
+1. As noted by both the *Natterman* and *Davidson* courts, the existence of
+  a patent grant given ambiguous language is interpreted according to state
+  contract law. Does that mean that the existence of a patent license may
+  vary from state to state?
+  
+2. The *Davidson* court found that there was no express patent license 
+  because Windsor did not have the power to bind the patent owner. The
+  rights granted by open source licenses, however, are intentionally broad.
+  Would the rule described by the *Spansion* court (look to "what the 
+  agreement authorizes") make a court more likely to find an express
+  patent grant?
   
 
 
