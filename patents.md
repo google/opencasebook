@@ -122,11 +122,11 @@ Excerpt from the GNU General Public License License, Version 2.0[^GPL2]
 
 > **Preamble** 
 > 
-> \[...\] Finally, any free program is threatened constantly by software > 
+> \[...\] Finally, any free program is threatened constantly by software 
 > patents. We wish to avoid the danger that redistributors of a free program 
 > will individually obtain patent licenses, in effect making the program 
 > proprietary. To prevent this, we have made it clear that any patent must 
-> be licensed for everyone's free use or not licensed at all.
+> be licensed for everyone's free use or not licensed at all. 
 
 \[...\]
 
@@ -249,13 +249,11 @@ Excerpt from the Mozilla Public License, Version 2.0[^MPL2]
 > for any code that a Contributor has removed from Covered Software; or
 >
 > for infringements caused by: 
-> 1. (i) Your and any other third party’s modifications of Covered Software, or 
-> 2. (ii) the combination of its Contributions with other software (except as 
+> 1. Your and any other third party’s modifications of Covered Software, or 
+> 2. the combination of its Contributions with other software (except as 
 > part of its Contributor Version); or
 > 3. under Patent Claims infringed by Covered Software in the absence of its 
 > Contributions.
-Each Contributor hereby grants You a world-wide, royalty-free, 
-> non-exclusive license:
 
 [^MPL2]: _Mozilla Public License, Version 2.0_, 2012. [https://opensource.org/licenses/MPL-2.0] (https://opensource.org/licenses/MPL-2.0) (2012). 
 
@@ -1426,7 +1424,7 @@ CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 #### MIT License
 The MIT License[^MIT]
 
-Copyright <YEAR> <COPYRIGHT HOLDER>
+Copyright \<year\>, \<copyright holder\>
 
 Permission is hereby granted, free of charge, to any person obtaining a 
 copy of this software and associated documentation files (the "Software"), 
