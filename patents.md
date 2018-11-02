@@ -1364,7 +1364,7 @@ was superseded by 3-Clause and 2-Clause BSD licenses, each removing one of
 the original conditions. The preamble has remained the same in all versions 
 of the license.*
 
-Copyright (c) <year>, <copyright holder>
+Copyright (c) \<year\>, \<copyright holder\>
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -1393,7 +1393,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #### Fair License
 The Fair License[^Fair]
 
-<Copyright Information>
+\<Copyright Information\>
 
 Usage of the works is permitted provided that this instrument is retained with 
 the works, so that any entity that uses the works is notified of this 
@@ -1407,7 +1407,7 @@ DISCLAIMER: THE WORKS ARE WITHOUT WARRANTY.
 #### Free Public License 1.0.0
 The Free Public License, Version 1.0[^0BSD]
 
-Copyright (c) <year>, <copyright holder>
+Copyright (c) \<year\>, \<copyright holder\>
 
 Permission to use, copy, modify, and/or distribute this software for any 
 purpose with or without fee is hereby granted.
