@@ -36,9 +36,9 @@ This chapter presents materials related to five separate but related issues:
 2. **Implicit Licenses:** The existence and scope of implied patent licenses 
   in open source licenses;
 3. **Express but Non-specific Licenses:** Express grants in open source 
-  licenses that do not include the term "patent;" and
+  licenses that do not include the term "patent;" 
 4. **Patent Exhaustion:** The doctrine of patent exhaustion and its 
-  applicability to the distribution of open source software.
+  applicability to the distribution of open source software; and
 5. **License Termination:** Circumstances that can lead to an ineffective
   or terminated patent grant. 
 
@@ -113,7 +113,7 @@ Excerpt from the Eclipse Public License, Version 2[^EPL2]
 > not apply to any other combinations which include the Contribution. No 
 > hardware per se is licensed hereunder. 
 
-[^EPL2]: _Eclipse Public License, Version 2.0_, 2017. [https://opensource.org/licenses/EPL-2.0] (https://opensource.org/licenses/EPL-2.0)   (2017). 
+[^EPL2]: _Eclipse Public License, Version 2.0_, 2017. [https://opensource.org/licenses/EPL-2.0] (https://opensource.org/licenses/EPL-2.0) (2017). 
 
 
 #### GNU General Public License 2.0
@@ -316,9 +316,9 @@ included with most Linux distributions
 The OIN Linux System is defined as follows:[^OINLinuxSystem]
 
   > “Linux Environment Component” shall mean any of the software packages 
-  > whose released source code shall be identified on the OIN website, including 
-  > bug fixes and error corrections thereto, or a Predecessor Release or 
-  > Successor Release of any of such packages.
+  > whose released source code shall be identified on the OIN website, 
+  > including bug fixes and error corrections thereto, or a Predecessor 
+  > Release or Successor Release of any of such packages.
   > 
   > “Linux System” shall mean a Linux Environment Component or any combination 
   > of such components to the extent each such component is (i) generally 
@@ -326,7 +326,8 @@ The OIN Linux System is defined as follows:[^OINLinuxSystem]
   > source code for such component is generally available) and (ii) Distributed 
   > with, or for use with, the Linux Kernel (or is the Linux Kernel).
   
-Also see the the tables listing applicable standards[^OINTable0] and current list of packages.[^OINTable8]
+Also see the the tables listing applicable standards[^OINTable0] and
+current list of packages.[^OINTable8]
   
 [^OINLinuxSystem]: The official definition of the Linux System is defined
   by the definition at [https://www.openinventionnetwork.com/joining-oin/linux-system/](https://www.openinventionnetwork.com/joining-oin/linux-system/)
@@ -625,7 +626,6 @@ Company.
 #### Wang Laboratories, Inc. v. Mitsubishi Electonics America, Inc.
 
 --------------------------------------------------------------------------------
-
 _Wang Labs., Inc. v. Mitsubishi Elecs. Am., Inc._, Fed. Cir. 1997 [^WangHeadnote]
 
 [^WangHeadnote]: _Wang Labs., Inc. v. Mitsubishi Elecs. Am., Inc._, 103 F.3d 1571, 1583 (Fed. Cir. 1997), _available at_ [https://caselaw.findlaw.com/us-federal-circuit/1201198.html](https://caselaw.findlaw.com/us-federal-circuit/1201198.html)
@@ -655,8 +655,8 @@ purchaser.
 
 In 1985 meetings, in the context of ongoing contacts between the two 
 companies, Mitsubishi and Wang discussed Mitsubishi's new 256K SIMMs.
-\[Footnote Omitted\] In one meeting, Clayton suggested that Mitsubishi modify its 
-SIMM by placing the decoupling capacitors on the same side of the substrate 
+\[Footnote Omitted\] In one meeting, Clayton suggested that Mitsubishi modify 
+its SIMM by placing the decoupling capacitors on the same side of the substrate 
 with the chips, as in the original Wang design. Mitsubishi complied. 
 Mitsubishi went on to mass produce 256K SIMMs; and in 1987, Wang began 
 buying Mitsubishi SIMMs. Wang never informed Mitsubishi of its patent 
@@ -1203,7 +1203,6 @@ Hilgraeve acknowledged in paragraph 9.1 that as part of the transfer
 expertise to DELRINA DELAWARE with respect to the Software." On the basis of 
 this language, Symantec urges us to find that:
 
-
 > 'Software' is more than source code and object code. . . . When read in 
 > conjunction with the . . . 'know-how' and 'technical expertise' 
 > transferred to Delrina (Delaware), Delrina (Delaware) essentially acquired 
@@ -1274,7 +1273,8 @@ grant a transferable license to the patent.
 ##### Discussion
  
 1. A typical rule of interpretation is that contracts are "construed against
-  the drafter," and that "effect must first be given to the intention of the parties." How might these rules apply in the context of open source 
+  the drafter," and that "effect must first be given to the intention of the 
+  parties." How might these rules apply in the context of open source 
   licenses, where the party that drafted the license is probably not the
   party using the license to release code, and there might not be a unity of
   interest between the licensor and licensee?
@@ -1292,6 +1292,193 @@ grant a transferable license to the patent.
   license, such as occurs in open source licensing, to support an implied
   right to use any implicated patents?
   
+## Express but Non-Specific Licenses
+
+One issue that comes up in the context of open source licenses is license 
+ambiguity. Many open source licenses were not written by people with
+legal training, and other licenses were written at a time when software
+was not widely believed to be patentable. As a result, many open source
+licenses are ambiguous relative to the question of patent rights: The
+licenses include express language that suggests the existence of a patent
+right, such as the term "use," but the specific terms "patent" or 
+"patent license" are not part of the text of the license.
+
+As discussed above,[^LimitationsOnImplicit] the existence of some patent
+language in a license will usually prevent the finding of an implicit
+patent license. But an express grant with ambiguous scope may constitute
+an express patent license.
+
+[^LimitationsOnImplicit]: *See generally* the section on "Limitations on Implicit Patent Licenses," *supra.*
+
+### Statutory Law
+
+Each area of intellectual property law reserves particular rights to the
+owner of the corresponding intellectual property. The exclusive rights 
+granted under copyright law are different than the exclusive rights
+granted under patent law.
+
+--------------------------------------------------------------------------------
+#### 17 U.S. Code § 106 - Exclusive rights in copyrighted works
+
+Subject to sections 107 through 122, the owner of copyright under this 
+title has the exclusive rights to do and to authorize any of the following:
+
+  1. to reproduce the copyrighted work in copies or phonorecords;
+  2. to prepare derivative works based upon the copyrighted work;
+  3. to distribute copies or phonorecords of the copyrighted work to the 
+    public by sale or other transfer of ownership, or by rental, lease, 
+    or lending;
+  4. in the case of literary, musical, dramatic, and choreographic works, 
+    pantomimes, and motion pictures and other audiovisual works, to perform 
+    the copyrighted work publicly;
+  5. in the case of literary, musical, dramatic, and choreographic works, 
+    pantomimes, and pictorial, graphic, or sculptural works, including the 
+    individual images of a motion picture or other audiovisual work, to 
+    display the copyrighted work publicly; and
+  6. in the case of sound recordings, to perform the copyrighted work 
+    publicly by means of a digital audio transmission.
+
+--------------------------------------------------------------------------------
+#### 35 U.S.C. 271 Infringement of patent.
+
+(a) Except as otherwise provided in this title, whoever without authority 
+makes, uses, offers to sell, or sells any patented invention, within the 
+United States, or imports into the United States any patented invention 
+during the term of the patent therefor, infringes the patent. 
+
+--------------------------------------------------------------------------------
+
+### Selected Open Source Licenses
+
+The licenses below are some of the shortest and most permissive open source
+licenses available. As you read the licenses below, note any use of language
+that may implicate the reserved rights under patent law (to make, use, offer 
+to sell, sell, and import).
+
+
+#### The BSD License
+The 2-Clause BSD License[^BSD4], 1999.
+
+*Note: The "original" BSD License had four clauses. The 4-clause version
+was superseded by 3-Clause and 2-Clause BSD licenses, each removing one of 
+the original conditions. The preamble has remained the same in all versions 
+of the license.*
+
+Copyright (c) <year>, <copyright holder>
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR
+ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+[^BSD4]: _The 2-Clause BSD License_, Regents of the University of California.   [https://opensource.org/licenses/BSD-2-Clause] (https://opensource.org/licenses/BSD-2-Clause) (1999). 
+
+--------------------------------------------------------------------------------
+#### Fair License
+The Fair License[^Fair]
+
+<Copyright Information>
+
+Usage of the works is permitted provided that this instrument is retained with 
+the works, so that any entity that uses the works is notified of this 
+instrument.
+
+DISCLAIMER: THE WORKS ARE WITHOUT WARRANTY.
+
+[^Fair]: _The Fair License_. [https://opensource.org/licenses/Fair] (https://opensource.org/licenses/Fair) (2004). 
+
+--------------------------------------------------------------------------------
+#### Free Public License 1.0.0
+The Free Public License, Version 1.0[^0BSD]
+
+Copyright (c) <year>, <copyright holder>
+
+Permission to use, copy, modify, and/or distribute this software for any 
+purpose with or without fee is hereby granted.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES 
+WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF 
+MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR 
+ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES 
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION 
+OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN 
+CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+[^0BSD]: _Free Public License, Version 1.0_, Rob Landley, [https://opensource.org/licenses/FPL-1.0.0](https://opensource.org/licenses/FPL-1.0.0) (2006). Also called the "Zero Clause BSD License."
+
+--------------------------------------------------------------------------------
+#### MIT License
+The MIT License[^MIT]
+
+Copyright <YEAR> <COPYRIGHT HOLDER>
+
+Permission is hereby granted, free of charge, to any person obtaining a 
+copy of this software and associated documentation files (the "Software"), 
+to deal in the Software without restriction, including without limitation 
+the rights to use, copy, modify, merge, publish, distribute, sublicense, 
+and/or sell copies of the Software, and to permit persons to whom the 
+Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included 
+in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS 
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL 
+THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING 
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
+DEALINGS IN THE SOFTWARE.
+
+
+[^MIT]: _The MIT License_, Massachusetts Institute of Technology. [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT) (1988). 
+
+##### Discussion
+ 
+1. The licenses above all include the permission to "use" the software. Is
+  that a patent grant or verbal shorthand for "create copies of the software
+  in a computer memory and interpret the copy by means of a processor"?
+  Could it be both? 
+
+2. To what extent does the right the "distribute \[the\] software ... with
+  or without fee" implicate the patent-reserved right to "sell" or "offer
+  to sell" the patented item?
+
+3. Software has both expressive (copyright-protected) and functional 
+  (patent-protected) elements inextricably bound together. Specifically
+  in the case of a "mixed" work such as software, does the 
+  copyright-denominated license to "copy" or "make derivative works" 
+  *necessarily" implicate the patent-denominated right to "make" the 
+  patented item? 
+
+4. As noted before, it is a standard rule of contract interpretation to 
+  construe the terms of the license against the drafter. But typically, the
+  open source licensor is not the same person as the license drafter. 
+  Further, open source licenses are *fixed*, and not subject to negotiation. 
+  Organizations choose to use particular open source licenses for many reasons. 
+  Can the use of a license that was not drafted by the licensor be construed 
+  against the licensor?
+
+
+
+  
+
 
 
 <!-- Footnotes themselves at the bottom. -->
