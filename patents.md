@@ -79,7 +79,7 @@ Excerpt from the Academic Free License, Version 3.0[^AFL]
 > use, sell, offer for sale, have made, and import the Original Work and 
 > Derivative Works.
 
-[^AFL]: _Academic Free License, Version 3.0_, Lawrence Rosen, 2002. [https://opensource.org/licenses/AFL-3.0] (https://opensource.org/licenses/AFL-3.0)  (2002). *See also* Rosen, "OSL 3.0: A Better License for Open Source Software," (2007), *available at* [http://rosenlaw.com/OSL3.0-explained.htm](http://rosenlaw.com/OSL3.0-explained.htm) 
+[^AFL]: _Academic Free License, Version 3.0_, Lawrence Rosen, 2002, *available at* [https://opensource.org/licenses/AFL-3.0] (https://opensource.org/licenses/AFL-3.0)  (2002). *See also* Rosen, "OSL 3.0: A Better License for Open Source Software," (2007), *available at* [http://rosenlaw.com/OSL3.0-explained.htm](http://rosenlaw.com/OSL3.0-explained.htm) 
 
 --------------------------------------------------------------------------------
 #### Apache 2.0
@@ -95,7 +95,7 @@ Excerpt from the Apache License, Version 2.0[^Apache2]
 > or by combination of their Contribution(s) with the Work to which such 
 > Contribution(s) was submitted.... 
 
-[^Apache2]: _Apache License, Version 2.0_, Apache Foundation, [https://www.apache.org/licenses/LICENSE-2.0](https://www.apache.org/licenses/LICENSE-2.0) (Jan. 2004).
+[^Apache2]: _Apache License, Version 2.0_, Apache Foundation, *available at* [https://www.apache.org/licenses/LICENSE-2.0](https://www.apache.org/licenses/LICENSE-2.0) (Jan. 2004).
 
 --------------------------------------------------------------------------------
 #### Eclipse Public License version 2.0
@@ -113,7 +113,7 @@ Excerpt from the Eclipse Public License, Version 2[^EPL2]
 > not apply to any other combinations which include the Contribution. No 
 > hardware per se is licensed hereunder. 
 
-[^EPL2]: _Eclipse Public License, Version 2.0_, 2017. [https://opensource.org/licenses/EPL-2.0] (https://opensource.org/licenses/EPL-2.0) (2017). 
+[^EPL2]: _Eclipse Public License, Version 2.0_, *available at*  [https://opensource.org/licenses/EPL-2.0] (https://opensource.org/licenses/EPL-2.0) (2017). 
 
 
 #### GNU General Public License 2.0
@@ -144,7 +144,7 @@ Excerpt from the GNU General Public License License, Version 2.0[^GPL2]
 > distribution of the Program.
 
 
-[^GPL2]: _GNU General Public License, Version 2.0_, 1991. [https://opensource.org/licenses/GPL-2.0] (https://opensource.org/licenses/GPL-2.0).
+[^GPL2]: _GNU General Public License, Version 2.0_, 1991, *available at* [https://opensource.org/licenses/GPL-2.0] (https://opensource.org/licenses/GPL-2.0).
 
 --------------------------------------------------------------------------------
 #### GNU General Public License 3.0
@@ -218,7 +218,7 @@ Excerpt from the GNU General Public License License, Version 3.0[^GPL3]
 > implied license or other defenses to infringement that may otherwise be 
 > available to you under applicable patent law.
 
-[^GPL3]: _GNU General Public License, Version 3.0_, 2007. [https://opensource.org/licenses/GPL-3.0] (https://opensource.org/licenses/GPL-3.0) (2002). *See also* Smith, "A Quick Guide to GPLv3," (2007), *available at* [https://www.gnu.org/licenses/quick-guide-gplv3.html](https://www.gnu.org/licenses/quick-guide-gplv3.html) and Stallman, "Why Upgrade to GPLv3," (2007), *available at* [https://www.gnu.org/licenses/rms-why-gplv3.html](https://www.gnu.org/licenses/rms-why-gplv3.html).
+[^GPL3]: _GNU General Public License, Version 3.0_, *available at* [https://opensource.org/licenses/GPL-3.0] (https://opensource.org/licenses/GPL-3.0) (2007). *See also* Smith, "A Quick Guide to GPLv3," (2007), *available at* [https://www.gnu.org/licenses/quick-guide-gplv3.html](https://www.gnu.org/licenses/quick-guide-gplv3.html) and Stallman, "Why Upgrade to GPLv3," (2007), *available at* [https://www.gnu.org/licenses/rms-why-gplv3.html](https://www.gnu.org/licenses/rms-why-gplv3.html).
 
 
 --------------------------------------------------------------------------------
@@ -255,7 +255,7 @@ Excerpt from the Mozilla Public License, Version 2.0[^MPL2]
 > 3. under Patent Claims infringed by Covered Software in the absence of its 
 > Contributions.
 
-[^MPL2]: _Mozilla Public License, Version 2.0_, 2012. [https://opensource.org/licenses/MPL-2.0] (https://opensource.org/licenses/MPL-2.0) (2012). 
+[^MPL2]: _Mozilla Public License, Version 2.0_, *available at* [https://opensource.org/licenses/MPL-2.0] (https://opensource.org/licenses/MPL-2.0) (2012). 
 
 #### Discussion
 
@@ -1385,7 +1385,7 @@ ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-[^BSD4]: _The 2-Clause BSD License_, Regents of the University of California.   [https://opensource.org/licenses/BSD-2-Clause] (https://opensource.org/licenses/BSD-2-Clause) (1999). 
+[^BSD4]: _The 2-Clause BSD License_, Regents of the University of California, *available at* [https://opensource.org/licenses/BSD-2-Clause] (https://opensource.org/licenses/BSD-2-Clause) (1999). 
 
 --------------------------------------------------------------------------------
 #### Fair License
@@ -1399,7 +1399,7 @@ instrument.
 
 DISCLAIMER: THE WORKS ARE WITHOUT WARRANTY.
 
-[^Fair]: _The Fair License_. [https://opensource.org/licenses/Fair] (https://opensource.org/licenses/Fair) (2004). 
+[^Fair]: _The Fair License_, *available at*  [https://opensource.org/licenses/Fair] (https://opensource.org/licenses/Fair) (2004). 
 
 --------------------------------------------------------------------------------
 #### Free Public License 1.0.0
@@ -1418,7 +1418,7 @@ WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION
 OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN 
 CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
-[^0BSD]: _Free Public License, Version 1.0_, Rob Landley, [https://opensource.org/licenses/FPL-1.0.0](https://opensource.org/licenses/FPL-1.0.0) (2006). Also called the "Zero Clause BSD License."
+[^0BSD]: _Free Public License, Version 1.0_, Rob Landley, *available at* [https://opensource.org/licenses/FPL-1.0.0](https://opensource.org/licenses/FPL-1.0.0) (2006). Also called the "Zero Clause BSD License."
 
 --------------------------------------------------------------------------------
 #### MIT License
@@ -1445,7 +1445,7 @@ FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
 DEALINGS IN THE SOFTWARE.
 
 
-[^MIT]: _The MIT License_, Massachusetts Institute of Technology. [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT) (1988). 
+[^MIT]: _The MIT License_, Massachusetts Institute of Technology, *available at* [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT) (1988). 
 
 ##### Discussion
  
@@ -1459,11 +1459,10 @@ DEALINGS IN THE SOFTWARE.
   to sell" the patented item?
 
 3. Software has both expressive (copyright-protected) and functional 
-  (patent-protected) elements inextricably bound together. Specifically
-  in the case of a "mixed" work such as software, does the 
-  copyright-denominated license to "copy" or "make derivative works" 
-  *necessarily" implicate the patent-denominated right to "make" the 
-  patented item? 
+  (patent-protected) elements inextricably bound together. In the case 
+  of a "mixed" work such as software, does the copyright-denominated 
+  license to "copy" or "make derivative works" *necessarily* implicate 
+  the patent-denominated right to "make" the patented item? 
 
 4. As noted before, it is a standard rule of contract interpretation to 
   construe the terms of the license against the drafter. But typically, the
