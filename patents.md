@@ -102,7 +102,7 @@ Excerpt from the Apache License, Version 2.0[^Apache2]
 Excerpt from the Eclipse Public License, Version 2[^EPL2]
 
 > **2\. GRANT OF RIGHTS**
-> [...] b) Subject to the terms of this Agreement, each Contributor hereby 
+> \[...\] b) Subject to the terms of this Agreement, each Contributor hereby 
 > grants Recipient a non-exclusive, worldwide, royalty-free patent license 
 > under Licensed Patents to make, use, sell, offer to sell, import and 
 > otherwise transfer the Contribution of such Contributor, if any, in Source 
@@ -122,13 +122,13 @@ Excerpt from the GNU General Public License License, Version 2.0[^GPL2]
 
 > **Preamble** 
 > 
-> [...] Finally, any free program is threatened constantly by software > 
+> \[...\] Finally, any free program is threatened constantly by software > 
 > patents. We wish to avoid the danger that redistributors of a free program 
 > will individually obtain patent licenses, in effect making the program 
 > proprietary. To prevent this, we have made it clear that any patent must 
 > be licensed for everyone's free use or not licensed at all.
 
-[...]
+\[...\]
 
 > 7\. If, as a consequence of a court judgment or allegation of patent 
 > infringement or for any other reason (not limited to patent issues), 
@@ -232,11 +232,11 @@ Excerpt from the Mozilla Public License, Version 2.0[^MPL2]
 > Each Contributor hereby grants You a world-wide, royalty-free, 
 > non-exclusive license:
 
-> [...] under Patent Claims of such Contributor to make, use, sell, offer 
+> \[...\] under Patent Claims of such Contributor to make, use, sell, offer 
 > for sale, have made, import, and otherwise transfer either its 
 > Contributions or its Contributor Version.
 
-[...]
+\[...\]
 
 > **2\.3\. Limitations on Grant Scope**
 >
@@ -400,7 +400,7 @@ been licensed under this Agreement. As used herein, a Licensee’s “Amendment
 Date” shall mean the later of the date an amendment becomes effective under 
 Section 2.1 and the date such Licensee becomes a Licensee.
 
-[...]
+\[...\]
 
 **Definitions:**
 
@@ -640,7 +640,7 @@ replaceable form of computer memory. On September 2, 1983, Clayton, with
 Wang as assignee, applied for a patent on the SIMM invention, application 
 serial number 528,817. 
 
-[...]
+\[...\]
 
 Mitsubishi first met with Wang regarding SIMMs in December 1983. In their 
 meetings, Wang supplied drawings and other details to Mitsubishi and 
@@ -655,10 +655,10 @@ purchaser.
 
 In 1985 meetings, in the context of ongoing contacts between the two 
 companies, Mitsubishi and Wang discussed Mitsubishi's new 256K SIMMs.
-[^WangFN2]  In one meeting, Clayton suggested that Mitsubishi modify its 
+\[Footnote Omitted\] In one meeting, Clayton suggested that Mitsubishi modify its 
 SIMM by placing the decoupling capacitors on the same side of the substrate 
 with the chips, as in the original Wang design. Mitsubishi complied. 
-Mitsubishi went on to mass produce 256K SIMMs;  and in 1987, Wang began 
+Mitsubishi went on to mass produce 256K SIMMs; and in 1987, Wang began 
 buying Mitsubishi SIMMs. Wang never informed Mitsubishi of its patent 
 applications, patents, or of any intent to execute a license or receive 
 royalties until a December 22, 1989 letter accusing Mitsubishi of infringing 
@@ -675,10 +675,10 @@ and federal antitrust violations. Mitsubishi also asserted several
 affirmative defenses, including the defense that Wang's conduct created an 
 implied license.
 
-[...] 
+\[...\] 
 
 ...Wang and Mitsubishi fought over the formulation of the implied license 
-instruction to the jury. Wang submitted legal estoppel language;  Mitsubishi 
+instruction to the jury. Wang submitted legal estoppel language; Mitsubishi 
 objected and offered equitable estoppel or estoppel by conduct as the basis 
 of its license. The final instruction merged the parties' competing proposals 
 into one instruction which read as follows:
@@ -689,12 +689,13 @@ into one instruction which read as follows:
 > person allowed to do the set of acts is a licensee.
 > 
 > An implied license is a form of implied-in-fact contract. In order to 
-> proved [sic] the defense of implied license, [Mitsubishi] must establish
-> by a preponderance of the evidence that (1) there was an existing 
-> relationship between Wang and [Mitsubishi];  (2) within that relationship, 
-> Wang transferred a right to use SIMM invention to [Mitsubishi];  (3) the 
-> right was transferred for valuable consideration;  and (4) Wang has now
->  denied the existence of the right it transferred to [Mitsubishi].
+> proved \[sic\] the defense of implied license, \[\Mitsubishi\] must 
+> establish by a preponderance of the evidence that (1) there was an 
+> existing relationship between Wang and \[Mitsubishi\]; (2) within 
+> that relationship, Wang transferred a right to use SIMM invention to 
+> \[Mitsubishi\]; (3) the right was transferred for valuable 
+> consideration; and (4) Wang has now denied the existence of the right 
+> it transferred to \[Mitsubishi\].
 > 
 > In deciding whether [Mitsubishi has] proved the existence of an implied 
 > license, you may consider statements and conduct of Wang from which one 
@@ -702,13 +703,13 @@ into one instruction which read as follows:
 > selling products to persons other than Wang under the patents.
 > 
 > If you find that a right to make, use, or sell the SIMM invention  
-> granted to [Mitsubishi] then you should find and [sic] implied license 
-> was granted to [Mitsubishi] by Wang.
+> granted to \[Mitsubishi\] then you should find and \[sic\] implied 
+> license was granted to \[Mitsubishi\] by Wang.
 
 The relevant question to the jury on the Special Verdict Form read, “Has 
 Mitsubishi proven by a preponderance of the evidence that Wang licensed 
 Mitsubishi to make, use, or sell the subject matter of the '513 patent?. 
-The jury answered “Yes.” [...] 
+The jury answered “Yes.” \[...\] 
 
 After the verdict, the court held a hearing on Mitsubishi's equitable 
 defenses, then directed Wang to draft a proposed judgment and findings of 
@@ -732,7 +733,7 @@ license conclusion mandated a finding that an implied contract existed and
 that, assuming an absence of other consideration, Mitsubishi must have 
 promised royalties to Wang.
 
-[...]
+\[...\]
 
 **ANALYSIS**
 
@@ -742,7 +743,7 @@ implied license issue to negate infringement of the '513 patent.
 Mitsubishi cross-appeals from the judgment on best mode, nonobviousness, 
 and infringement.
 
-[...]
+\[...\]
 
 **The '513 Patent: Implied License**
 
@@ -795,9 +796,9 @@ the jury instructions and verdict to discover what the jury understood to
 constitute “valuable consideration.. The district court's order denying 
 Wang's motion for JMOL identified three benefits conferred on Wang: (1) by 
 agreeing to manufacture and sell SIMMs, Mitsubishi contributed to a “high 
-volume supply and downward pressure on [the] price” of SIMMs, which 
-benefited Wang as a purchaser of SIMMs;  (2) Mitsubishi absorbed development 
-and tooling costs;  and, (3) Mitsubishi redesigned its SIMMs to conform to 
+volume supply and downward pressure on \[the\] price” of SIMMs, which 
+benefited Wang as a purchaser of SIMMs; (2) Mitsubishi absorbed development 
+and tooling costs; and, (3) Mitsubishi redesigned its SIMMs to conform to 
 Wang's preferred design. The district court ruled that each form of 
 consideration was supported by substantial evidence.
 
@@ -809,7 +810,7 @@ reduction because of the volumes involved.. The evidence indicates that Wang
 considered lower prices and a larger market to be of value to it, as they 
 obviously were as a large user of SIMMs. In time, JEDEC adopted Wang's SIMM 
 design as a standard in what became a multi-billion dollar market. The 
-market grew;  prices dropped. The record contains evidence that Mitsubishi 
+market grew; prices dropped. The record contains evidence that Mitsubishi 
 contributed to this advantageous outcome. Clayton's notes about Mitsubishi, 
 for example, contain references to prices “dropping to mid-teens.. Wang 
 introduced evidence that dozens of producers have participated in making the 
@@ -828,7 +829,7 @@ customers. Clayton's notes reveal that, from the first meeting onward, he
 closely followed Mitsubishi's development and tooling of SIMMs with 64K or 
 256K chips in PLCCs. Clayton clearly wanted Mitsubishi to make 64K SIMMs, 
 which Mitsubishi decided against, but Clayton also sought “to open 
-[communication with] Japan for us on a 256K X9 SIMM. All the while, Wang 
+\[communication with\] Japan for us on a 256K X9 SIMM. All the while, Wang 
 and Mitsubishi exchanged designs and samples. A reasonable person could 
 conclude that Wang received something it valued because Mitsubishi was 
 persuaded to follow Wang's design suggestions, but was led to believe the 
@@ -861,8 +862,8 @@ attempted to identify and isolate various avenues to an implied license.
 As a result, courts and commentators relate that implied licenses arise by 
 acquiescence, by conduct, by equitable estoppel (estoppel in pais), or by 
 legal estoppel. See _AMP, Inc. v. United States_, 182 Ct.Cl. 86, 389 F.2d 
-448, 452 nn. 4-5, 156 USPQ 647, 649 nn. 4-5 (1968);  Robert L. Harmon, 
-Patents and the Federal Circuit § 6.2(c) (3d ed. 1994 & Supp.1996);  6 Ernest 
+448, 452 nn. 4-5, 156 USPQ 647, 649 nn. 4-5 (1968); Robert L. Harmon, 
+Patents and the Federal Circuit § 6.2(c) (3d ed. 1994 & Supp.1996); 6 Ernest 
 B. Lipscomb III, Walker on Patents § 20:14-20:17 (3d ed. 1987 & Supp.1995). 
 These labels describe not different kinds of licenses, but rather different 
 categories of conduct which lead to the same conclusion: an implied license. 
@@ -875,7 +876,7 @@ The opinions that hew most closely to the *De Forest* language and the “entire
 course of conduct” analysis rely on the doctrine of equitable estoppel, 
 because *De Forest* requires that conduct of the patentee led the other to 
 act. _Bandag, Inc. v. Al Bolser's Tire Stores, Inc._, 750 F.2d 903, 925-26, 
-223 USPQ 982, 998-99 (Fed.Cir.1984);  _Stickle v. Heublein, Inc._, 716 F.2d 
+223 USPQ 982, 998-99 (Fed.Cir.1984); _Stickle v. Heublein, Inc._, 716 F.2d 
 1550, 1559, 219 USPQ 377, 383 (Fed.Cir. 1983). In *Bandag*, we reversed a 
 conclusion of implied license because the infringer failed to show an 
 awareness of the conduct which supposedly created the license. *Bandag*, 750 
@@ -910,7 +911,7 @@ misleading conduct as a required component of that defense.
 Legal estoppel refers to a narrower category of conduct encompassing 
 scenarios where a patentee has licensed or assigned a right, received 
 consideration, and then sought to derogate from the right granted. 
-*Spindelfabrik*, 829 F.2d at 1080, 4 USPQ2d at 1048;  AMP 389 F.2d at 452, 156 
+*Spindelfabrik*, 829 F.2d at 1080, 4 USPQ2d at 1048; AMP 389 F.2d at 452, 156 
 USPQ at 649-50. In *AMP*, for example, a patentee granted a license to, and 
 received payment from, the United States for use of an “idea” which later 
 became the subject matter of its patent. *Id*. at 453-54, 182 Ct.Cl. 86, 389 
@@ -986,6 +987,44 @@ as discussed in *De Forest* and subsequent cases relying on equitable estoppel
 as a guideline. We further hold that the district court did not abuse its 
 discretion by denying Wang a partial new trial on this issue.
 
+#### A. C. Aukerman Co. v. R. L. Chaides Construction Co
+
+--------------------------------------------------------------------------------
+
+Excerpt from _A. C. Aukerman Co. v. R. L. Chaides Constr. Co._, Fed. Cir. 1992[^AukermanHeadnote]
+
+[^AukermanHeadnote]: _A. C. Aukerman Co. v. R. L. Chaides Constr. Co._, 960 F.2d 1020, 1041-1043 (1992), *reversed on other grounds*, _available at_ [https://law.justia.com/cases/federal/appellate-courts/F2/960/1020/350110/](https://law.justia.com/cases/federal/appellate-courts/F2/960/1020/350110/)
+
+An \[equitable\] estoppel case ... has three important elements. \[1\] 
+The actor, who usually must have knowledge of the true facts, 
+communicates something in a misleading way, either by words, conduct or 
+silence. \[2\] The other relies upon that communication. \[3\] And the 
+other would be harmed materially if the actor is later permitted 
+to assert any claim inconsistent with his earlier conduct.
+
+\[...\]
+
+The first element of equitable estoppel concerns the statements or 
+conduct of the patentee which must "communicate something in a misleading 
+way." The "something" with which this case, as well as the vast majority 
+of equitable estoppel cases in the patent field is concerned, is that the 
+accused infringer will not be disturbed by the plaintiff patentee in the 
+activities in which the former is currently engaged.  The patentee's 
+conduct must have supported an inference that the patentee did not intend 
+to press an infringement claim against the alleged infringer. It is 
+clear, thus, that for equitable estoppel the alleged infringer cannot be 
+unaware--as is possible under laches--of the patentee and/or its patent. 
+The alleged infringer also must know or reasonably be able to infer that 
+the patentee has known of the former's activities for some time.... 
+
+The second element, reliance... is essential to equitable estoppel. The 
+accused infringer must show that, in fact, it substantially relied on the 
+misleading conduct of the patentee in connection with taking 
+some action....
+
+Finally, the accused infringer must establish that it would be materially 
+prejudiced if the patentee is now permitted to proceed.
+
 ##### Discussion
  
 1. The *De Forest* court found that the patent owner's statements and ongoing
@@ -1014,10 +1053,14 @@ discretion by denying Wang a partial new trial on this issue.
   works under public licenses that range far beyond traditional license 
   royalties." _Jacobsen v. Katzer_, 535 F.3d 1373, 1379).  
   
-4. "Equitable estoppel... focuses on “misleading” conduct suggesting that the 
-  patentee will not enforce patent rights." (*Wang* at 1271). Is distribution
-  of source code or binaries under an open source license the sort of conduct
-  that suggests non-enforcement of patent rights? Why or why not?
+4. "Equitable estoppel... focuses on “misleading” conduct suggesting that 
+  the patentee will not enforce patent rights." (*Wang* at 1271). Is 
+  distribution of source code or binaries under an open source license 
+  the sort of conduct that suggests non-enforcement of patent rights? 
+  Is the name of the copyright holder on the license enough to make the
+  user of the open source aware "of the patentee and/or its patent"? 
+  (*Aukerman* at 1042)
+
   
 ### Limitations on Implicit Patent Licenses
 
@@ -1128,7 +1171,7 @@ _Hilgraeve Corp. v. Symantec Corp._, 265 F.3d 1336, Fed. Cir. 2001 [^HilgraeveHe
 
 [^HilgraeveHeadnote]: _Hilgraeve Corp. v. Symantec Corp._, 265 F.3d 1336 (2001), _available at_ [https://caselaw.findlaw.com/us-federal-circuit/1040027.html](https://caselaw.findlaw.com/us-federal-circuit/1040027.html)
 
-[...]
+\[...\]
 
 IV. *Symantec's Licensing Defense*
 
@@ -1164,7 +1207,7 @@ this language, Symantec urges us to find that:
 > 'Software' is more than source code and object code. . . . When read in 
 > conjunction with the . . . 'know-how' and 'technical expertise' 
 > transferred to Delrina (Delaware), Delrina (Delaware) essentially acquired 
-> Hilgraeve's entire knowledge base with respect to [Hilgraeve's] products. 
+> Hilgraeve's entire knowledge base with respect to \[Hilgraeve's\] products. 
 > Since the Software included in-transit anti-virus features, Delrina 
 > acquired Hilgraeve's knowledge base with respect to those in-transit 
 > anti-virus features and could use that knowledge base as it pleased."
@@ -1186,7 +1229,7 @@ rights in the Software," but failed to mention the transfer of patent
 rights. From the terms of the contract we cannot conclude that the parties 
 intended to transfer any patent rights. Symantec relies on _Allan v. Bushnell 
 T.V. Co., Ltd._, 1 D.L.R. (3d) 534, 539 (Ont. High Ct. 1968) for the 
-proposition that "unexpressed terms [are implied] to implement [the] 
+proposition that "unexpressed terms \[are implied\] to implement \[the\] 
 parties' presumed intention." Allan, however, stated that
 
 > the presumption is against the adding to contracts of terms which the 
@@ -1245,16 +1288,11 @@ grant a transferable license to the patent.
 
 3. Is it significant that the contract in _Hilgraeve_ provided for the 
   *transfer* of copyrights, as opposed to the licensing of the copyrights?
-  Would a court be more likely to f
+  Would a court be more likely to find that the repeated granting of a
+  license, such as occurs in open source licensing, to support an implied
+  right to use any implicated patents?
   
-    _State Contracting_ found that there was licensing of both 
-  trade secrets and patents, but only the future use of trade secrets was 
-  contemplated under the contract. To what extent is it relevant that the 
-  contract in _State Contracting_ "only conveyed rights to use 'data' in 
-  future contracts," as opposed to language that implied patentable elements
-  like processes?
 
-  
 
 <!-- Footnotes themselves at the bottom. -->
 
