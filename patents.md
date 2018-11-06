@@ -25,7 +25,7 @@ not enough to identify whether there is an effective grant of patent rights.
 For example, the Open Source Initiative has stated its view that all open 
 source licenses implicitly include a patent grant, relying on the text of 
 elements 1 and 7 of the open source definition.[^OpenSourceDefinition1and7] 
-Further, even when there is an explicit patent grant, the scope of the patent 
+Further, even when there is an explicit patent grant, the scope of the patent  
 grant may not be well-defined. Finally, the distribution of open 
 source-licensed software may have implications for patent exhaustion.
 
@@ -1637,12 +1637,12 @@ Cutlery, Inc._, 67 F.3d 917, 920 (Fed.Cir. 1995)).
 
 Here, the parties agree that Connecticut law applies to the interpretation of 
 the 1998 Supply Agreement upon which Defendants' claim of express license is 
-based. Under Connecticut law, "\[a\]lthough ordinarily the question of contract 
-interpretation, being a question of the parties' intent, is a question of fact, 
-where there is definitive contract language, the determination of what the 
-parties intended by their contractual commitments is a question of law." _Hanks 
-v. Powder Ridge Restaurant Corp._, 276 Conn. 314, 885 A.2d 734, 739 (2005) 
-(internal citations omitted).
+based. Under Connecticut law, "\[a\]lthough ordinarily the question of 
+contract interpretation, being a question of the parties' intent, is a 
+question of fact, where there is definitive contract language, the 
+determination of what the parties intended by their contractual commitments is 
+a question of law." _Hanks v. Powder Ridge Restaurant Corp._, 276 Conn. 314, 
+885 A.2d 734, 739 (2005) (internal citations omitted).
 
 B. *Defendants' Motion for Summary Judgment*
 
@@ -1704,8 +1704,8 @@ A.2d 558, 562 (1998); see also _McCann Real Equities Series XXII, LLC v. David
 McDermott Chevrolet, Inc._, 93 Conn.App. 486, 890 A.2d 140, 153 (2006) ("When 
 only one interpretation of a contract is possible, the court need not look 
 outside the four corners of the contract."). The parties' intent is not clear 
-and unambiguous from the four corners of the 1998 Supply Agreement with respect 
-to whether the Agreement grants licenses to patents necessary for the 
+and unambiguous from the four corners of the 1998 Supply Agreement with 
+respect to whether the Agreement grants licenses to patents necessary for the 
 performance of the parties' contractual obligations.
 
 Section 10 of the 1998 Supply Agreement provides:
@@ -1718,9 +1718,10 @@ In order to grant summary judgment for Plaintiffs on this question, I would
 have to find that the language of Section 10 clearly and unambiguously 
 forecloses any express or implied license to the '427 patent. Section 10's 
 plain terms do not do this. Plaintiffs would have me read this provision as 
-stating simply that "no license, express or implied, is granted by one party to 
-the other hereunder." Such a statement would indeed have been an unambiguous 
-expression that the contract foreclosed any express or implied licenses. 
+stating simply that "no license, express or implied, is granted by one party 
+to the other hereunder." Such a statement would indeed have been an 
+unambiguous expression that the contract foreclosed any express or implied 
+licenses. 
 
 Yet Section 10 does not say that; rather it states that the Agreement 
 creates no express or implied licenses "*save* for those purposes which permit 
@@ -1729,14 +1730,14 @@ plausible reading of this provision would thus be that it *does* grant such
 licenses as are necessary to the performance of the 1998 Supply Agreement.
 
 At the very least, Section 10 does not clearly and unambiguously rule out 
-an implied license to the '427 patent. \[FN12] To the contrary, the provision 
+an implied license to the '427 patent. \[FN12\] To the contrary, the provision 
 seems to contemplate the possibility that one or more patent licenses would 
 be necessary to the performance of the Agreement, and carves out such licenses 
 from the general statement that "no license, express or implied, is granted by 
-one party to the other hereunder." Thus, Plaintiffs are not entitled to summary 
-judgment because the 1998 Supply Agreement does not, as a matter of law, 
-foreclose the possibility of a license to the '427 patent. There is a genuine 
-issue of material fact as to this question.
+one party to the other hereunder." Thus, Plaintiffs are not entitled to 
+summary judgment because the 1998 Supply Agreement does not, as a matter of 
+law, foreclose the possibility of a license to the '427 patent. There is a 
+genuine issue of material fact as to this question.
 
 Plaintiffs also argue that, read as a whole, the 1998 Supply Agreement cannot 
 be interpreted to create a license to the '427 patent, because it incorporates 
@@ -1756,20 +1757,20 @@ patents in 1993, creates a presumption that the 1998 Agreement creates no new
 licenses.
 
 If the 1998 Supply Agreement itself had explicitly mentioned a license to the 
-Scripps patents, or to some other patent, and conspicuously omitted any mention 
-of the '427 patent, Plaintiffs' argument might have some force. See, e.g., 
-*State Contracting*, 258 F.3d at 1340 ("The provision for licensing of patents 
-is limited to work under the contract and does not convey any license to future 
-use of the patented technology. The existence of this provision shows that, if 
-the parties had intended to convey other patent rights, they would have done so 
-explicitly."); _Hilgraeve Corp. v. Symantec Corp._, 265 F.3d 1336, 1345 
-(Fed.Cir.2001) ("Here, the contract provided for Hilgraeve to transfer `all 
-copyright rights in the Software,' but failed to mention the transfer of patent 
-rights. From the terms of the contract we cannot conclude that the parties 
-intended to transfer any patent rights."). However, because the 1998 Supply 
-Agreement is completely silent on the issue of licenses to intellectual 
-property (aside from Section 10, which I have already found to be ambiguous), 
-Plaintiffs' argument fails.
+Scripps patents, or to some other patent, and conspicuously omitted any 
+mention of the '427 patent, Plaintiffs' argument might have some force. 
+See, e.g., *State Contracting*, 258 F.3d at 1340 ("The provision for licensing 
+of patents is limited to work under the contract and does not convey any 
+license to future use of the patented technology. The existence of this 
+provision shows that, if the parties had intended to convey other patent 
+rights, they would have done so explicitly."); _Hilgraeve Corp. v. Symantec 
+Corp._, 265 F.3d 1336, 1345 (Fed.Cir.2001) ("Here, the contract provided for 
+Hilgraeve to transfer `all copyright rights in the Software,' but failed to 
+mention the transfer of patent rights. From the terms of the contract we cannot 
+conclude that the parties intended to transfer any patent rights."). However, 
+because the 1998 Supply Agreement is completely silent on the issue of licenses 
+to intellectual property (aside from Section 10, which I have already found to
+be ambiguous), Plaintiffs' argument fails.
 
 There are genuine issues of material fact as to whether the 1998 Supply 
 Agreement was intended to create a license to the '427 patent as a patent 
@@ -1827,11 +1828,12 @@ W. H. DRAKE, Bankruptcy Judge
 Before the Court is the Motion to Reject Exclusive Marketing Agreement with 
 Windsor Distribution Corporation, filed by Davidson Hydrant Technologies, Inc. 
 (hereinafter the "Debtor"). Windsor Technologies Corporation, f/k/a Windsor 
-Distribution Corporation (hereinafter "Windsor") objects to the Motion. Windsor 
-asserts that section 365(n)(1) of the Bankruptcy Code applies to permit Windsor 
-to retain certain rights allegedly provided under the agreement between the 
-parties. This matter is a core proceeding, pursuant to 
-28 U.S.C. § 157(b)(2)(A), over which this Court has subject matter jurisdiction. See 28 U.S.C. § 1334.
+Distribution Corporation (hereinafter "Windsor") objects to the Motion. 
+Windsor asserts that section 365(n)(1) of the Bankruptcy Code applies to 
+permit Windsor to retain certain rights allegedly provided under the agreement 
+between the parties. This matter is a core proceeding, pursuant to 
+28 U.S.C. § 157(b)(2)(A), over which this Court has subject matter 
+jurisdiction. See 28 U.S.C. § 1334.
 
 **BACKGROUND AND PROCEDURAL HISTORY**
 
@@ -1846,9 +1848,10 @@ The pertinent aspects of the Agreement are as follows:
 
 > * Davidson hereby engages Windsor, and Windsor hereby accepts such 
 >   engagement, to market and promote the Products, Davidson's training, and 
->   installation services within the Territory, all strictly in accordance with 
->   the terms and conditions of this Agreement. Subject to Section 10, Davidson 
->   engages Windsor on an exclusive basis within the Territory during the Term. 
+>   installation services within the Territory, all strictly in accordance 
+>   with the terms and conditions of this Agreement. Subject to Section 10, 
+>   Davidson engages Windsor on an exclusive basis within the Territory during 
+>   the Term. 
 >   Agreement, § 2A.
 
 \[...\]
@@ -1864,8 +1867,8 @@ intellectual property. In support of its position, Debtor states that the
 Agreement provided Debtor the right to accept or reject any purchase order 
 submitted by Windsor, and the Agreement only provided Windsor with a license 
 to use Debtor's trademarks, which are excluded from the Bankruptcy Code's 
-definition of intellectual property. The Debtor further submits that no implied 
-license to offer the products for sale arose because Debtor lacked the 
+definition of intellectual property. The Debtor further submits that no 
+implied license to offer the products for sale arose because Debtor lacked the 
 requisite intent to grant Windsor a license and Windsor gave no consideration 
 for the alleged implied license.
 
@@ -1887,9 +1890,9 @@ licensor not to sue the licensee." _A. Natterman & CIE Gmbh v. Bayer Corp._,
 428 F.Supp.2d 253, 258 (E.D. Pa. 2006); _In re Spansion, Inc._, 2011 
 3268084, * 7 (D. Del. July 26, 2011). Under the Bankruptcy Code, "intellectual 
 property" includes a trade secret; invention, process, design, or plant 
-protected under title 35; patent application; plant variety; work of authorship 
-protected under title 17; or mask work protected under chapter 9 of title 17, 
-"to the extent protected by applicable nonbankruptcy law." 
+protected under title 35; patent application; plant variety; work of 
+authorship protected under title 17; or mask work protected under chapter 9 of 
+title 17, "to the extent protected by applicable nonbankruptcy law." 
 11 U.S.C. § 101(35A). Accordingly, a "licensor of a right to intellectual 
 property" within the meaning of section 365(n)(1), is a party who has been 
 authorized to use, make, or sell a trade secret, a patented invention, process, 
@@ -1897,31 +1900,31 @@ design, or plant, a plant variety, a copyrighted work of authorship, or a mask
 work. *Spansion*, 2011 WL 3268084 at *7.
 
 Further, under federal patent law, a patent is considered to be a "bundle of 
-rights." See _Carborundum Co. v. Molten Metal Equip. Innovations_, 72 F.3d 872, 
+rights." See _Carborundum Co. v. Molten Metal Equip. Innovations_, 72 F.3d 872,
 878 (Fed. Cir. 1995). Each "stick" in the bundle can be licensed to another 
 party. Here, Windsor asserts that the right to offer for sale a patented 
-product is such a "stick" in the bundle of rights. This assertion is consistent 
-with patent law, which permits the holder of a patent to sue a party for patent 
-infringement if the party offers to sell a product using the patent holder's 
-patent without authorization. See 35 U.S.C. § 271(a).
+product is such a "stick" in the bundle of rights. This assertion is 
+consistent with patent law, which permits the holder of a patent to sue a 
+party for patent infringement if the party offers to sell a product using the 
+patent holder's patent without authorization. See 35 U.S.C. § 271(a).
 
 Windsor contends that the Agreement permits Windsor to offer Debtor's products 
-for sale. If so, the authorization to offer the products for sale without being 
-subject to suit for infringement of Debtor's patent constitutes the license of 
-a right in the patent. For purposes of determining whether particular conduct 
-constitutes an "offer to sell," the term "offer to sell" is "interpreted 
-according to its ordinary meaning in contract law, as revealed by traditional 
-sources of authority." _Rotec Indus., Inc. v. Mitsubishi Corp._, 215 F.3d 1246 
-(Fed. Cir. 2000).... 
+for sale. If so, the authorization to offer the products for sale without 
+being subject to suit for infringement of Debtor's patent constitutes the 
+license of a right in the patent. For purposes of determining whether 
+particular conduct constitutes an "offer to sell," the term "offer to sell" is 
+"interpreted according to its ordinary meaning in contract law, as revealed by 
+traditional sources of authority." _Rotec Indus., Inc. v. Mitsubishi Corp._, 
+215 F.3d 1246 (Fed. Cir. 2000).... 
 
 **B. Whether the Agreement Grants a License of Intellectual Property**
 
 Under federal patent law, a license of intellectual property can be either 
-express or implied. See Bayer Corp., 428 F.Supp. at 258. "An express license is 
-merely '\[o\]ne which is granted in direct terms.'" *Id, n.8 (quoting BLACK'S 
-LAW DICTIONARY 920 (6th ed. 1990)). Whether a contract includes a license to 
-intellectual property is a matter of contract interpretation. _Wisconsin Alumni 
-Research Foundation v. Intel Corp._, 656 F.Supp.2d 898, 910 (W.D. Wis. 2009) 
+express or implied. See Bayer Corp., 428 F.Supp. at 258. "An express 
+license is merely '\[o\]ne which is granted in direct terms.'" *Id, n.8 
+(quoting BLACK'S LAW DICTIONARY 920 (6th ed. 1990)). Whether a contract 
+includes a license to intellectual property is a matter of contract 
+interpretation. _Wisconsin AlumniResearch Foundation v. Intel Corp._, 656 F.Supp.2d 898, 910 (W.D. Wis. 2009) 
 (citing _State Contracting & Engineering Corp. v. Florida_, 258 F.3d 1329, 1339 
 (Fed. Cir. 2001)). Here, the parties agree that Georgia contract law applies.
 
@@ -1980,11 +1983,152 @@ in writing . . . by \[Debtor\]." Agreement, Exhibit B, § 1. Therefore, under
 Georgia contract law and general principles of patent law, Windsor could not 
 offer the products for sale....
 
+#### XimpleWare, Inc. v. Versata Software, Inc
+
+--------------------------------------------------------------------------------
+_XimpleWare, Inc. v. Versata Software, Inc_, 2014 U.S. Dist. LEXIS 68515 (N.D.Cal 2014).[^XimplewareHeadnote]
+
+The GNU General Public License, version 2, is unique in that it mentions patents
+but does not include a specific patent grant. In this holding from the 
+*Ximpleware* court, the court evaluates whether the GNU GPL, version 2's
+also includes a patent license.
+
+[^XimplewareHeadnote]: _XimpleWare, Inc. v. Versata Software, Inc_, 2014 U.S. Dist. LEXIS 68515 (N.D.Cal 2014), _available at_ [https://advance.lexis.com/api/permalink/e29c4c06-bb22-4928-a9e6-5eb36f910ca2/?context=1000516](https://advance.lexis.com/api/permalink/e29c4c06-bb22-4928-a9e6-5eb36f910ca2/?context=1000516)
+
+Opinion by: PAUL S. GREWAL
+
+**Opinion**
+
+**ORDER GRANTING-IN-PART DEFENDANTS' MOTIONS TO DISMISS**
+
+Think of the millions of lines of source code licensed in this country and 
+around the world under the terms of version 2 of Richard Stallman's GNU General 
+Public License. And yet it appears that only one court has yet to weigh in on 
+an elementary question arising from the license: what does it mean to 
+distribute? Before the court are four motions to dismiss that place that 
+question front-and-center. The motions are brought by Defendants: (1) 
+Ameriprise Financial, Inc. and Ameriprise Financial Services, Inc.; (2) United 
+HealthCare Services, Inc.; (3) Pacific Life Ins. Co., the Prudential Ins. Co. 
+of America, Wellmark, Inc. and Aviva USA Corp., and (4) Versata Software, Inc., 
+Trilogy Development Group, Inc. and Aurea Software, Inc. Plaintiff XimpleWare, 
+Inc. opposes each motion, and the parties appeared for a hearing.5Link to the 
+text of the note After considering the arguments, both at the hearing and in 
+the papers, the court adopts in its entirety Judge Ilston's recent conclusion 
+that the kind of source code distribution alleged here can establish a breach 
+of the GPL sufficient to render the use of code unlicensed. But distribution by 
+one customer is not distribution by all. The motions are therefore GRANTED, but 
+only IN-PART.
+
+**I. BACKGROUND**
+
+**A. The Parties**
+
+Plaintiff XimpleWare is a California corporation based in Milpitas engaged in 
+the design, development and distribution of computer software. XimpleWare spent 
+over a decade developing and fine-tuning its copyrighted software product, 
+known as "VTD-XML" or "VTD XML Extended" (collectively, the "Product"), which 
+reads and parses XML code more efficiently and faster than alternative XML 
+parsers. Efficiency and speed are critical in many applications of XML, 
+especially in large scale enterprise data interchange applications where entire 
+server computers are dedicated to handling streams of XML data. If XML data can 
+be processed faster, then fewer servers are needed, less leased space in data 
+centers is needed for those servers, and less energy is required to power those 
+servers—altogether greatly reducing computing needs and costs.
+
+XimpleWare made the business decision to license the Product and related source 
+code under an "open source" license known as the GNU General Public License 
+version 2. The GPL requires, among other things, that: (1) any changes made to 
+the code carry notices stating that the files were changed, and the dates of 
+all changes; (2) any code created or derived from GPL-protected code must also 
+be licensed under the GPL; (3) copyright notices must print or display when the 
+code is run; and (4) when distributed, the program must be accompanied by the 
+complete machine-readable source code. All four conditions must be met, and the 
+GPL requires strict compliance.
+
+XimpleWare is the owner of all right, title, and interest in various patents 
+related to the Product and related source code, including U.S. Patent Nos. 7,
+133,857, 7620,652, and 7,761,459. The first patent at issue (the '857 Patent), 
+filed in 2002 and issued in 2006, is titled "Processing Structured Data," and 
+contains 43 claims (including 7 independent claims) covering methods, 
+apparatuses, and program storage devices for "efficiently processing a 
+structured data file" or "efficiently processing structured data"—including 
+XML. The '652 Patent, filed in 2006 and issued in 2009, contains 35 claims 
+(including 8 independent claims) for methods, apparatuses, and program storage 
+devices, and focuses on efficiently processing structured data like XML. The 
+'459 Patent, filed in 2006 and issued in 2010, contains 24 claims (including 4 
+independent claims) for methods, apparatuses, hardware devices, and program 
+storage devices, and again focuses on efficiently processing structured data 
+like XML....
+
+**B. XimpleWare's Patent Infringement Claims**
+
+This case spawned from earlier litigation between Versata and Ameriprise. During that litigation, Ameriprise reached out to XimpleWare to support its defense of the pending litigation and informed XimpleWare that it had discovered XimpleWare VTM-XML source code throughout Versata's DCM product. In violation of Versata's license under the GNU. XimpleWare then filed this suit against the Versata Defendants, Ameriprise and other Versata customers. XimpleWare's complaint asserts claims for (1) direct infringement of the '857, '459 and '652 patents under 35 U.S.C. § 271(a) against all defendants; (2) inducement under 35 U.S.C. § 271(b) against Versata and its corporate parents Aurea and Trilogy; and (3) declaratory relief that the asserted patents are valid and enforceable.
+
+\[...\]
+
+**III. DISCUSSION**
+
+**A. The Versata Customers' Motions to Dismiss**
+
+The court starts with the customers' motions challenging XimpleWare's 
+allegations of direct infringement \[of Ximpleware's patents\] pursuant 
+to Section 271(a).
+
+Because an express license is a defense to patent infringement, XimpleWare's 
+direct infringement claims against Versata's customers turn on whether the 
+customers' distribution is licensed under the GPL. The reason is that the GPL 
+provides that even if the original licensee — here, one of the Versata entities 
+— breaches its license for whatever reason, third-party customers of that 
+original license retain the right to use XimpleWare's software so long as the 
+customer does not itself breach the license by "distributing" XimpleWare's 
+software without satisfying an attendant conditions. Because XimpleWare has 
+plainly alleged that the customers did not satisfy these attendant 
+conditions, the only real issue to resolve is whether XimpleWare has 
+sufficiently alleged that its software was "distributed" by the customers when 
+they shared the software with their independent contractors, franchisees, and 
+producers.
+
+The customers marshal two primary arguments against such a conclusion. First, 
+the customers argue that any independent contractor or the like working for the 
+customers has no need for the software because the software is designed to 
+calculate the commissions owed by the customers on various financial 
+transactions. In short, there is no need in the field to use what is back 
+office software. Second, the complaint does not allege Versata's customers 
+shared the software with independent contractors who then themselves copied, 
+distributed or used it, and sharing the software with independent contractors 
+working with the customers alone does not constitute distribution. Put another 
+way, this is effectively internal distribution, and internal distribution is 
+not enough to breach the GPL.
+
+The customers, or rather certain customers, are correct: XimpleWare's 
+allegation that the Versata customers distributed XimpleWare's software without 
+specificity is insufficient. The bundling of customer defendants into a 
+conclusory statement does not in any way provide adequate notice. This is 
+classic Iqbal and Twombly territory. Because XimpleWare has not sufficiently 
+alleged the customers other than Ameriprise distributed the Versata software to 
+any unrelated third party, no distribution-related conditions were triggered.
+
+With respect to Amerirprise, XimpleWare has alleged enough to clear the bar set 
+by Rule 8. To understand why, one need only look to Judge Illston's recent 
+decision in a parallel copyright infringement case between XimpleWare and 
+Ameriprise. As Judge Illston explains, "\[a\]ccepting as true the facts alleged 
+in the amended complaint and drawing all reasonable inferences in favor of 
+XimpleWare, as it must, the Court finds that XimpleWare has alleged Ameriprise 
+reproduced and distributed the software outside of Ameriprise and to 
+non-employees, thereby acting outside the scope of the GPL. XimpleWare has 
+therefore stated a claim of copyright infringement." While Ameriprise has cited 
+two Fifth Circuit cases suggesting that sharing code with contractors is not 
+distribution, neither case was before the court on a motion to dismiss, when 
+all allegations must be accepted as true. In sum, Paragraph 85 of the amended 
+complaint fails to state a claim for patent infringement against any Versata 
+customer, except as to Ameriprise.
+
+
 #### In re Spansion, Inc.
 
 --------------------------------------------------------------------------------
 Excerpt from _In re Spansion, Inc._, 507 F. App'x 125, 128 (3d Cir. 2012), 
-internal citations omitted..[^SpansionHeadnote]
+internal citations omitted.[^SpansionHeadnote]
 
 [^SpansionHeadnote]: _In re Spansion, Inc._, 507 F. App'x 125, 128 (3d Cir. 2012), _available at_ [http://www.ca3.uscourts.gov/opinarch/113323np.pdf](http://www.ca3.uscourts.gov/opinarch/113323np.pdf)
 
@@ -2010,6 +2154,10 @@ internal citations omitted..[^SpansionHeadnote]
   agreement authorizes") make a court more likely to find an express
   patent grant?
   
+3. The *Ximpleware* court found that because internal use by the Defendant
+  was licensed under the GPL version 2, that internal use was also subject
+  to an "express license" to the associated patents. On what basis do you 
+  think that the judge found the express license?
 
 
 
