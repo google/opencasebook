@@ -152,18 +152,18 @@ Excerpt from the GNU General Public License License, Version 3.0[^GPL3]
 
 > **11\. Patents.** 
 > 
-> A “contributor” is a copyright holder who authorizes 
+> A "contributor" is a copyright holder who authorizes 
 > use under this License of the Program or a work on which the Program is 
-> based. The work thus licensed is called the contributor's “contributor 
-> version”.
+> based. The work thus licensed is called the contributor's "contributor 
+> version".
 > 
-> A contributor's “essential patent claims” are all patent claims owned 
+> A contributor's "essential patent claims" are all patent claims owned 
 > or controlled by the contributor, whether already acquired or hereafter 
 > acquired, that would be infringed by some manner, permitted by this License, 
 > of making, using, or selling its contributor version, but do not include 
 > claims that would be infringed only as a consequence of further 
 > modification of the contributor version. For purposes of this definition, 
-> “control” includes the right to grant patent sublicenses in a manner 
+> "control" includes the right to grant patent sublicenses in a manner 
 > consistent with the requirements of this License.
 > 
 > Each contributor grants you a non-exclusive, worldwide, royalty-free 
@@ -171,10 +171,10 @@ Excerpt from the GNU General Public License License, Version 3.0[^GPL3]
 > use, sell, offer for sale, import and otherwise run, modify and propagate 
 > the contents of its contributor version.
 > 
-> In the following three paragraphs, a “patent license” is any express 
+> In the following three paragraphs, a "patent license" is any express 
 > agreement or commitment, however denominated, not to enforce a patent (such 
 > as an express permission to practice a patent or covenant not to sue for 
-> patent infringement). To “grant” such a patent license to a party means 
+> patent infringement). To "grant" such a patent license to a party means 
 > to make such an agreement or commitment not to enforce a patent against 
 > the party.
 > 
@@ -186,7 +186,7 @@ Excerpt from the GNU General Public License License, Version 3.0[^GPL3]
 > (2) arrange to deprive yourself of the benefit of the patent license for 
 > this particular work, or (3) arrange, in a manner consistent with the 
 > requirements of this License, to extend the patent license to downstream 
-> recipients. “Knowingly relying” means you have actual knowledge that, 
+> recipients. "Knowingly relying" means you have actual knowledge that, 
 > but for the patent license, your conveying the covered work in a country, 
 > or your recipient's use of the covered work in a country, would infringe 
 > one or more identifiable patents in that country that you have reason to 
@@ -199,7 +199,7 @@ Excerpt from the GNU General Public License License, Version 3.0[^GPL3]
 > the covered work, then the patent license you grant is automatically 
 > extended to all recipients of the covered work and works based on it.
 > 
-> A patent license is “discriminatory” if it does not include within the 
+> A patent license is "discriminatory" if it does not include within the 
 > scope of its coverage, prohibits the exercise of, or is conditioned on 
 > the non-exercise of one or more of the rights that are specifically 
 > granted under this License. You may not convey a covered work if you are 
@@ -249,7 +249,7 @@ Excerpt from the Mozilla Public License, Version 2.0[^MPL2]
 > for any code that a Contributor has removed from Covered Software; or
 >
 > for infringements caused by: 
-> 1. Your and any other third party’s modifications of Covered Software, or 
+> 1. Your and any other third party's modifications of Covered Software, or 
 > 2. the combination of its Contributions with other software (except as 
 > part of its Contributor Version); or
 > 3. under Patent Claims infringed by Covered Software in the absence of its 
@@ -313,12 +313,12 @@ included with most Linux distributions
  
 The OIN Linux System is defined as follows:[^OINLinuxSystem]
 
-  > “Linux Environment Component” shall mean any of the software packages 
+  > "Linux Environment Component" shall mean any of the software packages 
   > whose released source code shall be identified on the OIN website, 
   > including bug fixes and error corrections thereto, or a Predecessor 
   > Release or Successor Release of any of such packages.
   > 
-  > “Linux System” shall mean a Linux Environment Component or any combination 
+  > "Linux System" shall mean a Linux Environment Component or any combination 
   > of such components to the extent each such component is (i) generally 
   > available under an Open Source License or in the public domain (and the 
   > source code for such component is generally available) and (ii) Distributed 
@@ -380,7 +380,7 @@ Company Licensing Agreement to the extent that You and your current and
 future Affiliates are excepting any such implementations of Linux 
 Environment Component from your license to a Licensee and its current and 
 future Subsidiaries. The previous sentence is for the express benefit of 
-the Members of OIN, OIN, and OIN’s Licensees.
+the Members of OIN, OIN, and OIN's Licensees.
 
 1\.3     Subject to Section 1.2(b), OIN irrevocably releases You and Your 
 Subsidiaries from claims of infringement of the OIN Patents to the extent 
@@ -395,15 +395,15 @@ and Customers that are Channel Entities and Customers, respectively, on or
 before the Amendment Date from any and all claims of infringement of Your 
 Patents to the extent such claims are based on acts prior to the Amendment 
 Date that, had they been performed after the Amendment Date, would have 
-been licensed under this Agreement. As used herein, a Licensee’s “Amendment 
-Date” shall mean the later of the date an amendment becomes effective under 
+been licensed under this Agreement. As used herein, a Licensee's "Amendment 
+Date" shall mean the later of the date an amendment becomes effective under 
 Section 2.1 and the date such Licensee becomes a Licensee.
 
 \[...\]
 
 **Definitions:**
 
-“Affiliate” shall mean, with respect to any specified Person, any other 
+"Affiliate" shall mean, with respect to any specified Person, any other 
 Person that now or in the future (i) is a Subsidiary of the specified 
 Person, (ii) is a parent of the specified Person or (iii) is a Subsidiary 
 of a parent of the specified Person. In each of the foregoing cases, such 
@@ -457,11 +457,10 @@ implied patent license.
 #### De Forest Radio Telephone Co. v. United States
 
 --------------------------------------------------------------------------------
-
 United States Supreme Court (1927)[DeForestHeadnote]
 
 [^DeForestHeadnote]: _De Forest Radio Telephone Co. v. United States_, 273 
-  U.S. 236, 47 S. Ct. 366 (1927), _available at_ https://casetext.com/case/de-forest-co-v-united-states
+  U.S. 236, 47 S. Ct. 366 (1927), _available at_ [https://casetext.com/case/de-forest-co-v-united-states](https://casetext.com/case/de-forest-co-v-united-states)
 
 
 MR. CHIEF JUSTICE TAFT delivered the opinion of the Court.
@@ -704,10 +703,10 @@ into one instruction which read as follows:
 > granted to \[Mitsubishi\] then you should find and \[sic\] implied 
 > license was granted to \[Mitsubishi\] by Wang.
 
-The relevant question to the jury on the Special Verdict Form read, “Has 
+The relevant question to the jury on the Special Verdict Form read, "Has 
 Mitsubishi proven by a preponderance of the evidence that Wang licensed 
 Mitsubishi to make, use, or sell the subject matter of the '513 patent?. 
-The jury answered “Yes.” \[...\] 
+The jury answered "Yes." \[...\] 
 
 After the verdict, the court held a hearing on Mitsubishi's equitable 
 defenses, then directed Wang to draft a proposed judgment and findings of 
@@ -716,7 +715,7 @@ equitable defenses, which Wang did. Mitsubishi objected to Wang's drafts
 and protested that, although the findings and conclusions did not cover the 
 implied license, Wang wrote findings on other issues which contradicted and 
 undermined the jury's implied license verdict. Furthermore, Wang had 
-written that the jury found an implied license, “under the doctrine of legal 
+written that the jury found an implied license, "under the doctrine of legal 
 estoppel.. Notwithstanding Mitsubishi's objections, the court entered both 
 the Judgment and the Findings of Fact and Conclusions of Law.
 
@@ -749,7 +748,7 @@ Mitsubishi argued at trial that Wang's conduct had created an implied
 license to it under the '513 patent. The parties agreed to submit 
 Mitsubishi's implied license defense to the jury and the jury found an 
 implied license to exist. The district court entered judgment on the 
-verdict, and added the rationale that the implied license arose “under the 
+verdict, and added the rationale that the implied license arose "under the 
 doctrine of legal estoppel. Focusing on the legal estoppel rationale, 
 Wang moved for JMOL or a new trial on the implied license issue because, 
 according to Wang, a reasonable jury could not have found facts to support 
@@ -791,10 +790,10 @@ With regard to the factual component of our review, Wang challenges only the
 finding of valuable consideration. Before we can apply the substantial 
 evidence test to this finding, however, it becomes necessary to look beyond 
 the jury instructions and verdict to discover what the jury understood to 
-constitute “valuable consideration.. The district court's order denying 
+constitute "valuable consideration.. The district court's order denying 
 Wang's motion for JMOL identified three benefits conferred on Wang: (1) by 
-agreeing to manufacture and sell SIMMs, Mitsubishi contributed to a “high 
-volume supply and downward pressure on \[the\] price” of SIMMs, which 
+agreeing to manufacture and sell SIMMs, Mitsubishi contributed to a "high 
+volume supply and downward pressure on \[the\] price" of SIMMs, which 
 benefited Wang as a purchaser of SIMMs; (2) Mitsubishi absorbed development 
 and tooling costs; and, (3) Mitsubishi redesigned its SIMMs to conform to 
 Wang's preferred design. The district court ruled that each form of 
@@ -803,14 +802,14 @@ consideration was supported by substantial evidence.
 Looking to the record in search of substantial evidence, Wang's own 
 statements show that when the company introduced its SIMM design in June 
 1983, Wang intended to buy SIMMs from other producers rather than produce 
-SIMMs itself. Eventually, Wang hoped to “get the advantage of the cost 
+SIMMs itself. Eventually, Wang hoped to "get the advantage of the cost 
 reduction because of the volumes involved.. The evidence indicates that Wang 
 considered lower prices and a larger market to be of value to it, as they 
 obviously were as a large user of SIMMs. In time, JEDEC adopted Wang's SIMM 
 design as a standard in what became a multi-billion dollar market. The 
 market grew; prices dropped. The record contains evidence that Mitsubishi 
 contributed to this advantageous outcome. Clayton's notes about Mitsubishi, 
-for example, contain references to prices “dropping to mid-teens.. Wang 
+for example, contain references to prices "dropping to mid-teens.. Wang 
 introduced evidence that dozens of producers have participated in making the 
 SIMM market, and that Mitsubishi sold $361 million worth of SIMMs between 
 April 1985 and March 1994. A reasonable person could conclude from the 
@@ -826,7 +825,7 @@ because it understood Wang was permitting Mitsubishi to sell SIMMs to other
 customers. Clayton's notes reveal that, from the first meeting onward, he 
 closely followed Mitsubishi's development and tooling of SIMMs with 64K or 
 256K chips in PLCCs. Clayton clearly wanted Mitsubishi to make 64K SIMMs, 
-which Mitsubishi decided against, but Clayton also sought “to open 
+which Mitsubishi decided against, but Clayton also sought "to open 
 \[communication with\] Japan for us on a 256K X9 SIMM. All the while, Wang 
 and Mitsubishi exchanged designs and samples. A reasonable person could 
 conclude that Wang received something it valued because Mitsubishi was 
@@ -867,11 +866,11 @@ These labels describe not different kinds of licenses, but rather different
 categories of conduct which lead to the same conclusion: an implied license. 
 The label denotes the rationale for reaching the legal result.
 
-One of our predecessor courts observed that “courts generally have first 
+One of our predecessor courts observed that "courts generally have first 
 looked for facts which give rise to an estoppel in the process of concluding 
-that there is an implied license.”  *AMP*, 389 F.2d at 452, 156 USPQ at 649. 
-The opinions that hew most closely to the *De Forest* language and the “entire 
-course of conduct” analysis rely on the doctrine of equitable estoppel, 
+that there is an implied license."  *AMP*, 389 F.2d at 452, 156 USPQ at 649. 
+The opinions that hew most closely to the *De Forest* language and the "entire 
+course of conduct" analysis rely on the doctrine of equitable estoppel, 
 because *De Forest* requires that conduct of the patentee led the other to 
 act. _Bandag, Inc. v. Al Bolser's Tire Stores, Inc._, 750 F.2d 903, 925-26, 
 223 USPQ 982, 998-99 (Fed.Cir.1984); _Stickle v. Heublein, Inc._, 716 F.2d 
@@ -893,7 +892,7 @@ at 649-50. The primary difference between the estoppel analysis in implied
 license cases and the analysis in equitable estoppel cases is that implied 
 license looks for an affirmative grant of consent or permission to make, use, 
 or sell: i.e., a license. See *Stickle*, 716 F.2d at 1559, 219 USPQ at 383-84. 
-Equitable estoppel, on the other hand, focuses on “misleading” conduct 
+Equitable estoppel, on the other hand, focuses on "misleading" conduct 
 suggesting that the patentee will not enforce patent rights. _A.C. Aukerman 
 Co. v. R.L. Chaides Constr. Co._, 960 F.2d 1020, 1041-44, 22 USPQ2d 1321, 
 1335-38 (Fed.Cir.1992). In *Aukerman*, we described a typical equitable 
@@ -911,7 +910,7 @@ scenarios where a patentee has licensed or assigned a right, received
 consideration, and then sought to derogate from the right granted. 
 *Spindelfabrik*, 829 F.2d at 1080, 4 USPQ2d at 1048; AMP 389 F.2d at 452, 156 
 USPQ at 649-50. In *AMP*, for example, a patentee granted a license to, and 
-received payment from, the United States for use of an “idea” which later 
+received payment from, the United States for use of an "idea" which later 
 became the subject matter of its patent. *Id*. at 453-54, 182 Ct.Cl. 86, 389 
 F.2d 448, 156 USPQ at 651. The patentee then discovered a preexisting patent 
 covering an aspect of the invention. *Id*. at 451, 182 Ct.Cl. 86, 389 F.2d 
@@ -942,7 +941,7 @@ See *AMP*, 389 F.2d at 452, 156 USPQ at 650 (rejected equitable estoppel and
 affirmed based on legal estoppel).
 
 Although judicially implied licenses are rare under any doctrine, Mitsubishi 
-proved that the “entire course of conduct” between the parties over a 
+proved that the "entire course of conduct" between the parties over a 
 six-year period led Mitsubishi to infer consent to manufacture and sell the 
 patented products. See *De Forest*, 273 U.S. at 241, 47 S.Ct. at 367. 
 Furthermore, the level of interaction between the parties while Mitsubishi 
@@ -956,12 +955,12 @@ Mitsubishi years later of infringement. We hold, as a matter of law, that
 Mitsubishi properly inferred consent to its use of the invention of Wang's 
 patents.
 
-The findings that Wang bestowed “a right to use the SIMM invention” and that 
+The findings that Wang bestowed "a right to use the SIMM invention" and that 
 Mitsubishi supplied valuable consideration to Wang, support our holding that 
 Wang's conduct created a license. This falls short of the express licenses or 
 assignments usually discussed in conjunction with legal estoppel, but it 
-constitutes part of a course of conduct that transcends “unilateral 
-expectations ..․ of one party.”  *Stickle*, 716 F.2d at 1559, 219 USPQ at 383. 
+constitutes part of a course of conduct that transcends "unilateral 
+expectations ..․ of one party."  *Stickle*, 716 F.2d at 1559, 219 USPQ at 383. 
 Wang not only led Mitsubishi to infer consent, Wang obtained payment. Wang 
 publicly announced its desired compensation. Wang also manifested this desire 
 in other ways, for example, by Wang's efforts at JEDEC to have its SIMM 
@@ -1051,7 +1050,7 @@ prejudiced if the patentee is now permitted to proceed.
   works under public licenses that range far beyond traditional license 
   royalties." _Jacobsen v. Katzer_, 535 F.3d 1373, 1379).  
   
-4. "Equitable estoppel... focuses on “misleading” conduct suggesting that 
+4. "Equitable estoppel... focuses on "misleading" conduct suggesting that 
   the patentee will not enforce patent rights." (*Wang* at 1271). Is 
   distribution of source code or binaries under an open source license 
   the sort of conduct that suggests non-enforcement of patent rights? 
@@ -1508,18 +1507,18 @@ In this patent infringement action, Plaintiffs A. Nattermann & Cie GmbH
 ("Nattermann") and Aventis Behring L.L.C. bring suit against Defendants Bayer 
 Corporation and Bayer Healthcare LLC for alleged infringement of U.S. Patent 
 No. 5,565,427 ("the '427 patent"). Defendants bring counterclaims against 
-Plaintiffs and Counterclaim Defendant Aventis Behring GmbH.[^FNOmitted] 
-Plaintiff Nattermann is the owner of the '427 patent, Counterclaim Defendant 
-Aventis Behring GmbH has a non-exclusive license to the patent, and Plaintiff 
-Aventis Behring L.L.C. has a sublicense. The '427 patent involves a drug used 
-in the treatment of hemophilia. Plaintiffs claim that an anti-hemophilila drug 
-marketed by Defendants under the name KOGENATE® FS infringes the '427 patent. 
-Defendants bring counterclaims against Plaintiffs for, inter alia, breach of a 
-1998 Supply Agreement entered into by Bayer and Centeon L.L.C., a predecessor 
-of Plaintiff Aventis Behring L.L.C., under which Bayer was to manufacture its 
-KOGENATE® product for Centeon L.L.C.
+Plaintiffs and Counterclaim Defendant Aventis Behring 
+GmbH.[^NattermanFNOmitted] Plaintiff Nattermann is the owner of the '427 
+patent, Counterclaim Defendant Aventis Behring GmbH has a non-exclusive 
+license to the patent, and Plaintiff Aventis Behring L.L.C. has a sublicense. 
+The '427 patent involves a drug used in the treatment of hemophilia. Plaintiffs 
+claim that an anti-hemophilila drug marketed by Defendants under the name 
+KOGENATE® FS infringes the '427 patent. Defendants bring counterclaims against 
+Plaintiffs for, inter alia, breach of a 1998 Supply Agreement entered into by 
+Bayer and Centeon L.L.C., a predecessor of Plaintiff Aventis Behring L.L.C., 
+under which Bayer was to manufacture its KOGENATE® product for Centeon L.L.C.
 
-[^FNOmitted]: Except where noted, footnotes and cites to the record have been omitted.
+[^NattermanFNOmitted]: Some footnotes and cites to the record have been omitted.
 
 Before me is Defendants' motion for summary judgment on their fourth 
 affirmative defense of license under the '427 patent. Defendants claim that 
@@ -2159,6 +2158,556 @@ internal citations omitted.[^SpansionHeadnote]
   to an "express license" to the associated patents. On what basis do you 
   think that the judge found the express license?
 
+
+## Patent Exhaustion
+
+Patent exhaustion is a U.S. common law doctrine limiting the scope of control 
+that a patent holder can have after the "authorized sale" of a patented object.
+Under the doctrine, an authorized sale "exhausts" and thus entirely removes
+the ability of the patent older to use the threat of patent infringement to 
+control the use and sale of the sold object. The purchaser is free to *use* or *resell* the patented object without restrictions based in patent law.[^Repair] 
+This right to use and resell the object extends to subsequent purchasers, even 
+those that acquire the patented object from a third party rather than from the 
+patent holder herself.
+
+Patent exhaustion is different than licensing. "Exhaustion doctrine, following 
+the common-law limitation on servitudes on chattels, creates an implied-in-law 
+property right based on an authorized acquisition, beyond what an 
+implied-in-fact analysis would support under 'implied license' 
+principles."[^HelferichFN] A license can be limited in scope, so that acting
+beyond the bounds contemplated in the license is an infringement on the
+rights of the patent owner. However, as soon as an object "embodying" the 
+patent claims is sold by the patent holder or an authorized licensee,
+the exhaustion doctrine prevents lawsuits against any subsequent users
+"downstream" in the stream of commerce.
+
+The law regarding patent exhaustion has been substantially clarified in 
+recent years by the Supreme Court, writing in both _Quanta Computer, Inc. v. 
+LG Electronics, Inc._ ("Quanta") and _Impression Products, Inc. v. Lexmark 
+International,Inc._ ("Lexmark"). As you read the following cases, consider both 
+how computer code might partially or fully "embody" a patented system or 
+method, and how distribution occurs in an open source context, where code is 
+freely passed from person to person.
+
+[^Repair]: But note, under the repair and reconstruction doctrine, an authorized sale does not automatically grant the ability for purchasers to "make" the patented object. A new making can occur in the context of extensive reconstruction or repair, or due to the result of self-replicating technology (such as patented plants). *See, e.g.* _Aro Mfg. Co. v. Convertible Top Replacement Co._, 377 U.S. 476 (1964); _Aro Mfg. Co. v. Convertible Top Replacement Co._, 365 U.S. 336 (1961); _Morgan Envelope Co. v. Albany Perforated Wrapping Paper Co._, 152 U.S. 425 (1894); _Cotton-Tie Co. v. Simmons_, 106 U.S. 89 (1882). *See also* _Bowman v. Monsanto Co._, 569 U.S. 278 (2013) for a discussion of the exhaustion doctrine relative to plants. However, the right to make can be granted via license; *see* discussion, *infra.*
+
+[^HelferichFN]: _Helferich Patent Licensing, Ltd. Liab. Co. v. N.Y. Times Co._, 778 F.3d 1293, 1311 (Fed. Cir. 2015). 
+
+#### Quanta Computer, Inc. v. LG Electronics, Inc.
+--------------------------------------------------------------------------------
+United States Supreme Court (2008)[^QuantaHeadnote]
+
+[^QuantaHeadnote]:_Quanta Comput., Inc. v. LG Elecs., Inc._, 553 U.S. 617, 128 S. Ct. 2109 (2008), _available at_ [https://supreme.justia.com/cases/federal/us/553/617/](https://supreme.justia.com/cases/federal/us/553/617/)
+
+**QUANTA COMPUTER, INC., et al., PETITIONERS v. LG ELECTRONICS, INC.**
+on writ of certiorari to the United States Court of Appeals for the 
+Federal Circuit
+
+*Justice Thomas delivered the opinion of the Court.*
+
+For over 150 years this Court has applied the doctrine of patent exhaustion to 
+limit the patent rights that survive the initial authorized sale of a patented 
+item. In this case, we decide whether patent exhaustion applies to the sale of 
+components of a patented system that must be combined with additional 
+components in order to practice the patented methods. The Court of Appeals for 
+the Federal Circuit held that the doctrine does not apply to method patents at 
+all and, in the alternative, that it does not apply here because the sales were 
+not authorized by the license agreement. We disagree on both scores. Because 
+the exhaustion doctrine applies to method patents, and because the license 
+authorizes the sale of components that substantially embody the patents in 
+suit, the sale exhausted the patents.
+
+**I**
+
+Respondent LG Electronics, Inc. (LGE), purchased a portfolio of computer 
+technology patents in 1999, including the three patents at issue here: U. S. 
+Patent Nos. 4,939,641 ('641); 5,379,379 ('379); and 5,077,733 ('733) 
+(collectively LGE Patents)....
+
+LGE licensed a patent portfolio, including the LGE Patents, to Intel 
+Corporation (Intel). The cross-licensing agreement (License Agreement) permits 
+Intel to manufacture and sell microprocessors and chipsets that use the LGE 
+Patents (the Intel Products). The License Agreement authorizes Intel to 
+"'make, use, sell (directly or indirectly), offer to sell, import or otherwise 
+dispose of'" its own products practicing the LGE Patents. Brief for 
+Petitioners 8 (quoting App. 154).[^QuantaFNOmitted] Notwithstanding this 
+broad language, the License Agreement contains some limitations. Relevant 
+here, it stipulates that no license
+
+> "'is granted by either party hereto … to any third party for the combination 
+> by a third party of Licensed Products of either party with items, components, 
+> or the like acquired … from sources other than a party hereto, or for the use,
+> import, offer for sale or sale of such combination.'" 
+> (quoting App. 164).
+
+[^QuantaFNOmitted]: Some footnotes and cites to the record have been omitted.
+
+The License Agreement purports not to alter the usual rules of patent 
+exhaustion, however, providing that, "'\[n\]otwithstanding anything to the 
+contrary contained in this Agreement, the parties agree that nothing herein 
+shall in any way limit or alter the effect of patent exhaustion that would 
+otherwise apply when a party hereto sells any of its Licensed Products.'" 
+(quoting App. 164).
+
+In a separate agreement (Master Agreement), Intel agreed to give written notice 
+to its own customers informing them that, while it had obtained a broad license 
+"'ensur\[ing\] that any Intel product that you purchase is licensed by LGE and 
+thus does not infringe any patent held by LGE,'" the license "'does not extend, 
+expressly or by implication, to any product that you make by combining an Intel 
+product with any non-Intel product.'" (emphasis deleted) 
+(quoting App. 198). The Master Agreement also provides that "'a breach of this 
+Agreement shall have no effect on and shall not be grounds for termination of 
+the Patent License.'" (quoting App. 176).
+
+Petitioners, including Quanta Computer (collectively Quanta), are a group of 
+computer manufacturers. Quanta purchased microprocessors and chipsets from 
+Intel and received the notice required by the Master Agreement. Nonetheless, 
+Quanta manufactured computers using Intel parts in combination with non-Intel 
+memory and buses in ways that practice the LGE Patents. Quanta does not modify 
+the Intel components and follows Intel's specifications to incorporate the 
+parts into its own systems.
+
+LGE filed a complaint against Quanta, asserting that the combination of the 
+Intel Products with non-Intel memory and buses infringed the LGE Patents. The 
+District Court granted summary judgment to Quanta, holding that, for purposes 
+of the patent exhaustion doctrine, the license LGE granted to Intel resulted in 
+forfeiture of any potential infringement actions against legitimate purchasers 
+of the Intel Products. _LG Electronics, Inc. v. Asustek Computer, Inc._, 
+65 USPQ 2d 1589, 1593, 1600 (ND Cal. 2002). The court found that, although the 
+Intel Products do not fully practice any of the patents at issue, they have no 
+reasonable noninfringing use and therefore their authorized sale exhausted 
+patent rights in the completed computers under _United States v. Univis Lens 
+Co._, 316 U. S. 241 (1942). *Asustek*, *supra*, at 1598–1600. In a subsequent 
+order limiting its summary judgment ruling, the court held that patent 
+exhaustion applies only to apparatus or composition-of-matter claims that 
+describe a physical object, and does not apply to process, or method, claims 
+that describe operations to make or use a product. _LG Electronics, Inc. v. 
+Asustek Computer, Inc._, 248 F. Supp. 2d 912, 918 (ND Cal. 2003). Because each 
+of the LGE Patents includes method claims, exhaustion did not apply.
+
+The Court of Appeals for the Federal Circuit affirmed in part and reversed in 
+part. It agreed that the doctrine of patent exhaustion does not apply to method 
+claims. In the alternative, it concluded that exhaustion did not apply because 
+LGE did not license Intel to sell the Intel Products to Quanta for use in 
+combination with non-Intel products. 453 F. 3d, at 1370.
+
+We granted certiorari, 551 U. S. ___ (2007).
+
+**II**
+
+The longstanding doctrine of patent exhaustion provides that the initial 
+authorized sale of a patented item terminates all patent rights to that item. 
+This Court first applied the doctrine in 19th-century cases addressing patent 
+extensions on the Woodworth planing machine. Purchasers of licenses to sell and 
+use the machine for the duration of the original patent term sought to continue 
+using the licenses through the extended term. The Court held that the extension 
+of the patent term did not affect the rights already secured by purchasers who 
+bought the item for use "in the ordinary pursuits of life." _Bloomer v. 
+McQuewan_, 14 How. 539, 549 (1853); see also *ibid*. ("\[W\]hen the machine 
+passes to the hands of the purchaser, it is no longer within the limits of the 
+monopoly"); _Bloomer v. Millinger_, 1 Wall. 340, 351 (1864). In _Adams v. 
+Burke_, 17 Wall. 453 (1873), the Court affirmed the dismissal of a patent 
+holder's suit alleging that a licensee had violated postsale restrictions on 
+where patented coffin-lids could be used. "\[W\]here a person ha\[s\] purchased 
+a patented machine of the patentee or his assignee," the Court held, "this 
+purchase carrie\[s\] with it the right to the use of that machine so long as it 
+\[is\] capable of use." *Id*., at 455.
+
+Although the Court permitted postsale restrictions on the use of a patented 
+article in _Henry v. A. B. Dick Co._, 224 U. S. 1 (1912),\[FN2\] that decision 
+was short lived. In 1913, the Court refused to apply *A. B. Dick* to uphold 
+price-fixing provisions in a patent license. See _Bauer & Cie v. O'Donnell_, 
+229 U. S. 1, 14–17 (1913). Shortly thereafter, in _Motion Picture Patents Co. 
+v. Universal Film Mfg. Co._, 243 U. S. 502, 518 (1917), the Court explicitly 
+overruled *A. B. Dick*. In that case, a patent holder attempted to limit 
+purchasers' use of its film projectors to show only film made under a patent 
+held by the same company. The Court noted the "increasing frequency" with which 
+patent holders were using *A. B. Dick*-style licenses to limit the use of their 
+products and thereby using the patents to secure market control of related, 
+unpatented items. 243 U. S., at 509, 516–517. Observing that "the primary 
+purpose of our patent laws is not the creation of private fortunes for the 
+owners of patents but is 'to promote the progress of science and useful arts,'" 
+id., at 511 (quoting U. S. Const., Art. I, §8, cl. 8), the Court held that "the 
+scope of the grant which may be made to an inventor in a patent, pursuant to 
+the \[patent\] statute, must be limited to the invention described in the 
+claims of his patent." 243 U. S., at 511. Accordingly, it reiterated the rule 
+that "the right to vend is exhausted by a single, unconditional sale, the 
+article sold being thereby carried outside the monopoly of the patent law and 
+rendered free of every restriction which the vendor may attempt to put upon 
+it." *Id*., at 516.
+
+This Court most recently discussed patent exhaustion in *Univis*, 
+316 U. S. 241, on which the District Court relied. Univis Lens Company, the 
+holder of patents on eyeglass lenses, licensed a purchaser to manufacture lens 
+blanks by fusing together different lens segments to create bi- and tri-focal 
+lenses and to sell them to other Univis licensees at agreed-upon rates.... The 
+Court granted certiorari to determine whether Univis' patent monopoly survived 
+the sale of the lens blanks by the licensed manufacturer and therefore shielded 
+Univis' pricing scheme from the Sherman Act.
+
+The Court assumed that the Univis patents containing claims for finished lenses 
+were practiced in part by the wholesalers and finishing retailers who ground 
+the blanks into lenses, and held that the sale of the lens blanks exhausted the 
+patents on the finished lenses. *Univis*, 316 U. S., at 248–249. The Court 
+explained that the lens blanks "embodi\[ed\] essential features of the patented 
+device and \[were\] without utility until … ground and polished as the finished 
+lens of the patent." *Id*., at 249. The Court noted that:
+
+> "where one has sold an uncompleted article which, because it embodies 
+> essential features of his patented invention, is within the protection of his 
+> patent, and has destined the article to be finished by the purchaser in 
+> conformity to the patent, he has sold his invention so far as it is or may be 
+> embodied in that particular article." *Id*., at 250–251.
+
+In sum, the Court concluded that the traditional bar on patent restrictions 
+following the sale of an item applies when the item sufficiently embodies the 
+patent—even if it does not completely practice the patent—such that its only 
+and intended use is to be finished under the terms of the patent.
+
+With this history of the patent exhaustion doctrine in mind, we turn to the 
+parties' arguments.
+
+**III**
+
+**A**
+
+LGE argues that the exhaustion doctrine is inapplicable here because it does 
+not apply to method claims, which are contained in each of the LGE Patents. LGE 
+reasons that, because method patents are linked not to a tangible article but 
+to a process, they can never be exhausted through a sale. Rather, practicing 
+the patent—which occurs upon each use of an article embodying a method 
+patent—is permissible only to the extent rights are transferred in an 
+assignment contract. Quanta, in turn, argues that there is no reason to 
+preclude exhaustion of method claims, and points out that both this Court and 
+the Federal Circuit have applied exhaustion to method claims. It argues that 
+any other rule would allow patent holders to avoid exhaustion entirely by 
+inserting method claims in their patent specifications.
+
+Quanta has the better of this argument. Nothing in this Court's approach to 
+patent exhaustion supports LGE's argument that method patents cannot be 
+exhausted. It is true that a patented method may not be sold in the same way as 
+an article or device, but methods nonetheless may be "embodied" in a product, 
+the sale of which exhausts patent rights. Our precedents do not differentiate 
+transactions involving embodiments of patented methods or processes from those 
+involving patented apparatuses or materials. To the contrary, this Court has 
+repeatedly held that method patents were exhausted by the sale of an item that 
+embodied the method. In _Ethyl Gasoline Corp. v. United States_, 309 U. S. 436, 
+446, 457 (1940), for example, the Court held that the sale of a motor fuel 
+produced under one patent also exhausted the patent for a method of using the 
+fuel in combustion motors. Similarly, as previously described, *Univis* held 
+that the sale of optical lens blanks that partially practiced a patent 
+exhausted the method patents that were not completely practiced until the 
+blanks were ground into lenses. 316 U. S., at 248–251.
+
+These cases rest on solid footing. Eliminating exhaustion for method patents 
+would seriously undermine the exhaustion doctrine. Patentees seeking to avoid 
+patent exhaustion could simply draft their patent claims to describe a method 
+rather than an apparatus.\[FN5\] Apparatus and method claims "may approach each 
+other so nearly that it will be difficult to distinguish the process from the 
+function of the apparatus." _United States ex rel. Steinmetz v. Allen_, 192 U. 
+S. 543, 559 (1904). By characterizing their claims as method instead of 
+apparatus claims, or including a method claim for the machine's patented method 
+of performing its task, a patent drafter could shield practically any patented 
+item from exhaustion.
+
+This case illustrates the danger of allowing such an end-run around exhaustion. 
+On LGE's theory, although Intel is authorized to sell a completed computer 
+system that practices the LGE Patents, any downstream purchasers of the system 
+could nonetheless be liable for patent infringement. Such a result would 
+violate the longstanding principle that, when a patented item is "once lawfully 
+made and sold, there is no restriction on \[its\] use to be implied for the 
+benefit of the patentee." *Adams*, 17 Wall., at 457. We therefore reject LGE's 
+argument that method claims, as a category, are never exhaustible.
+
+**B**
+
+We next consider the extent to which a product must embody a patent in order to 
+trigger exhaustion. Quanta argues that, although sales of an incomplete article 
+do not necessarily exhaust the patent in that article, the sale of the 
+microprocessors and chipsets exhausted LGE's patents in the same way the sale 
+of the lens blanks exhausted the patents in *Univis*. Just as the lens blanks 
+in *Univis* did not fully practice the patents at issue because they had not 
+been ground into finished lenses, Quanta observes, the Intel Products cannot 
+practice the LGE Patents—or indeed, function at all—until they are combined 
+with memory and buses in a computer system. If, as in *Univis*, patent rights 
+are exhausted by the sale of the incomplete item, then LGE has no postsale 
+right to require that the patents be practiced using only Intel parts. Quanta 
+also argues that exhaustion doctrine will be a dead letter unless it is 
+triggered by the sale of components that essentially, even if not completely, 
+embody an invention. Otherwise, patent holders could authorize the sale of 
+computers that are complete with the exception of one minor step—say, inserting 
+the microprocessor into a socket—and extend their rights through each 
+downstream purchaser all the way to the end user.
+
+LGE, for its part, argues that *Univis* is inapplicable here for three reasons. 
+First, it maintains that *Univis* should be limited to products that contain 
+all the physical aspects needed to practice the patent. On that theory, the 
+Intel Products cannot embody the patents because additional physical components 
+are required before the patents can be practiced. Second, LGE asserts that in 
+*Univis* there was no "patentable distinction" between the lens blanks and the 
+patented finished lenses since they were both subject to the same patent. Brief 
+for Respondent 14 (citing *Univis*, *supra*, at 248–252). In contrast, it 
+describes the Intel Products as "independent and distinct products" from the 
+systems using the LGE Patents and subject to "independent patents." Brief for 
+Respondent 13. Finally, LGE argues that *Univis* does not apply because the 
+Intel Products are analogous to individual elements of a combination patent, 
+and allowing sale of those components to exhaust the patent would impermissibly 
+"ascrib\[e\] to one element of the patented combination the status of the 
+patented invention in itself." _Aro Mfg. Co. v. Convertible Top Replacement 
+Co._, 365 U. S. 336, 344–345 (1961).
+
+We agree with Quanta that *Univis* governs this case. As the Court there 
+explained, exhaustion was triggered by the sale of the lens blanks because 
+their only reasonable and intended use was to practice the patent and because 
+they "embodie\[d\] essential features of \[the\] patented invention." 316 U.S., 
+at 249–251. Each of those attributes is shared by the microprocessors and 
+chipsets Intel sold to Quanta under the License Agreement.
+
+First, *Univis* held that "the authorized sale of an article which is capable 
+of use only in practicing the patent is a relinquishment of the patent monopoly 
+with respect to the article sold." *Id*., at 249. The lens blanks in *Univis* 
+met this standard because they were "without utility until \[they were\] ground 
+and polished as the finished lens of the patent." *Ibid*. Accordingly, "the 
+only object of the sale \[was\] to enable the [finishing retailer] to grind and 
+polish it for use as a lens by the prospective wearer." *Ibid*. Here, LGE has 
+suggested no reasonable use for the Intel Products other than incorporating 
+them into computer systems that practice the LGE Patents.\[FN6\] Nor can we can 
+discern one: A microprocessor or chipset cannot function until it is connected 
+to buses and memory. And here, as in *Univis*, the only apparent object of 
+Intel's sales to Quanta was to permit Quanta to incorporate the Intel Products 
+into computers that would practice the patents.
+
+Second, the lens blanks in *Univis* "embodie\[d\] essential features of \[the\] 
+patented invention." *Id*., at 250–251. The essential, or inventive, feature of 
+the Univis lens patents was the fusing together of different lens segments to 
+create bi- and tri-focal lenses. The finishing process performed by the 
+finishing and prescription retailers after the fusing was not unique. As the 
+United States explained:
+
+> "The finishing licensees finish Univis lens blanks in precisely the same 
+> manner as they finish all other bifocal lens blanks. Indeed, appellees have 
+> never contended that their licensing system is supported by patents covering 
+> methods or processes relating to the finishing of lens blanks. Consequently, 
+> it appears that appellees perform all of the operations which contribute any 
+> claimed element of novelty to Univis lenses." Brief for United States in 
+> _United States v. Univis Lens Co._, O. T. 1941, No. 855 et al., p. 10 \
+> (footnote and citations omitted).
+
+While the Court assumed that the finishing process was covered by the patents, 
+*Univis*, *supra*, at 248–249, and the District Court found that it was 
+necessary to make a working lens, _United States v. Univis Lens Co._, 41 F. 
+Supp. 258, 262–263 (SDNY 1941), the grinding process was not central to the 
+patents. That standard process was not included in detail in any of the patents 
+and was not referred to at all in two of the patents. Those that did mention 
+the finishing process treated it as incidental to the invention, noting, for 
+example, that "\[t\]he blank is then ground in the usual manner," U. S. Patent 
+No. 1,876,497, p. 2, or simply that the blank is "then ground and polished," U. 
+S. Patent No. 1,632,208, p. 1, Tr. of Record in _United States v. Univis Lens 
+Co._, O. T. 1941, No. 855 et al., pp. 516, 498.
+
+Like the *Univis* lens blanks, the Intel Products constitute a material part of 
+the patented invention and all but completely practice the patent. Here, as in 
+*Univis*, the incomplete article substantially embodies the patent because the 
+only step necessary to practice the patent is the application of common 
+processes or the addition of standard parts. Everything inventive about each 
+patent is embodied in the Intel Products. They control access to main and cache 
+memory, practicing the '641 and '379 patents by checking cache memory against 
+main memory and comparing read and write requests. They also control priority 
+of bus access by various other computer components under the '733 patent. 
+Naturally, the Intel Products cannot carry out these functions unless they are 
+attached to memory and buses, but those additions are standard components in 
+the system, providing the material that enables the microprocessors and 
+chipsets to function. The Intel Products were specifically designed to function 
+only when memory or buses are attached; Quanta was not required to make any 
+creative or inventive decision when it added those parts. Indeed, Quanta had no 
+alternative but to follow Intel's specifications in incorporating the Intel 
+Products into its computers because it did not know their internal structure, 
+which Intel guards as a trade secret. Intel all but practiced the patent 
+itself by designing its products to practice the patents, lacking only the 
+addition of standard parts.
+
+We are unpersuaded by LGE's attempts to distinguish *Univis*. First, there is 
+no reason to distinguish the two cases on the ground that the articles in 
+*Univis* required the removal of material to practice the patent while the 
+Intel Products require the addition of components to practice the patent. LGE 
+characterizes the lens blanks and lenses as sharing a "basic nature" by virtue 
+of their physical similarity, while the Intel Products embody only some of the 
+"patentably distinct elements and steps" involved in the LGE Patents. Brief for 
+Respondent 26–27. But we think that the nature of the final step, rather than 
+whether it consists of adding or deleting material, is the relevant 
+characteristic. In each case, the final step to practice the patent is common 
+and noninventive: grinding a lens to the customer's prescription, or connecting 
+a microprocessor or chipset to buses or memory. The Intel Products embody the 
+essential features of the LGE Patents because they carry out all the inventive 
+processes when combined, according to their design, with standard components.
+
+With regard to LGE's argument that exhaustion does not apply across patents, we 
+agree on the general principle: The sale of a device that practices patent A 
+does not, by virtue of practicing patent A, exhaust patent B. But if the device 
+practices patent A while substantially embodying patent B, its relationship to 
+patent A does not prevent exhaustion of patent B. For example, if the *Univis* 
+lens blanks had been composed of shatter-resistant glass under patent A, the 
+blanks would nonetheless have substantially embodied, and therefore exhausted, 
+patent B for the finished lenses. This case is no different. While each Intel 
+microprocessor and chipset practices thousands of individual patents, including 
+some LGE patents not at issue in this case, the exhaustion analysis is not 
+altered by the fact that more than one patent is practiced by the same product. 
+The relevant consideration is whether the Intel Products that partially 
+practice a patent—by, for example, embodying its essential features—exhaust 
+that patent.
+
+Finally, LGE's reliance on *Aro* is misplaced because that case dealt only with 
+the question whether replacement of one part of a patented combination 
+infringes the patent. First, the replacement question is not at issue here. 
+Second, and more importantly, *Aro* is not squarely applicable to the 
+exhaustion of patents like the LGE Patents that do not disclose a new 
+combination of existing parts. *Aro* described combination patents as 
+"cover\[ing\] only the totality of the elements in the claim \[so\] that no 
+element, separately viewed, is within the grant." 365 U. S., at 344; see also 
+_Mercoid Corp. v. Mid-Continent Investment Co._, 320 U. S. 661, 667–668 (1944) 
+(noting that, in a combination patent, "the combination is the invention and it 
+is distinct from any" of its elements). *Aro*'s warning that no element can be 
+viewed as central to or equivalent to the invention is specific to the context 
+in which the combination itself is the only inventive aspect of the patent. In 
+this case, the inventive part of the patent is not the fact that memory and 
+buses are combined with a microprocessor or chipset; rather, it is included in 
+the design of the Intel Products themselves and the way these products access 
+the memory or bus.
+
+**C**
+
+Having concluded that the Intel Products embodied the patents, we next consider 
+whether their sale to Quanta exhausted LGE's patent rights. Exhaustion is 
+triggered only by a sale authorized by the patent holder. *Univis*, 316 U. S., 
+at 249.
+
+LGE argues that there was no authorized sale here because the License Agreement 
+does not permit Intel to sell its products for use in combination with 
+non-Intel products to practice the LGE Patents. It cites _General Talking 
+Pictures Corp. v. Western Elec. Co._, 304 U. S. 175 (1938), and _General 
+Talking Pictures Corp. v. Western Elec. Co._, 305 U. S. 124 (1938), in which 
+the manufacturer sold patented amplifiers for commercial use, thereby breaching 
+a license that limited the buyer to selling the amplifiers for private and home 
+use. The Court held that exhaustion did not apply because the manufacturer had 
+no authority to sell the amplifiers for commercial use, and the manufacturer 
+"could not convey to petitioner what both knew it was not authorized to sell." 
+General Talking Pictures, supra, at 181. LGE argues that the same principle 
+applies here: Intel could not convey to Quanta what both knew it was not 
+authorized to sell, i.e., the right to practice the patents with non-Intel 
+parts.
+
+LGE overlooks important aspects of the structure of the Intel-LGE transaction. 
+Nothing in the License Agreement restricts Intel's right to sell its 
+microprocessors and chipsets to purchasers who intend to combine them with 
+non-Intel parts. It broadly permits Intel to "'make, use, \[or\] sell'" 
+products free of LGE's patent claims. To be sure, LGE did require Intel to 
+give notice to its customers, including Quanta, that LGE had not licensed 
+those customers to practice its patents. But neither party contends that 
+Intel breached the agreement in that respect. In any event, the provision 
+requiring notice to Quanta appeared only in the Master Agreement, and LGE 
+does not suggest that a breach of that agreement would constitute a breach 
+of the License Agreement. Hence, Intel's authority to sell its products 
+embodying the LGE Patents was not conditioned on the notice 
+or on Quanta's decision to abide by LGE's directions in that notice.
+
+LGE points out that the License Agreement specifically disclaimed any license 
+to third parties to practice the patents by combining licensed products with 
+other components. But the question whether third parties received implied 
+licenses is irrelevant because Quanta asserts its right to practice the patents 
+based not on implied license but on exhaustion. And exhaustion turns only on 
+Intel's own license to sell products practicing the LGE Patents.
+
+Alternatively, LGE invokes the principle that patent exhaustion does not apply 
+to postsale restrictions on "making" an article. But this is simply a 
+rephrasing of its argument that combining the Intel Products with other 
+components adds more than standard finishing to complete a patented article. As 
+explained above, making a product that substantially embodies a patent is, for 
+exhaustion purposes, no different from making the patented article itself. In 
+other words, no further "making" results from the addition of standard 
+parts—here, the buses and memory—to a product that already substantially 
+embodies the patent.
+
+The License Agreement authorized Intel to sell products that practiced the LGE 
+Patents. No conditions limited Intel's authority to sell products substantially 
+embodying the patents. Because Intel was authorized to sell its products to 
+Quanta, the doctrine of patent exhaustion prevents LGE from further asserting 
+its patent rights with respect to the patents substantially embodied by those 
+products.\[FN7\]
+
+**IV**
+
+The authorized sale of an article that substantially embodies a patent exhausts 
+the patent holder's rights and prevents the patent holder from invoking patent 
+law to control postsale use of the article. Here, LGE licensed Intel to 
+practice any of its patents and to sell products practicing those patents. 
+Intel's microprocessors and chipsets substantially embodied the LGE Patents 
+because they had no reasonable noninfringing use and included all the inventive 
+aspects of the patented methods. Nothing in the License Agreement limited 
+Intel's ability to sell its products practicing the LGE Patents. Intel's 
+authorized sale to Quanta thus took its products outside the scope of the 
+patent monopoly, and as a result, LGE can no longer assert its patent rights 
+against Quanta. Accordingly, the judgment of the Court of Appeals is reversed.
+
+It is so ordered.
+
+*Selected footnotes from Quanta Computer, Inc. v. LG Electronics, Inc:*
+
+\[FN2\]: The A. B. Dick Company sold mimeograph machines with an attached 
+license stipulating that the machine could be used only with ink, paper, and 
+other supplies made by the A. B. Dick Company. The Court rejected the notion 
+that a patent holder “can only keep the article within the control of the 
+patent by retaining the title,” *A. B. Dick*, 224 U. S., at 18, and held that 
+"any … reasonable stipulation, not inherently violative of some substantive 
+law" was "valid and enforceable," *id*., at 31. The only requirement, the Court 
+held, was that "the purchaser must have notice that he buys with only a 
+qualified right of use," so that a sale made without conditions resulted in 
+"an unconditional title to the machine, with no limitations upon the use." 
+*Id*., at 26.
+
+\[FN5\]: One commentator recommends this strategy as a way to draft patent 
+claims that "will survive numerous transactions regarding the patented good, 
+allowing the force of the patent to intrude deeply into the stream of 
+commerce." Thomas, *Of Text, Technique, and the Tangible: Drafting Patent 
+Claims Around Patent Rules*, 17 J. Marshall J. Computer & Info. L. 219, 252 
+(1998); see also *id*., at 225–226 (advocating the conversion of apparatus 
+claims into method claims and noting that "\[e\]ven the most novice claims 
+drafter would encounter scant difficulty in converting a patent claim from 
+artifact to technique and back again").
+
+\[FN6\]: LGE suggests that the Intel Products would not infringe its patents if 
+they were sold overseas, used as replacement parts, or engineered so that use 
+with non-Intel Products would disable their patented features. Brief for 
+Respondent 21–22, n. 10. But *Univis* teaches that the question is whether the 
+product is "capable of use only in *practicing* the patent," not whether those 
+uses are infringing. 316 U.S., at 249 (emphasis added). Whether outside the 
+country or functioning as replacement parts, the Intel Products would still be 
+practicing the patent, even if not infringing it. And since the features 
+partially practicing the patent are what must have an alternative use, 
+suggesting that they be disabled is no solution. The disabled features would 
+have no real *use*.
+
+\[FN7\]: We note that the authorized nature of the sale to Quanta does not 
+necessarily limit LGE's other contract rights. LGE's complaint does not include 
+a breach-of-contract claim, and we express no opinion on whether contract 
+damages might be available even though exhaustion operates to eliminate patent 
+damages. *See* _Keeler v. Standard Folding Bed Co._, 157 U. S. 659, 666 (1895) 
+("Whether a patentee may protect himself and his assignees by special contracts 
+brought home to the purchasers is not a question before us, and upon which we 
+express no opinion. It is, however, obvious that such a question would arise as 
+a question of contract, and not as one under the inherent meaning and effect of 
+the patent laws").
+
+
+##### Discussion
+
+1. The *Quanta* court notes that "methods ... may be 'embodied' in a product, 
+  the sale of which exhausts patent rights." To what extent does software
+  "embody" possible patent claims, including claims for systems that may 
+  involve the use of many different components? 
+
+2. The *Quanta* court further notes that the patent exhaustion doctrine 
+  reaches "components that essentially, even if not completely, embody an 
+  invention." 
 
 
 <!-- Footnotes themselves at the bottom. -->
