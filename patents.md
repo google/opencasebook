@@ -2199,10 +2199,6 @@ United States Supreme Court (2008)[^QuantaHeadnote]
 
 [^QuantaHeadnote]:_Quanta Comput., Inc. v. LG Elecs., Inc._, 553 U.S. 617, 128 S. Ct. 2109 (2008), _available at_ [https://supreme.justia.com/cases/federal/us/553/617/](https://supreme.justia.com/cases/federal/us/553/617/)
 
-**QUANTA COMPUTER, INC., et al., PETITIONERS v. LG ELECTRONICS, INC.**
-on writ of certiorari to the United States Court of Appeals for the 
-Federal Circuit
-
 *Justice Thomas delivered the opinion of the Court.*
 
 For over 150 years this Court has applied the doctrine of patent exhaustion to 
@@ -2698,6 +2694,362 @@ a question of contract, and not as one under the inherent meaning and effect of
 the patent laws").
 
 
+#### Impression Products v. Lexmark International
+--------------------------------------------------------------------------------
+United States Supreme Court (2017)[^LexmarkHeadnote]
+
+[^LexmarkHeadnote]:_Impression Prods. v. Lexmark Int'l, Inc._, 137 S. Ct. 1523, 1526 (2017), _available at_ [https://caselaw.findlaw.com/us-supreme-court/15-1189.html](https://caselaw.findlaw.com/us-supreme-court/15-1189.html)
+
+*Chief Justice Roberts delivered the opinion of the Court.*
+
+A United States patent entitles the patent holder (the "patentee"), for a 
+period of 20 years, to "exclude others from making, using, offering for sale, 
+or selling \[its\] invention throughout the United States or importing the 
+invention into the United States." 35 U. S. C. §154(a). Whoever engages in one 
+of these acts "without authority" from the patentee may face liability for 
+patent infringement. §271(a).
+
+When a patentee sells one of its products, however, the patentee can no longer 
+control that item through the patent laws--its patent rights are said to 
+"exhaust." The purchaser and all subsequent owners are free to use or resell 
+the product just like any other item of personal property, without fear of an 
+infringement lawsuit.
+
+This case presents two questions about the scope of the patent exhaustion 
+doctrine: First, whether a patentee that sells an item under an express 
+restriction on the purchaser's right to reuse or resell the product may enforce 
+that restriction through an infringement lawsuit. And second, whether a 
+patentee exhausts its patent rights by selling its product outside the United 
+States, where American patent laws do not apply. We conclude that a patentee's 
+decision to sell a product exhausts all of its patent rights in that item, 
+regardless of any restrictions the patentee purports to impose or the location 
+of the sale.
+
+**I**
+
+The underlying dispute in this case is about laser printers-or, more 
+specifically, the cartridges that contain the powdery substance, known as 
+toner, that laser printers use to make an image appear on paper. Respondent 
+Lexmark International, Inc. designs, manufactures, and sells toner cartridges 
+to consumers in the United States and around the globe. It owns a number of 
+patents that cover components of those cartridges and the manner in which they 
+are used.
+
+When toner cartridges run out of toner they can be refilled and used again. 
+This creates an opportunity for other companies-known as remanufacturers-to 
+acquire empty Lexmark cartridges from purchasers in the United States and 
+abroad, refill them with toner, and then resell them at a lower price than the 
+new ones Lexmark puts on the shelves.
+
+Not blind to this business problem, Lexmark structures its sales in a way that 
+encourages customers to return spent cartridges. It gives purchasers two 
+options: One is to buy a toner cartridge at full price, with no strings 
+attached. The other is to buy a cartridge at roughly 20-percent off through 
+Lexmark's "Return Program." A customer who buys through the Return Program 
+still owns the cartridge but, in exchange for the lower price, signs a contract 
+agreeing to use it only once and to refrain from transferring the empty 
+cartridge to anyone but Lexmark. To enforce this single-use/no-resale 
+restriction, Lexmark installs a microchip on each Return Program cartridge that 
+prevents reuse once the toner in the cartridge runs out.
+
+Lexmark's strategy just spurred remanufacturers to get more creative. Many kept 
+acquiring empty Return Program cartridges and developed methods to counteract 
+the effect of the microchips. With that technological obstacle out of the way, 
+there was little to prevent the re-manufacturers from using the Return Program 
+cartridges in their resale business. After all, Lexmark's contractual 
+single-use/no-resale agreements were with the initial customers, not with 
+downstream purchasers like the remanufacturers.
+
+Lexmark, however, was not so ready to concede that its plan had been foiled. In 
+2010, it sued a number of remanufacturers, including petitioner Impression 
+Products, Inc., for patent infringement with respect to two groups of 
+cartridges. One group consists of Return Program cartridges that Lexmark sold 
+within the United States. Lexmark argued that, because it expressly prohibited 
+reuse and resale of these cartridges, the remanufacturers infringed the Lexmark 
+patents when they refurbished and resold them. The other group consists of all 
+toner cartridges that Lexmark sold abroad and that remanufacturers imported 
+into the country. Lexmark claimed that it never gave anyone authority to import 
+these cartridges, so the remanufacturers ran afoul of its patent rights by 
+doing just that.
+
+Eventually, the lawsuit was whittled down to one defendant, Impression 
+Products, and one defense: that Lexmark's sales, both in the United States and 
+abroad, exhausted its patent rights in the cartridges, so Impression Products 
+was free to refurbish and resell them, and to import them if acquired abroad. 
+Impression Products filed separate motions to dismiss with respect to both 
+groups of cartridges. The District Court granted the motion as to the domestic 
+Return Program cartridges, but denied the motion as to the cartridges Lexmark 
+sold abroad. Both parties appealed.
+
+The Federal Circuit considered the appeals en banc and ruled for Lexmark with 
+respect to both groups of cartridges....
+
+We granted certiorari to consider the Federal Circuit's decisions with respect 
+to both domestic and international exhaustion, 580 U. S. ___ (2016), and now 
+reverse.
+
+**II**
+**A**
+
+First up are the Return Program cartridges that Lexmark sold in the United 
+States. We conclude that Lexmark exhausted its patent rights in these 
+cartridges the moment it sold them. The single-use/no-resale restrictions in 
+Lexmark's contracts with customers may have been clear and enforceable under 
+contract law, but they do not entitle Lexmark to retain patent rights in an 
+item that it has elected to sell.
+
+The Patent Act grants patentees the "right to exclude others from making, 
+using, offering for sale, or selling \[their\] invention\[s\]." 35 U. S. C. 
+§154(a). For over 160 years, the doctrine of patent exhaustion has imposed a 
+limit on that right to exclude. See _Bloomer v. McQuewan_, 14 How. 539 (1853). 
+The limit functions automatically: When a patentee chooses to sell an item, 
+that product "is no longer within the limits of the monopoly" and instead 
+becomes the "private, individual property" of the purchaser, with the rights 
+and benefits that come along with ownership. *Id*., at 549-550. A patentee is 
+free to set the price and negotiate contracts with purchasers, but may not, "by 
+virtue of his patent, control the use or disposition" of the product after 
+ownership passes to the purchaser. _United States v. Univis Lens Co._, 
+316 U. S. 241, 250 (1942) (emphasis added). The sale "terminates all patent 
+rights to that item." _Quanta Computer, Inc. v. LG Electronics, Inc._, 
+553 U. S. 617, 625 (2008).
+
+This well-established exhaustion rule marks the point where patent rights yield 
+to the common law principle against restraints on alienation. The Patent Act 
+"promote\[s\] the progress of science and the useful arts by granting to 
+\[inventors\] a limited monopoly" that allows them to "secure the financial 
+rewards" for their inventions. *Univis*, 316 U. S., at 250. But once a patentee 
+sells an item, it has "enjoyed all the rights secured" by that limited 
+monopoly. _Keeler v. Standard Folding Bed Co._, 157 U. S. 659, 661 (1895). 
+Because "the purpose of the patent law is fulfilled . . . when the patentee has 
+received his reward for the use of his invention," that law furnishes "no basis 
+for restraining the use and enjoyment of the thing sold." *Univis*, 
+316 U. S., at 251.
+
+We have explained in the context of copyright law that exhaustion has "an 
+impeccable historic pedigree," tracing its lineage back to the "common law's 
+refusal to permit restraints on the alienation of chattels." _Kirtsaeng v. John 
+Wiley & Sons, Inc._, 568 U. S. 519, 538 (2013). As Lord Coke put it in the 17th 
+century, if an owner restricts the resale or use of an item after selling it, 
+that restriction "is voide, because . . . it is against Trade and Traffique, 
+and bargaining and contracting betweene man and man." 1 E. Coke, Institutes of 
+the Laws of England §360, p. 223 (1628); see J. Gray, Restraints on the 
+Alienation of Property §27, p. 18 (2d ed. 1895) ("A condition or conditional 
+limitation on alienation attached to a transfer of the entire interest in 
+personalty is as void as if attached to a fee simple in land").
+
+This venerable principle is not, as the Federal Circuit dismissively viewed it, 
+merely "one common-law jurisdiction's general judicial policy at one time 
+toward anti-alienation restrictions." 816 F. 3d, at 750. Congress enacted and 
+has repeatedly revised the Patent Act against the backdrop of the hostility 
+toward restraints on alienation. That enmity is reflected in the exhaustion 
+doctrine. The patent laws do not include the right to "restrain[ ] . . . 
+further alienation" after an initial sale; such conditions have been "hateful 
+to the law from Lord Coke's day to ours" and are "obnoxious to the public 
+interest." _Straus v. Victor Talking Machine Co._, 243 U. S. 490, 501 (1917). 
+"The inconvenience and annoyance to the public that an opposite conclusion 
+would occasion are too obvious to require illustration." *Keeler*, 157 U. S., 
+at 667.
+
+But an illustration never hurts. Take a shop that restores and sells used cars. 
+The business works because the shop can rest assured that, so long as those 
+bringing in the cars own them, the shop is free to repair and resell those 
+vehicles. That smooth flow of commerce would sputter if companies that make the 
+thousands of parts that go into a vehicle could keep their patent rights after 
+the first sale. Those companies might, for instance, restrict resale rights and 
+sue the shop owner for patent infringement. And even if they refrained from 
+imposing such restrictions, the very threat of patent liability would force the 
+shop to invest in efforts to protect itself from hidden lawsuits. Either way, 
+extending the patent rights beyond the first sale would clog the channels of 
+commerce, with little benefit from the extra control that the patentees retain. 
+And advances in technology, along with increasingly complex supply chains, 
+magnify the problem. *See* Brief for Costco Wholesale Corp. et al. as Amici 
+Curiae 7-9; Brief for Intel Corp. et al. as Amici Curiae 17, n. 5 ("A generic 
+smartphone assembled from various high-tech components could practice an 
+estimated 250,000 patents").
+
+This Court accordingly has long held that, even when a patentee sells an item 
+under an express restriction, the patentee does not retain patent rights in 
+that product. In _Boston Store of Chicago v. American Graphophone Co._, for 
+example, a manufacturer sold graphophones--one of the earliest devices for 
+recording and reproducing sounds--to retailers under contracts requiring those 
+stores to resell at a specific price. 246 U. S. 8, 17-18 (1918). When the 
+manufacturer brought a patent infringement suit against a retailer who sold for 
+less, we concluded that there was "no room for controversy" about the result: 
+By selling the item, the manufacturer placed it "beyond the confines of the 
+patent law, \[and\] could not, by qualifying restrictions as to use, keep 
+\[it\] under the patent monopoly." Id., at 20, 25.
+
+Two decades later, we confronted a similar arrangement in United States v. 
+Univis Lens Co. There, a company that made eyeglass lenses authorized an agent 
+to sell its products to wholesalers and retailers only if they promised to 
+market the lenses at fixed prices. The Government filed an antitrust lawsuit, 
+and the company defended its arrangement on the ground that it was exercising 
+authority under the Patent Act. We held that the initial sales 
+"relinquish\[ed\] . . . the patent monopoly with respect to the article\[s\] 
+sold," so the "stipulation . . . fixing resale prices derive\[d\] no support 
+from the patent and must stand on the same footing" as restrictions on 
+unpatented goods. 316 U. S., at 249-251.
+
+It is true that Boston Store and Univis involved resale price restrictions 
+that, at the time of those decisions, violated the antitrust laws. But in both 
+cases it was the sale of the items, rather than the illegality of the 
+restrictions, that prevented the patentees from enforcing those resale price 
+agreements through patent infringement suits. And if there were any lingering 
+doubt that patent exhaustion applies even when a sale is subject to an express, 
+otherwise lawful restriction, our recent decision in _Quanta Computer, Inc. v. 
+LG Electronics, Inc._ settled the matter. In that case, a technology 
+company-with authorization from the patentee-sold microprocessors under 
+contracts requiring purchasers to use those processors with other parts that 
+the company manufactured. One buyer disregarded the restriction, and the 
+patentee sued for infringement. Without so much as mentioning the lawfulness of 
+the contract, we held that the patentee could not bring an infringement suit 
+because the "authorized sale . . . took its products outside the scope of the 
+patent monopoly." 553 U. S., at 638.
+
+Turning to the case at hand, we conclude that this well-settled line of 
+precedent allows for only one answer: Lexmark cannot bring a patent 
+infringement suit against Impression Products to enforce the 
+single-use/no-resale provision accompanying its Return Program cartridges. Once 
+sold, the Return Program cartridges passed outside of the patent monopoly, and 
+whatever rights Lexmark retained are a matter of the contracts with its 
+purchasers, not the patent law.
+
+**B**
+
+The Federal Circuit reached a different result largely because it got off on 
+the wrong foot. The "exhaustion doctrine," the court believed, "must be 
+understood as an interpretation of" the infringement statute, which prohibits 
+anyone from using or selling a patented article "without authority" from the 
+patentee. 816 F. 3d, at 734 (quoting 35 U. S. C. §271(a)). Exhaustion reflects 
+a default rule that a patentee's decision to sell an item "presumptively 
+grant\[s\] 'authority' to the purchaser to use it and resell it." 816 F. 3d, 
+at 742. But, the Federal Circuit explained, the patentee does not have to hand 
+over the full "bundle of rights" every time. *Id*., at 741 (internal quotation 
+marks omitted). If the patentee expressly withholds a stick from the 
+bundle-perhaps by restricting the purchaser's resale rights-the buyer never 
+acquires that withheld authority, and the patentee may continue to enforce its 
+right to exclude that practice under the patent laws.
+
+The misstep in this logic is that the exhaustion doctrine is not a presumption 
+about the authority that comes along with a sale; it is instead a limit on "the 
+scope of the patentee's rights."_ United States v. General Elec. Co._, 
+272 U. S. 476, 489 (1926) (emphasis added). The right to use, sell, or import 
+an item exists independently of the Patent Act. What a patent adds-and grants 
+exclusively to the patentee-is a limited right to prevent others from engaging 
+in those practices. See _Crown Die & Tool Co. v. Nye Tool & Machine Works_, 
+261 U. S. 24, 35 (1923). Exhaustion extinguishes that exclusionary power. See 
+*Bloomer*, 14 How., at 549 (the purchaser "exercises no rights created by the 
+act of Congress, nor does he derive title to [the item] by virtue of the . . . 
+exclusive privilege granted to the patentee"). As a result, the sale transfers 
+the right to use, sell, or import because those are the rights that come along 
+with ownership, and the buyer is free and clear of an infringement lawsuit 
+because there is no exclusionary right left to enforce.
+
+The Federal Circuit also expressed concern that preventing patentees from 
+reserving patent rights when they sell goods would create an artificial 
+distinction between such sales and sales by licensees. Patentees, the court 
+explained, often license others to make and sell their products, and may place 
+restrictions on those licenses. A computer developer could, for instance, 
+license a manufacturer to make its patented devices and sell them only for 
+non-commercial use by individuals. If a licensee breaches the license by 
+selling a computer for commercial use, the patentee can sue the licensee for 
+infringement. And, in the Federal Circuit's view, our decision in 
+_General Talking Pictures Corp. v. Western Elec. Co._, 304 U. S. 175, 
+aff'd on reh'g, 305 U. S. 124 (1938), established that-when a patentee grants a 
+license "under clearly stated restrictions on post-sale activities" of those 
+who purchase products from the licensee-the patentee can also sue for 
+infringement those purchasers who knowingly violate the restrictions. 
+816 F. 3d, at 743-744. If patentees can employ licenses to impose post-sale 
+restrictions on purchasers that are enforceable through infringement suits, the 
+court concluded, it would make little sense to prevent patentees from doing so 
+when they sell directly to consumers.
+
+The Federal Circuit's concern is misplaced. A patentee can impose restrictions 
+on licensees because a license does not implicate the same concerns about 
+restraints on alienation as a sale. Patent exhaustion reflects the principle 
+that, when an item passes into commerce, it should not be shaded by a legal 
+cloud on title as it moves through the marketplace. But a license is not about 
+passing title to a product, it is about changing the contours of the patentee's 
+monopoly: The patentee agrees not to exclude a licensee from making or selling 
+the patented invention, expanding the club of authorized producers and sellers. 
+*See* *General Elec. Co.*, 272 U. S., at 489-490. Because the patentee is 
+exchanging rights, not goods, it is free to relinquish only a portion of its 
+bundle of patent protections.
+
+A patentee's authority to limit licensees does not, as the Federal Circuit 
+thought, mean that patentees can use licenses to impose post-sale restrictions 
+on purchasers that are enforceable through the patent laws. So long as a 
+licensee complies with the license when selling an item, the patentee has, in 
+effect, authorized the sale. That licensee's sale is treated, for purposes of 
+patent exhaustion, as if the patentee made the sale itself. The result: The 
+sale exhausts the patentee's rights in that item. See _Hobbie v. Jennison_, 149 
+U. S. 355, 362-363 (1893). A license may require the licensee to impose a 
+restriction on purchasers, like the license limiting the computer manufacturer 
+to selling for non-commercial use by individuals. But if the licensee does 
+so-by, perhaps, having each customer sign a contract promising not to use the 
+computers in business-the sale nonetheless exhausts all patent rights in the 
+item sold. See _Motion Picture Patents Co. v. Universal Film Mfg. Co._, 
+243 U. S. 502, 506-507, 516 (1917). The purchasers might not comply with the 
+restriction, but the only recourse for the licensee is through contract law, 
+just as if the patentee itself sold the item with a restriction.
+
+General Talking Pictures involved a fundamentally different situation: There, a 
+licensee "knowingly ma\[de\] . . . sales . . . outside the scope of its 
+license." 304 U. S., at 181-182 (emphasis added). We treated the sale "as if no 
+license whatsoever had been granted" by the patentee, which meant that the 
+patentee could sue both the licensee and the purchaser-who knew about the 
+breach-for infringement. _General Talking Pictures Corp. v. Western Elec. Co._, 
+305 U. S. 124, 127 (1938). This does not mean that patentees can use licenses 
+to impose post-sale restraints on purchasers. Quite the contrary: The licensee 
+infringed the patentee's rights because it did not comply with the terms of its 
+license, and the patentee could bring a patent suit against the purchaser only 
+because the purchaser participated in the licensee's infringement. *General 
+Talking Pictures*, then, stands for the modest principle that, if a 
+patentee has not given authority for a licensee to make a sale, that sale 
+cannot exhaust the patentee's rights.
+
+In sum, patent exhaustion is uniform and automatic. Once a patentee decides to 
+sell-whether on its own or through a licensee--that sale exhausts its patent 
+rights, regardless of any post-sale restrictions the patentee purports to 
+impose, either directly or through a license.
+
+**III**
+
+Our conclusion that Lexmark exhausted its patent rights when it sold the 
+domestic Return Program cartridges goes only halfway to resolving this case. 
+Lexmark also sold toner cartridges abroad and sued Impression Products for 
+patent infringement for "importing \[Lexmark's\] invention into the United 
+States." 35 U. S. C. §154(a). Lexmark contends that it may sue for infringement 
+with respect to all of the imported cartridges-not just those in the Return 
+Program--because a foreign sale does not trigger patent exhaustion unless the 
+patentee "expressly or implicitly transfer\[s\] or license\[s\]" its rights. 
+Brief for Respondent 36-37. The Federal Circuit agreed, but we do not. An 
+authorized sale outside the United States, just as one within the United 
+States, exhausts all rights under the Patent Act.
+
+[...]
+
+Exhaustion does not arise because of the parties' expectations about how sales 
+transfer patent rights. More is at stake when it comes to patents than simply 
+the dealings between the parties, which can be addressed through contract law. 
+Instead, exhaustion occurs because, in a sale, the patentee elects to give up 
+title to an item in exchange for payment. Allowing patent rights to stick 
+remora-like to that item as it flows through the market would violate the 
+principle against restraints on alienation. Exhaustion does not depend on 
+whether the patentee receives a premium for selling in the United States, or 
+the type of rights that buyers expect to receive. As a result, restrictions and 
+location are irrelevant; what matters is the patentee's decision to make a sale.
+
+*  *  *
+
+The judgment of the United States Court of Appeals for the Federal Circuit is 
+reversed, and the case is remanded for further proceedings consistent with this 
+opinion.
+
+It is so ordered.
+
+
+
 ##### Discussion
 
 1. The *Quanta* court notes that "methods ... may be 'embodied' in a product, 
@@ -2705,9 +3057,29 @@ the patent laws").
   "embody" possible patent claims, including claims for systems that may 
   involve the use of many different components? 
 
-2. The *Quanta* court further notes that the patent exhaustion doctrine 
-  reaches "components that essentially, even if not completely, embody an 
-  invention." 
+2. The *Lexmark* court draws a distinction between agreements to license alone
+  as opposed to distributions of goods: "Because the patentee is exchanging 
+  rights, not goods, it is free to relinquish only a portion of its bundle of 
+  patent protections." (*Lexmark* at 1539.) Does the common practice of 
+  including the license grant (the "rights") *with* the code itself 
+  (the "goods") imply that every distribution of the source code implicates
+  exhaustion?
+
+3. As discussed above, open source has *self-executing* licenses: Anybody who
+  receives a copy of the code automatically is licensed for the use of that 
+  code by the applicable upstream licensor. In the context of patent 
+  exhaustion, is there a logical distinction between licenses received through 
+  a direct download from a licensor, and those that are received via a third 
+  party? Does the rule from *General Talking Pictures* ("if a patentee has 
+  not given authority for a licensee to make a sale, that sale cannot exhaust 
+  the patentee's rights") mean that someone receiving a non-compliant 
+  distribution of source code may be liable for patent infringement?
+
+4. On occasion, companies have distributed source code subject to an
+  open source license accompanied by an explicit disclaimer of a patent 
+  license. Does the distribution of the source code exhaust any applicable
+  patents regardless of the disclaimer? 
+
 
 
 <!-- Footnotes themselves at the bottom. -->
