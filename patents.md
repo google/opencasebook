@@ -3156,12 +3156,6 @@ LifeScan's OneTouch Ultra meters substantially embody the methods claimed in
 the '105 patent and that their distribution therefore exhausts LifeScan's 
 patent rights. We therefore reverse the district court's grant of a preliminary 
 injunction and remand for further proceedings consistent with this opinion.
-        
-        LifeScan Scot., Ltd. v. Shasta Techs., LLC, 734 F.3d 1361, 1383 (Fed. Cir. 2013)
-        
-
-
-      
 
 ##### Discussion
 
@@ -3202,7 +3196,7 @@ injunction and remand for further proceedings consistent with this opinion.
   > modification, are permitted provided that the following conditions are met:
   > 
   > * Redistributions of source code must retain the above copyright
-  > notice, this list of conditions and the following disclaimer.
+  >   notice, this list of conditions and the following disclaimer.
   > * Redistributions in binary form must reproduce the above copyright
   >   notice, this list of conditions and the following disclaimer in the
   >   documentation and/or other materials provided with the distribution.
