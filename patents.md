@@ -29,18 +29,16 @@ Further, even when there is an explicit patent grant, the scope of the patent
 grant may not be well-defined. Finally, the distribution of open 
 source-licensed software may have implications for patent exhaustion.
 
-This chapter presents materials related to five separate but related issues:
+This chapter presents materials related to four separate but related issues:
 
 1. **Explicit licenses:** Express language in open source licenses granting 
   patent licenses;
 2. **Implicit Licenses:** The existence and scope of implied patent licenses 
   in open source licenses;
 3. **Express but Non-specific Licenses:** Express grants in open source 
-  licenses that do not include the term "patent;" 
+  licenses that do not include the term "patent;" and
 4. **Patent Exhaustion:** The doctrine of patent exhaustion and its 
-  applicability to the distribution of open source software; and
-5. **License Termination:** Circumstances that can lead to an ineffective
-  or terminated patent grant. 
+  applicability to the distribution of open source software. 
 
 
 [^PatentabilityDiscussion]: The exact scope of what is patentable within a 
