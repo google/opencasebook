@@ -3048,7 +3048,120 @@ opinion.
 
 It is so ordered.
 
+--------------------------------------------------------------------------------
+The cases above dealt with "authorized sales," which don't always occur in an
+open source context. Usually, open source code is simply downloaded for free,
+either directly from the licensor or (more frequently) from a third party
+distributor or aggregator of open source code. The following two cases present
+situations analogous to many situations that occur when using open source 
+code.
 
+#### Lifescan Scotland, Ltd. v. Shasta Technologies
+
+--------------------------------------------------------------------------------
+
+Excerpt from _LifeScan Scot., Ltd. v. Shasta Techs., LLC._, 734 F.3d 1361, 1374-1375 (Fed. Cir. 2013), some internal citations omitted.[^LifeScanHeadnote]
+
+[^LifeScanHeadnote]: _LifeScan Scot., Ltd. v. Shasta Techs., LLC._, 734 F.3d 1361, 1374-1375 (Fed. Cir. 2013), _available at_ [https://www.leagle.com/decision/infco20131104107](https://www.leagle.com/decision/infco20131104107)
+
+LifeScan's final argument is that even if its meters substantially embody the 
+asserted claims, patent exhaustion is nevertheless inapplicable to the 60% of 
+its meters that are not sold but instead distributed for free. LifeScan asserts 
+that it received no "reward" for distributing them (because they were 
+distributed without charge), and that the district court therefore properly 
+found that patent exhaustion did not apply. We are therefore asked to decide, 
+as a matter of first impression, whether patent exhaustion applies to a product 
+distributed for free. We conclude that, in the case of an authorized and 
+unconditional transfer of title, the absence of consideration is no barrier to 
+the application of patent exhaustion principles.
+
+Although the Supreme Court has often discussed exhaustion in terms of a "sale" 
+and a "purchaser," see, e.g., _Bowman v. Monsanto Co._, 133 S. Ct. 1761, 1766, 
+185 L. Ed. 2d 931 (2013); *Adams*, 84 U.S. at 456, the Court has never confined 
+the application of patent exhaustion to that context. The Court explained the 
+rationale underlying the doctrine of patent exhaustion in _Bloomer v. 
+McQuewan_, 55 U.S. (14 How.) 539, 14 L. Ed. 532 (1853). See also *Quanta*, 
+553 U.S. at 625. *McQuewan* involved the effect of a patent term extension on 
+patent licensees holding licenses to use the patented planing machine during 
+the original patent term. The Court held that "the purchaser of the . . . 
+machine for the purpose of using it in the ordinary pursuits of life" was 
+entitled to continue using the machine during the extended term. The Court 
+explained that
+
+> when the machine *passes to the hands* of the purchaser, it is no longer 
+> within the limits of the \[patent\] monopoly. It passes outside of it, and is 
+> no longer under the protection of the act of Congress. . . . The implement or 
+> machine *becomes \[the purchaser's\] private, individual property*, not 
+> protected by the laws of the United States, but by the laws of the State in 
+> which it is situated.
+
+*Id*. at 549-50 (emphases added). In other words, the patentee's transfer of 
+the right to use the machines "exhaust[ ed]" his rights as to those machines. 
+See *Univis*, 316 U.S. at 250 (citing *McQuewan*, 55 U.S. (14 How.) at 549-50).
+
+Thus, despite frequent references to "sales" and "purchasers," the Court has 
+more fundamentally described exhaustion as occurring when the patented product 
+"passes to the hands" of a transferee and when he "legally acquires a title" 
+to it. *Millinger*, 68 U.S. (1 Wall.) at 351 ("legally acquires a title"); 
+_Chaffee v. Boston Belting Co._, 63 U.S. (22 How.) 217, 223, 
+16 L. Ed. 240 (1859) ("passes to the hands," "legally acquires a title"); 
+*McQuewan*, 55 U.S. (14 How.) at 549-50 ("passes to the hands"). Similarly, the 
+Court has stated that exhaustion can occur by a transfer "from any other person 
+. . . authorized [by the patentee] to convey it." Millinger, 68 U.S. (1 Wall.) 
+at 351 (emphasis added); Chaffee, 63 U.S. (22 How.) at 223 (same); see Black's 
+Law Dictionary 273 (1st ed. 1891) (defining "convey" to mean "\[t\]o pass or 
+transmit the title to property from one to another"). So too, in *Univis*, the 
+Court stated that the patentee's "monopoly remains so long as he *retains the 
+ownership* of the patented article." 316 U.S. at 250 (emphasis added). Each of 
+these formulations is broad enough to include a transfer of title that does not 
+amount to a sale. A "sale" limitation would indeed be inconsistent with the 
+Supreme Court's decision in *McQuewan*, where the particular machines at issue 
+had never been sold, but had instead been manufactured by the accused infringer 
+with the permission of the patentee. See 55 U.S. (14 How.) at 548. Yet that 
+lack of a "sale" was no barrier to the application of patent exhaustion. 
+See *id*. at 549-50. Because the machines had been constructed with the 
+patentee's authorization and were the "private, individual property" of the 
+accused infringer, they were "no longer under the protection of" the Patent 
+Act. *Id*. The narrow application of patent exhaustion urged by LifeScan would 
+be inconsistent with the doctrine's underlying rationale—to permit the owner of 
+an item who received it in an authorized transfer to use it.
+
+LifeScan relies on language in Supreme Court exhaustion decisions mentioning 
+the receipt of "consideration" or "reward" by the patentee as supporting 
+exhaustion. See, e.g., *Univis*, 316 U.S. at 251 ("[T]he patentee has received 
+his reward for the use of the invention by the sale of the article . . . ."); 
+*Adams*, 84 U.S. (17 Wall.) at 456 ("[W]hen the patentee . . . sells a machine 
+. . . whose sole value is in its use, he receives the consideration for its use 
+and he parts with the right to control that use."). But none of the cases cited 
+by LifeScan involved any suggestion that exhaustion could be avoided by showing 
+the absence or inadequacy of the patentee's reward in a transfer by gift.
+
+At bottom, a patentee has a choice as to how to secure its reward. A patentee 
+may "demand[]" a particular price in exchange for an "article and the invention 
+which it embodies." See *Univis*, 316 U.S. at 251; see also *McQuewan*, 55 U.S. 
+(14 How.) at 552. Alternately, a patentee may choose to give that article away 
+for free in the hope of obtaining a future benefit, as LifeScan did here. But a 
+patentee cannot evade patent exhaustion principles by choosing to give the 
+article away rather than charging a particular price for it. Where a patentee 
+unconditionally parts with ownership of an article, it cannot later complain 
+that the approach that it chose results in an inadequate reward and that 
+therefore ordinary principles of patent exhaustion should not apply.
+
+[...]
+
+In summary, we hold that patent exhaustion principles apply equally to all 
+authorized transfers of title in property, regardless of whether the particular 
+transfer at issue constituted a gift or a sale. We further conclude that 
+LifeScan's OneTouch Ultra meters substantially embody the methods claimed in 
+the '105 patent and that their distribution therefore exhausts LifeScan's 
+patent rights. We therefore reverse the district court's grant of a preliminary 
+injunction and remand for further proceedings consistent with this opinion.
+        
+        LifeScan Scot., Ltd. v. Shasta Techs., LLC, 734 F.3d 1361, 1383 (Fed. Cir. 2013)
+        
+
+
+      
 
 ##### Discussion
 
@@ -3077,10 +3190,74 @@ It is so ordered.
 
 4. On occasion, companies have distributed source code subject to an
   open source license accompanied by an explicit disclaimer of a patent 
-  license. Does the distribution of the source code exhaust any applicable
+  license. For example *see* the PARC CCNS3Sim License:[^PARC]
+  ___
+  > LICENSE
+  >
+  > Copyright (c) 2016, Xerox Corporation (Xerox) and 
+  > Palo Alto Research Center, Inc (PARC)
+  > All rights reserved.
+  > 
+  > Redistribution and use in source and binary forms, with or without
+  > modification, are permitted provided that the following conditions are met:
+  > 
+  > * Redistributions of source code must retain the above copyright
+  > notice, this list of conditions and the following disclaimer.
+  > * Redistributions in binary form must reproduce the above copyright
+  >   notice, this list of conditions and the following disclaimer in the
+  >   documentation and/or other materials provided with the distribution.
+  > 
+  > THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+  > AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, 
+  > THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR  
+  > PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL XEROX OR PARC BE LIABLE FOR ANY
+  > DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+  > (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+  > LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+  > ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+  > (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF 
+  > THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+  > 
+  >
+  > \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#
+  > 
+  > PATENT NOTICE
+  >  
+  > This software is distributed under the BSD 2-clause License (see LICENSE
+  > file).  This BSD License does not make any patent claims and as such, 
+  > does not act as a patent grant.  The purpose of this section is for each
+  > contributor to define their intentions with respect to intellectual 
+  > property.
+  > 
+  > Each contributor to this source code is encouraged to state their patent
+  > claims and licensing mechanisms for any contributions made. At the end of
+  > this section contributors may each make their own statements.  
+  > Contributor's claims and grants only apply to the pieces (source code,
+  > programs, text, media, etc) that they have contributed directly to this 
+  > software.
+  >
+  > There is no guarantee that this section is complete, up to date or 
+  > accurate. It is up to the contributors to maintain their section in 
+  > this file up to date and up to the user of the software to verify any 
+  > claims herein.
+  >
+  > Do not remove this header notification.  The contents of this section must 
+  > be present in all distributions of the software.  You may only modify your 
+  > own intellectual property statements.  Please provide contact information.
+  >
+  > - Palo Alto Research Center, Inc
+  >   This software distribution does not grant any rights to patents owned by 
+  >   Palo Alto Research Center, Inc (PARC). Rights to these patents are 
+  >   available via various mechanisms. As of January 2016 PARC has committed 
+  >   to FRAND licensing any intellectual property used by its contributions 
+  >   to this software. You may contact PARC at cipo@parc.com for more 
+  >   information or visit http://www.ccnx.org
+ ___
+  
+  Does the distribution of the source code exhaust any applicable
   patents regardless of the disclaimer? 
 
-
+[^PARC]: CCNx Module for NS3 License text, *available at* [https://github.com/PARC/ccns3Sim](https://github.com/PARC/ccns3Sim).
 
 <!-- Footnotes themselves at the bottom. -->
 
