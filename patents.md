@@ -25,7 +25,7 @@ not enough to identify whether there is an effective grant of patent rights.
 For example, the Open Source Initiative has stated its view that all open 
 source licenses implicitly include a patent grant, relying on the text of 
 elements 1 and 7 of the open source definition.[^OpenSourceDefinition1and7] 
-Further, even when there is an explicit patent grant, the scope of the patent  
+Further, even when there is an explicit patent grant, the scope of the patent
 grant may not be well-defined. Finally, the distribution of open 
 source-licensed software may have implications for patent exhaustion.
 
@@ -41,21 +41,13 @@ This chapter presents materials related to four separate but related issues:
   applicability to the distribution of open source software. 
 
 
-[^PatentabilityDiscussion]: The exact scope of what is patentable within a 
-  software program is subject to debate, and has changed over time. This 
-  discussion, however, assumes that there is some software, released under 
-  open source licenses, that is both patent-eligible and implicates one or 
-  more valid patent claims.
+[^PatentabilityDiscussion]: The exact scope of what is patentable within a software program is subject to debate, and has changed over time. This discussion, however, assumes that there is some software, released under open source licenses, that is both patent-eligible and implicates one or more valid patent claims.
 
-[^35USC271abc]: _See_ the text of 35 U.S.C. 271 and discussion _infra_, 
-  laying out the scope of the unique rights granted to a patent owner.
+[^35USC271abc]: _See_ the text of 35 U.S.C. 271 and discussion _infra_, laying out the scope of the unique rights granted to a patent owner.
 
-[^OpenSourceLicensesWithGrants]: _See_ the examples of explicit patent grants
-  and discussion _infra_.
+[^OpenSourceLicensesWithGrants]: _See_ the examples of explicit patent grants and discussion _infra_.
 
-[^OpenSourceDefinition1and7]: _See The Open Source Definition - Annotated_, elements one and seven: 
-  1\. _Free Redistribution_: The license shall not restrict any party from selling or giving away the software as a component of an aggregate software distribution containing programs from several different sources. The license shall not require a royalty or other fee for such sale.
-  7\. _Distribution of License_: The rights attached to the program must apply to all to whom the program is redistributed without the need for execution of an additional license by those parties. Open Source Initiative, [https://opensource.org/osd-annotated](https://opensource.org/osd-annotated) (Open Source Definition-Annotated) (CC-BY 4.0)
+[^OpenSourceDefinition1and7]: _See The Open Source Definition - Annotated_, elements one and seven: <br />1\. _Free Redistribution_: The license shall not restrict any party from selling or giving away the software as a component of an aggregate software distribution containing programs from several different sources. The license shall not require a royalty or other fee for such sale.<br />7\. _Distribution of License_: The rights attached to the program must apply to all to whom the program is redistributed without the need for execution of an additional license by those parties. Open Source Initiative, [https://opensource.org/osd-annotated](https://opensource.org/osd-annotated) (Open Source Definition-Annotated) (CC-BY 4.0)
 
 ## Explicit Patent Licensing
 
@@ -83,15 +75,15 @@ Excerpt from the Academic Free License, Version 3.0[^AFL]
 #### Apache 2.0
 Excerpt from the Apache License, Version 2.0[^Apache2]
 
-> **6\. Grant of Patent License.**
-> Subject to the terms and conditions of this License, each Contributor hereby 
-> grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, 
-> irrevocable (except as stated in this section) patent license to make, have 
-> made, use, offer to sell, sell, import, and otherwise transfer the Work, 
-> where such license applies only to those patent claims licensable by such 
-> Contributor that are necessarily infringed by their Contribution(s) alone 
-> or by combination of their Contribution(s) with the Work to which such 
-> Contribution(s) was submitted.... 
+**6\. Grant of Patent License.**
+Subject to the terms and conditions of this License, each Contributor hereby 
+grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, 
+irrevocable (except as stated in this section) patent license to make, have 
+made, use, offer to sell, sell, import, and otherwise transfer the Work, 
+where such license applies only to those patent claims licensable by such 
+Contributor that are necessarily infringed by their Contribution(s) alone 
+or by combination of their Contribution(s) with the Work to which such 
+Contribution(s) was submitted.... 
 
 [^Apache2]: _Apache License, Version 2.0_, Apache Foundation, *available at* [https://www.apache.org/licenses/LICENSE-2.0](https://www.apache.org/licenses/LICENSE-2.0) (Jan. 2004).
 
@@ -99,17 +91,17 @@ Excerpt from the Apache License, Version 2.0[^Apache2]
 #### Eclipse Public License version 2.0
 Excerpt from the Eclipse Public License, Version 2[^EPL2]
 
-> **2\. GRANT OF RIGHTS**
-> \[...\] b) Subject to the terms of this Agreement, each Contributor hereby 
-> grants Recipient a non-exclusive, worldwide, royalty-free patent license 
-> under Licensed Patents to make, use, sell, offer to sell, import and 
-> otherwise transfer the Contribution of such Contributor, if any, in Source 
-> Code or other form. This patent license shall apply to the combination of 
-> the Contribution and the Program if, at the time the Contribution is added 
-> by the Contributor, such addition of the Contribution causes such 
-> combination to be covered by the Licensed Patents. The patent license shall 
-> not apply to any other combinations which include the Contribution. No 
-> hardware per se is licensed hereunder. 
+**2\. GRANT OF RIGHTS**
+\[...\] b) Subject to the terms of this Agreement, each Contributor hereby 
+grants Recipient a non-exclusive, worldwide, royalty-free patent license 
+under Licensed Patents to make, use, sell, offer to sell, import and 
+otherwise transfer the Contribution of such Contributor, if any, in Source 
+Code or other form. This patent license shall apply to the combination of 
+the Contribution and the Program if, at the time the Contribution is added 
+by the Contributor, such addition of the Contribution causes such 
+combination to be covered by the Licensed Patents. The patent license shall 
+not apply to any other combinations which include the Contribution. No 
+hardware per se is licensed hereunder. 
 
 [^EPL2]: _Eclipse Public License, Version 2.0_, *available at*  [https://opensource.org/licenses/EPL-2.0] (https://opensource.org/licenses/EPL-2.0) (2017). 
 
@@ -118,28 +110,28 @@ Excerpt from the Eclipse Public License, Version 2[^EPL2]
 --------------------------------------------------------------------------------
 Excerpt from the GNU General Public License License, Version 2.0[^GPL2]
 
-> **Preamble** 
-> 
-> \[...\] Finally, any free program is threatened constantly by software 
-> patents. We wish to avoid the danger that redistributors of a free program 
-> will individually obtain patent licenses, in effect making the program 
-> proprietary. To prevent this, we have made it clear that any patent must 
-> be licensed for everyone's free use or not licensed at all. 
+**Preamble** 
+
+\[...\] Finally, any free program is threatened constantly by software 
+patents. We wish to avoid the danger that redistributors of a free program 
+will individually obtain patent licenses, in effect making the program 
+proprietary. To prevent this, we have made it clear that any patent must 
+be licensed for everyone's free use or not licensed at all. 
 
 \[...\]
 
-> 7\. If, as a consequence of a court judgment or allegation of patent 
-> infringement or for any other reason (not limited to patent issues), 
-> conditions are imposed on you (whether by court order, agreement or 
-> otherwise) that contradict the conditions of this License, they do not 
-> excuse you from the conditions of this License. If you cannot distribute 
-> so as to satisfy simultaneously your obligations under this License and 
-> any other pertinent obligations, then as a consequence you may not 
-> distribute the Program at all. For example, if a patent license would 
-> not permit royalty-free redistribution of the Program by all those who 
-> receive copies directly or indirectly through you, then the only way you 
-> could satisfy both it and this License would be to refrain entirely from 
-> distribution of the Program.
+7\. If, as a consequence of a court judgment or allegation of patent 
+infringement or for any other reason (not limited to patent issues), 
+conditions are imposed on you (whether by court order, agreement or 
+otherwise) that contradict the conditions of this License, they do not 
+excuse you from the conditions of this License. If you cannot distribute 
+so as to satisfy simultaneously your obligations under this License and 
+any other pertinent obligations, then as a consequence you may not 
+distribute the Program at all. For example, if a patent license would 
+not permit royalty-free redistribution of the Program by all those who 
+receive copies directly or indirectly through you, then the only way you 
+could satisfy both it and this License would be to refrain entirely from 
+distribution of the Program.
 
 
 [^GPL2]: _GNU General Public License, Version 2.0_, 1991, *available at* [https://opensource.org/licenses/GPL-2.0] (https://opensource.org/licenses/GPL-2.0).
@@ -148,73 +140,73 @@ Excerpt from the GNU General Public License License, Version 2.0[^GPL2]
 #### GNU General Public License 3.0
 Excerpt from the GNU General Public License License, Version 3.0[^GPL3]
 
-> **11\. Patents.** 
-> 
-> A "contributor" is a copyright holder who authorizes 
-> use under this License of the Program or a work on which the Program is 
-> based. The work thus licensed is called the contributor's "contributor 
-> version".
-> 
-> A contributor's "essential patent claims" are all patent claims owned 
-> or controlled by the contributor, whether already acquired or hereafter 
-> acquired, that would be infringed by some manner, permitted by this License, 
-> of making, using, or selling its contributor version, but do not include 
-> claims that would be infringed only as a consequence of further 
-> modification of the contributor version. For purposes of this definition, 
-> "control" includes the right to grant patent sublicenses in a manner 
-> consistent with the requirements of this License.
-> 
-> Each contributor grants you a non-exclusive, worldwide, royalty-free 
-> patent license under the contributor's essential patent claims, to make, 
-> use, sell, offer for sale, import and otherwise run, modify and propagate 
-> the contents of its contributor version.
-> 
-> In the following three paragraphs, a "patent license" is any express 
-> agreement or commitment, however denominated, not to enforce a patent (such 
-> as an express permission to practice a patent or covenant not to sue for 
-> patent infringement). To "grant" such a patent license to a party means 
-> to make such an agreement or commitment not to enforce a patent against 
-> the party.
-> 
-> If you convey a covered work, knowingly relying on a patent license, and 
-> the Corresponding Source of the work is not available for anyone to copy, 
-> free of charge and under the terms of this License, through a publicly 
-> available network server or other readily accessible means, then you 
-> must either (1) cause the Corresponding Source to be so available, or 
-> (2) arrange to deprive yourself of the benefit of the patent license for 
-> this particular work, or (3) arrange, in a manner consistent with the 
-> requirements of this License, to extend the patent license to downstream 
-> recipients. "Knowingly relying" means you have actual knowledge that, 
-> but for the patent license, your conveying the covered work in a country, 
-> or your recipient's use of the covered work in a country, would infringe 
-> one or more identifiable patents in that country that you have reason to 
-> believe are valid.
-> 
-> If, pursuant to or in connection with a single transaction or arrangement, 
-> you convey, or propagate by procuring conveyance of, a covered work, and 
-> grant a patent license to some of the parties receiving the covered work 
-> authorizing them to use, propagate, modify or convey a specific copy of 
-> the covered work, then the patent license you grant is automatically 
-> extended to all recipients of the covered work and works based on it.
-> 
-> A patent license is "discriminatory" if it does not include within the 
-> scope of its coverage, prohibits the exercise of, or is conditioned on 
-> the non-exercise of one or more of the rights that are specifically 
-> granted under this License. You may not convey a covered work if you are 
-> a party to an arrangement with a third party that is in the business of 
-> distributing software, under which you make payment to the third party 
-> based on the extent of your activity of conveying the work, and under 
-> which the third party grants, to any of the parties who would receive 
-> the covered work from you, a discriminatory patent license (a) in 
-> connection with copies of the covered work conveyed by you (or copies made 
-> from those copies), or (b) primarily for and in connection with specific 
-> products or compilations that contain the covered work, unless you entered 
-> into that arrangement, or that patent license was granted, prior to 28 
-> March 2007.
-> 
-> Nothing in this License shall be construed as excluding or limiting any 
-> implied license or other defenses to infringement that may otherwise be 
-> available to you under applicable patent law.
+**11\. Patents.** 
+
+A "contributor" is a copyright holder who authorizes 
+use under this License of the Program or a work on which the Program is 
+based. The work thus licensed is called the contributor's "contributor 
+version".
+
+A contributor's "essential patent claims" are all patent claims owned 
+or controlled by the contributor, whether already acquired or hereafter 
+acquired, that would be infringed by some manner, permitted by this License, 
+of making, using, or selling its contributor version, but do not include 
+claims that would be infringed only as a consequence of further 
+modification of the contributor version. For purposes of this definition, 
+"control" includes the right to grant patent sublicenses in a manner 
+consistent with the requirements of this License.
+
+Each contributor grants you a non-exclusive, worldwide, royalty-free 
+patent license under the contributor's essential patent claims, to make, 
+use, sell, offer for sale, import and otherwise run, modify and propagate 
+the contents of its contributor version.
+
+In the following three paragraphs, a "patent license" is any express 
+agreement or commitment, however denominated, not to enforce a patent (such 
+as an express permission to practice a patent or covenant not to sue for 
+patent infringement). To "grant" such a patent license to a party means 
+to make such an agreement or commitment not to enforce a patent against 
+the party.
+
+If you convey a covered work, knowingly relying on a patent license, and 
+the Corresponding Source of the work is not available for anyone to copy, 
+free of charge and under the terms of this License, through a publicly 
+available network server or other readily accessible means, then you 
+must either (1) cause the Corresponding Source to be so available, or 
+(2) arrange to deprive yourself of the benefit of the patent license for 
+this particular work, or (3) arrange, in a manner consistent with the 
+requirements of this License, to extend the patent license to downstream 
+recipients. "Knowingly relying" means you have actual knowledge that, 
+but for the patent license, your conveying the covered work in a country, 
+or your recipient's use of the covered work in a country, would infringe 
+one or more identifiable patents in that country that you have reason to 
+believe are valid.
+
+If, pursuant to or in connection with a single transaction or arrangement, 
+you convey, or propagate by procuring conveyance of, a covered work, and 
+grant a patent license to some of the parties receiving the covered work 
+authorizing them to use, propagate, modify or convey a specific copy of 
+the covered work, then the patent license you grant is automatically 
+extended to all recipients of the covered work and works based on it.
+
+A patent license is "discriminatory" if it does not include within the 
+scope of its coverage, prohibits the exercise of, or is conditioned on 
+the non-exercise of one or more of the rights that are specifically 
+granted under this License. You may not convey a covered work if you are 
+a party to an arrangement with a third party that is in the business of 
+distributing software, under which you make payment to the third party 
+based on the extent of your activity of conveying the work, and under 
+which the third party grants, to any of the parties who would receive 
+the covered work from you, a discriminatory patent license (a) in 
+connection with copies of the covered work conveyed by you (or copies made 
+from those copies), or (b) primarily for and in connection with specific 
+products or compilations that contain the covered work, unless you entered 
+into that arrangement, or that patent license was granted, prior to 28 
+March 2007.
+
+Nothing in this License shall be construed as excluding or limiting any 
+implied license or other defenses to infringement that may otherwise be 
+available to you under applicable patent law.
 
 [^GPL3]: _GNU General Public License, Version 3.0_, *available at* [https://opensource.org/licenses/GPL-3.0] (https://opensource.org/licenses/GPL-3.0) (2007). *See also* Smith, "A Quick Guide to GPLv3," (2007), *available at* [https://www.gnu.org/licenses/quick-guide-gplv3.html](https://www.gnu.org/licenses/quick-guide-gplv3.html) and Stallman, "Why Upgrade to GPLv3," (2007), *available at* [https://www.gnu.org/licenses/rms-why-gplv3.html](https://www.gnu.org/licenses/rms-why-gplv3.html).
 
@@ -223,37 +215,39 @@ Excerpt from the GNU General Public License License, Version 3.0[^GPL3]
 #### Mozilla Public License 2.0
 Excerpt from the Mozilla Public License, Version 2.0[^MPL2]
 
-> **2\. License Grants and Conditions**
->
-> **2\.1\. Grants**
->
-> Each Contributor hereby grants You a world-wide, royalty-free, 
-> non-exclusive license:
+**2\. License Grants and Conditions**
 
-> \[...\] under Patent Claims of such Contributor to make, use, sell, offer 
-> for sale, have made, import, and otherwise transfer either its 
-> Contributions or its Contributor Version.
+**2\.1\. Grants**
+
+Each Contributor hereby grants You a world-wide, royalty-free, 
+non-exclusive license:
+
+\[...\] under Patent Claims of such Contributor to make, use, sell, offer 
+for sale, have made, import, and otherwise transfer either its 
+Contributions or its Contributor Version.
 
 \[...\]
 
-> **2\.3\. Limitations on Grant Scope**
->
-> The licenses granted in this Section 2 are the only rights granted 
-> under this License. No additional rights or licenses will be implied 
-> from the distribution or licensing of Covered Software under this 
-> License. Notwithstanding Section 2.1(b) above, no patent license is 
-> granted by a Contributor:
->
-> for any code that a Contributor has removed from Covered Software; or
->
-> for infringements caused by: 
-> 1. Your and any other third party's modifications of Covered Software, or 
-> 2. the combination of its Contributions with other software (except as 
-> part of its Contributor Version); or
-> 3. under Patent Claims infringed by Covered Software in the absence of its 
-> Contributions.
+**2\.3\. Limitations on Grant Scope**
+
+The licenses granted in this Section 2 are the only rights granted 
+under this License. No additional rights or licenses will be implied 
+from the distribution or licensing of Covered Software under this 
+License. Notwithstanding Section 2.1(b) above, no patent license is 
+granted by a Contributor:
+
+for any code that a Contributor has removed from Covered Software; or
+
+for infringements caused by: 
+
+ 1. Your and any other third party's modifications of Covered Software, or 
+ 2. the combination of its Contributions with other software (except as 
+ part of its Contributor Version); or
+ 3. under Patent Claims infringed by Covered Software in the absence of its 
+ Contributions.
 
 [^MPL2]: _Mozilla Public License, Version 2.0_, *available at* [https://opensource.org/licenses/MPL-2.0] (https://opensource.org/licenses/MPL-2.0) (2012). 
+___
 
 #### Discussion
 
@@ -288,7 +282,7 @@ Excerpt from the Mozilla Public License, Version 2.0[^MPL2]
   be licensed for everyone's free use or not licensed at all." Is this 
   language effective as a patent license?
 
-### Industry Agreements: The Open Invention Network Agreement
+### Industry Agreements
 
 While there aren't any industry agreements that affect *all* open source,
 a large number of open source packages are covered by the patent 
@@ -306,8 +300,7 @@ System." The Linux System is substantially broader than just the underlying
 operating system. It also includes a number of standard packages that are
 included with most Linux distributions
 
-[^OINLicensees]: The current list of OIN licensees is maintained at 
-  [https://www.openinventionnetwork.com/community-of-licensees/](https://www.openinventionnetwork.com/community-of-licensees/).
+[^OINLicensees]: The current list of OIN licensees is maintained at [https://www.openinventionnetwork.com/community-of-licensees/](https://www.openinventionnetwork.com/community-of-licensees/).
  
 The OIN Linux System is defined as follows:[^OINLinuxSystem]
 
@@ -321,16 +314,15 @@ The OIN Linux System is defined as follows:[^OINLinuxSystem]
   > available under an Open Source License or in the public domain (and the 
   > source code for such component is generally available) and (ii) Distributed 
   > with, or for use with, the Linux Kernel (or is the Linux Kernel).
-  
+
+
 Also see the the tables listing applicable standards[^OINTable0] and
 current list of packages.[^OINTable8]
-  
-[^OINLinuxSystem]: The official definition of the Linux System is defined
-  by the definition at [https://www.openinventionnetwork.com/joining-oin/linux-system/](https://www.openinventionnetwork.com/joining-oin/linux-system/)
-  and 
-  
+
+[^OINLinuxSystem]: The official definition of the Linux System is defined by the definition at [https://www.openinventionnetwork.com/joining-oin/linux-system/](https://www.openinventionnetwork.com/joining-oin/linux-system/) and 
+
 [^OINTable0]: *See* Table 0 at [https://www.openinventionnetwork.com/joining-oin/linux-system/linux-system-table/?cat_id=2&type=table](https://www.openinventionnetwork.com/joining-oin/linux-system/linux-system-table/?cat_id=2&type=table)) 
-  
+
 [^OINTable8]: *See* the most recent list of packages in Table 8 at [https://www.openinventionnetwork.com/joining-oin/linux-system/linux-system-table/?cat_id=14&type=table](https://www.openinventionnetwork.com/joining-oin/linux-system/linux-system-table/?cat_id=14&type=table)
 
 One of the unique aspects of the OIN patent pool is that it grows in scope
@@ -342,7 +334,7 @@ components are added - but all previously licensed components remain licensed.
 
 --------------------------------------------------------------------------------
 #### The Open Invention Network Agreement
-Excerpt from the Open Invention Network License Agreement[^OINLicense]
+Excerpt from the Open Invention Network License Agreement:[^OINLicense]
 
 [^OINLicense]: _OIN License Agreement_, *available at* [https://www.openinventionnetwork.com/joining-oin/oin-license-agreement/](https://www.openinventionnetwork.com/joining-oin/oin-license-agreement/). 
 
@@ -438,11 +430,9 @@ give rise to an implied patent license:[^ImpliedLicense]
 > it, upon which the other acts, constitutes a license and a defense to an 
 > action for a tort. 
 
-[^SelfExecuting]: *See, e.g.*, section 10 of the GNU General Public License,
-  version 3: 10. _Automatic Licensing of Downstream Recipients._ Each time you convey a covered work, the recipient automatically receives a license from the original licensors, to run, modify and propagate that work, subject to this License. 
+[^SelfExecuting]: *See, e.g.*, section 10 of the GNU General Public License, version 3: 10. _Automatic Licensing of Downstream Recipients._ Each time you convey a covered work, the recipient automatically receives a license from the original licensors, to run, modify and propagate that work, subject to this License. 
 
-[^ImpliedLicense]: _De Forest Radio Telephone Co. v. United States_, 273 
-  U.S. 236, 241 (1927), _available at_ https://casetext.com/case/de-forest-co-v-united-states
+[^ImpliedLicense]: _De Forest Radio Telephone Co. v. United States_, 273 U.S. 236, 241 (1927), _available at_ https://casetext.com/case/de-forest-co-v-united-states
 
 
 As you read this case and the follow-on cases that have further refined the
@@ -455,10 +445,9 @@ implied patent license.
 #### De Forest Radio Telephone Co. v. United States
 
 --------------------------------------------------------------------------------
-United States Supreme Court (1927)[DeForestHeadnote]
+United States Supreme Court (1927)[^DeForestHeadnote]
 
-[^DeForestHeadnote]: _De Forest Radio Telephone Co. v. United States_, 273 
-  U.S. 236, 47 S. Ct. 366 (1927), _available at_ [https://casetext.com/case/de-forest-co-v-united-states](https://casetext.com/case/de-forest-co-v-united-states)
+[^DeForestHeadnote]: _De Forest Radio Telephone Co. v. United States_, 273 U.S. 236, 47 S. Ct. 366 (1927), _available at_ [https://casetext.com/case/de-forest-co-v-united-states](https://casetext.com/case/de-forest-co-v-united-states)
 
 
 MR. CHIEF JUSTICE TAFT delivered the opinion of the Court.
@@ -697,7 +686,7 @@ into one instruction which read as follows:
 > would reasonably infer Wang's consent to Mitsubishi's making, using, or 
 > selling products to persons other than Wang under the patents.
 > 
-> If you find that a right to make, use, or sell the SIMM invention  
+> If you find that a right to make, use, or sell the SIMM invention
 > granted to \[Mitsubishi\] then you should find and \[sic\] implied 
 > license was granted to \[Mitsubishi\] by Wang.
 
@@ -1266,14 +1255,14 @@ Corp. v. Hydrotech Sys., Inc._, 109 F.3d 1567, 1577, 42 U.S.P.Q.2D (BNA) 1119,
 grant a transferable license to the patent. 
 
 ##### Discussion
- 
+
 1. A typical rule of interpretation is that contracts are "construed against
   the drafter," and that "effect must first be given to the intention of the 
   parties." How might these rules apply in the context of open source 
   licenses, where the party that drafted the license is probably not the
   party using the license to release code, and there might not be a unity of
   interest between the licensor and licensee?
-  
+
 2. The court in  _State Contracting_ found that there was licensing of both 
   trade secrets and patents, but only the future use of trade secrets was 
   contemplated under the contract. To what extent is it relevant that the 
@@ -1286,7 +1275,7 @@ grant a transferable license to the patent.
   Would a court be more likely to find that the repeated granting of a
   license, such as occurs in open source licensing, to support an implied
   right to use any implicated patents?
-  
+
 ## Express but Non-Specific Licenses
 
 One issue that comes up in the context of open source licenses is license 
@@ -2129,13 +2118,14 @@ internal citations omitted.[^SpansionHeadnote]
 
 [^SpansionHeadnote]: _In re Spansion, Inc._, 507 F. App'x 125, 128 (3d Cir. 2012), _available at_ [http://www.ca3.uscourts.gov/opinarch/113323np.pdf](http://www.ca3.uscourts.gov/opinarch/113323np.pdf)
 
-> \[A\] license ... \[is\] a mere waiver of the right to sue by the patentee."  
-> A license need not be a formal grant, but is instead a "consent[] to \[the\] 
-> use of the patent in making or using it, or selling it ... and a defense to 
-> an action for a tort." The Court of Appeals for the Federal Circuit 
-> explained that the inquiry focuses on what the agreement authorizes, not 
-> whether the language is couched in terms of a license or a covenant not 
-> to sue; effectively the two are equivalent. 
+"\[A\] license ... \[is\] a mere waiver of the right to sue by the patentee."
+A license need not be a formal grant, but is instead a "consent[] to \[the\] 
+use of the patent in making or using it, or selling it ... and a defense to 
+an action for a tort." The Court of Appeals for the Federal Circuit 
+explained that the inquiry focuses on what the agreement authorizes, not 
+whether the language is couched in terms of a license or a covenant not 
+to sue; effectively the two are equivalent. 
+___
 
 ##### Discussion
  
@@ -2155,7 +2145,7 @@ internal citations omitted.[^SpansionHeadnote]
   was licensed under the GPL version 2, that internal use was also subject
   to an "express license" to the associated patents. On what basis do you 
   think that the judge found the express license?
-
+___
 
 ## Patent Exhaustion
 
@@ -2192,6 +2182,7 @@ freely passed from person to person.
 [^HelferichFN]: _Helferich Patent Licensing, Ltd. Liab. Co. v. N.Y. Times Co._, 778 F.3d 1293, 1311 (Fed. Cir. 2015). 
 
 #### Quanta Computer, Inc. v. LG Electronics, Inc.
+
 --------------------------------------------------------------------------------
 United States Supreme Court (2008)[^QuantaHeadnote]
 
@@ -2693,6 +2684,7 @@ the patent laws").
 
 
 #### Impression Products v. Lexmark International
+
 --------------------------------------------------------------------------------
 United States Supreme Court (2017)[^LexmarkHeadnote]
 
@@ -3038,7 +3030,7 @@ whether the patentee receives a premium for selling in the United States, or
 the type of rights that buyers expect to receive. As a result, restrictions and 
 location are irrelevant; what matters is the patentee's decision to make a sale.
 
-*  *  *
+\*  \*  \*
 
 The judgment of the United States Court of Appeals for the Federal Circuit is 
 reversed, and the case is remanded for further proceedings consistent with this 
@@ -3154,6 +3146,8 @@ LifeScan's OneTouch Ultra meters substantially embody the methods claimed in
 the '105 patent and that their distribution therefore exhausts LifeScan's 
 patent rights. We therefore reverse the district court's grant of a preliminary 
 injunction and remand for further proceedings consistent with this opinion.
+
+___
 
 ##### Discussion
 
