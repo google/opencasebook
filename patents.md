@@ -3567,7 +3567,11 @@ ___
 
 4. On occasion, companies have distributed source code subject to an
   open source license accompanied by an explicit disclaimer of a patent 
-  license. For example *see* the PARC CCNS3Sim License:[^PARC]
+  license. For example *see* the PARC CCNS3Sim License, below.[^PARC] 
+  Even assuming that the explicit disclaimer of patent rights prevents the 
+  automatic grant of a patent license (explicit or implict), does the 
+  distribution of the source code exhaust any applicable patents regardless of 
+  the disclaimer? 
   ___
   > LICENSE
   >
@@ -3634,11 +3638,6 @@ ___
   >   for more information or visit http://www.ccnx.org
  ___
   
-  Even assuming that the explicit disclaimer of patent rights would prevents
-  the automatic grant of a patent license (explicit or implict), does the 
-  distribution of the source code exhaust any applicable patents regardless 
-  of the disclaimer? 
-
 5. The *Cascades* court identified the code that should be evaluated as having
   a significant noninfringing use as being the exact code implementing the
   claimed function (e.g. the JIT in Dalvik), not the project as a whole
