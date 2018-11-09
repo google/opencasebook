@@ -3147,32 +3147,423 @@ the '105 patent and that their distribution therefore exhausts LifeScan's
 patent rights. We therefore reverse the district court's grant of a preliminary 
 injunction and remand for further proceedings consistent with this opinion.
 
+#### Cascades Computer Innovation, LLC v. Samsung Electronics Co.
+
+--------------------------------------------------------------------------------
+
+Excerpt from _Cascades Computer Innovation, LLC v. Samsung Elecs. Co._, 70 F. Supp. 3d 863 (N.D.Ill, 2014)[^CascadesHeadnote]
+
+[^CascadesHeadnote]: _Cascades Computer Innovation, LLC v. Samsung Elecs. Co._, 70 F. Supp. 3d 863 (N.D.Ill, 2014), _available at_ [https://www.casemine.com/judgement/us/5914fa77add7b049349a8497](https://www.casemine.com/judgement/us/5914fa77add7b049349a8497)
+
+Under the doctrine of patent exhaustion, the initial authorized sale of a 
+patented item terminates the patent holder's rights to that item, and the 
+patent holder may not sue a downstream user of the item for infringement. 
+Patent exhaustion also applies to method patents. If the holder of a method 
+patent authorizes another to practice the patented method, the patent holder 
+cannot successfully sue for infringement those who acquire from the 
+authorized user a product that substantially embodies the patented method.
+
+In these cases, Cascades Computer Innovation LLC has sued Samsung 
+Electronics Co. Ltd. and HTC Corporation for infringement of U.S. Patent 
+7,065,750 (the '750 patent). Cascades contends that defendants manufacture 
+and sell products that practice the method claimed in the patent. Samsung 
+and HTC have moved for summary judgment. They contend that Cascades 
+authorized Google to practice the patented method in its Android operating 
+system and that their claimed infringement arises from their use of that 
+same operating system, which they acquired from Google. Thus, Samsung and 
+HTC contend, the doctrine of patent exhaustion bars Cascades's claims 
+against them.
+
+**Background**
+
+Because the defendants have moved for summary judgment, the Court 
+"constru\[es\] all facts and reasonable inferences in the light most 
+favorable to the nonmoving party," in this case, Cascades. 
+_Ellis v. DHL Exp. Inc._, 33 F.3d 522, 525 (7th Cir.2011).
+
+The '750 patent is entitled "Method and Apparatus for Preserving Precise 
+Exceptions in Binary Translated Code." Pl.'s Third Am. Compl. ¶ 11. In 
+general terms, it describes a method for efficiently executing on one system 
+architecture computer programming code that is intended for a different 
+architecture. Until 2014, Cascades was an exclusive licensee under the '750 
+patent, with an exclusive right to sue for the patent's past, present, and 
+future infringement.
+
+In 2011, Cascades filed patent infringement suits against certain parties, 
+including Samsung and HTC. Cascades contends that Samsung and HTC infringe 
+the '750 patent by manufacturing and selling smartphones and tablets that 
+use the Dalvik JIT Compiler, which is part of the Android operating system 
+distributed by Google. According to Cascades, "\[t\]he claimed method is 
+performed when a user of the cellular phones operates the device for their 
+intended purpose using the Android operating system, e.g., allowing the 
+Dalvik Virtual Machine to optimize the byte code for each application." 
+*Id*. ¶ 14.
+
+On January 29, 2014, Cascades entered into a settlement and license 
+agreement with Google, the parent of Motorola Mobility LLC, previously a 
+defendant in one of Cascades's suits. In exchange for a one-time fee, 
+Cascades granted Google:
+
+> a worldwide, non-exclusive, fully paid up and perpetual and irrevocable 
+> license under Cascades Patents to practice and undertake any of and all of 
+> the rights granted a patent owner under 35 U.S.C. 101, et seq., and under 
+> their counterparts, under the laws of foreign jurisdictions including, but 
+> not limited to, the right to make, have made, use, sell, offer to sell, 
+> export, import, and otherwise practice and/or have practiced for Google or 
+> a Google Affiliate, any and all claims of the Cascades Patents *in any 
+> Google Product.*
+
+Defs.' Ex. 1 at 2 (emphasis added). The license agreement provides that the 
+term "Google Products" includes "products of Google, Motorola and/or Google 
+Affiliates, including all Motorola and Nexus devices, but ... excludes 
+mobile devices manufactured by third parties and running the Android OS 
+except any Nexus-branded devices." *Id*.
+
+As indicated earlier, Cascades's claims of infringement focus on the use 
+of a feature of the Android operating system called the Dalvik JIT Compiler. 
+Cascades has identified no other feature of the defendants' devices or the 
+operating system they use that infringes the '750 patent. The quoted term of 
+the license agreement between Cascades and Google entitles Google to use, 
+sell, or practice the patented method in any "Google Product." It is 
+undisputed that the Android operating system is a Google product; no 
+reasonable fact finder could find otherwise. The same is true of the Dalvik 
+JIT Compiler. Thus the license agreement authorized Google, from that day 
+forward, to convey the Android operating system—including the Dalvik JIT 
+Compiler—without fear of a claim of infringement by Cascades. The 
+agreement's definition of "Google products," however, purported to limit 
+this to certain types of devices, *not* including those made by Samsung and 
+HTC.
+
+The settlement and license agreement between Cascades and Google also 
+included a release and a covenant not to sue. The release provides that 
+Cascades
+
+> releases and discharges Google, Motorola, Google Affiliates, Google 
+> Partners ... from any and all claims, demands, debts, liabilities, actions,
+> causes of actions or suits of whatever kind of nature, asserted or not 
+> asserted, known or unknown, arising out of the claims or matters that have 
+> been or could have been asserted by Cascades in the Actions relating to 
+> the same facts and circumstances therein, provided that such release and 
+> discharge shall not extend to any other defendant in the Actions.
+
+Defs.' Ex. 1 at 4. The covenant not to sue states that Cascades covenants 
+not to sue Google, Motorola, Google Affiliates and/or Google Partners for 
+any infringement or any other violation of the Cascades Patents based upon 
+any licensed activity, permitted pursuant to this Section, related to any 
+Google Product; provided this covenant does not extend to any other 
+defendant in the Patent Suit. *Id*. at 3.
+
+Google provides the Android open source code to all sorts of device 
+manufacturers, including Samsung and HTC. Samsung and HTC make and sell 
+devices that use the Android operating system. As indicated, that operating 
+system embodies the allegedly infringing Dalvik JIT Compiler.
+
+Samsung and HTC contend that by virtue of the license agreement between 
+Cascades and Google, the doctrine of patent exhaustion bars Cascades from 
+pursuing its patent infringement claims against them. They contend that 
+despite the license agreement's limitations regarding its scope, Cascades's 
+grant to Google of a license to convey the Android operating system to 
+others enables those who so acquire the operating system to use it as they 
+wish, without risk of liability for infringement of the '750 patent. Samsung 
+and HTC contend that Cascades's agreement with Google—specifically, the 
+release and/or the covenant not to sue—also bars Cascades from suing them 
+for past infringement.
+
+**Discussion**
+
+Summary judgment is appropriate "if the movant shows that there is no 
+genuine dispute as to any material fact and the movant is entitled to 
+judgment as a matter of law." Fed. R. Civ. P. 56(a). "Patent exhaustion is 
+an affirmative defense to a claim of patent infringement ... and like other 
+issues in which there are no disputed factual questions, may be properly 
+decided on summary judgment." _Keurig, Inc. v. Sturm, Foods, Inc._, 
+732 F.3d 1370, 1373 (Fed.Cir.2013).
+
+As the Court has indicated, the doctrine of patent exhaustion "provides that 
+the initial authorized sale of a patented item terminates all patent rights 
+to that item." _Quanta Computer Inc. v. LG Elecs., Inc._, 553 U.S. 617, 625, 
+128 S.Ct. 2109, 170 L.Ed.2d 996 (2008). The rationale behind this doctrine 
+is that the sale of a patented device "exhausts the patentee's right to 
+control the purchaser's use of that item ... because the patentee has 
+bargained for and received full value for the goods." *Keurig*, 732 F.3d at 
+1373. In short, the doctrine of patent exhaustion prevents a patent holder 
+from benefitting multiple times from a single conveyance by claiming that 
+downstream users infringe the patent when they use the item they acquired.
+
+Application of the doctrine of patent exhaustion does not depend on the 
+existence of a sale for consideration. In _LifeScan Scotland, Ltd. v. Shasta 
+Technologies, LLC_, 734 F.3d 1361, 1377 (Fed.Cir.2013), the Federal Circuit 
+concluded that patent exhaustion applied even though plaintiff had given 
+away the items at issue rather than sold them. The court noted that "in the 
+case of an authorized and unconditional transfer of title, the absence of 
+consideration is no barrier to the application of patent exhaustion 
+principles." *Id*. at 1374. Thus the fact that Google gives away the Android 
+operating system is no barrier to application of the doctrine of patent 
+exhaustion.
+
+Patent exhaustion applies to patented methods just as it applies to patented 
+devices. *Quanta*, 553 U.S. at 621, 128 S.Ct. 2109; _United States v. Univis 
+Lens Co._, 316 U.S. 241, 250–51, 62 S.Ct. 1088, 86 L.Ed. 1408 (1942). A 
+method claim is exhausted by an authorized sale of an item—even an 
+unpatented item—"that substantially embodies the \[patented\] method if the 
+item (1) has no reasonable noninfringing use and (2) includes all inventive 
+aspects of the claimed method." *Keurig*, 732 F.3d at 1373. And "alternative 
+uses are relevant to the exhaustion inquiry under *Quanta* only if they are 
+both reasonable and intended by the patentee or its authorized licensee." 
+*LifeScan Scotland*, 734 F.3d at 1369 (internal quotation marks omitted).
+
+**A. Effect of the limitations in the license agreement**
+
+As the Court has indicated, Samsung and HTC argue that via the settlement 
+and license agreement, Cascades gave Google the right to convey the Android 
+operating system (including the Dalvik JIT Compiler) to others, leaving 
+Google free to provide the technology to whomever it chose, including 
+Cascades and HTC. Cascades and HTC argue that they were then free to use the 
+technology in whichever way they chose, free from any claim of infringement 
+of Cascades's patent.
+
+In response, Cascades relies on the principle that "\[e\]xhaustion is 
+triggered only by a sale authorized by the patent holder." *Quanta*, 
+553 U.S. at 636, 128 S.Ct. 2109 (citing *Univis*, 316 U.S. at 249, 62 S.Ct. 
+1088). It argues that the plain language of the license agreement clearly 
+"excludes Android as it is used in Defendants' devices." 
+Pl.'s Resp. Br. at 5. Cascades argues, in other words, that the conveyance 
+of the Android operating system by Google to Samsung and HTC was not an 
+"authorized" sale that exhausted Cascades's patent rights in the operating 
+system. Specifically, Cascades says, "\[e\]ven accepting for the sake of 
+argument that Android is a product made by Google, the definition of 
+'Products' in the Motorola Agreement was modified by the definition of 
+'Google Product'...." *Id*. at 6. Samsung and HTC maintain that the 
+agreement's exclusion of their products is ineffective, because "Cascades' 
+license to Google creates exhaustion with respect to Defendants' downstream 
+products that incorporate Google's licensed products." 
+Defs.' Opening Br. at 10.
+
+[...]
+
+By way of its license agreement with Cascades, Google was authorized to 
+convey to others, including Samsung and HTC, products—including the Android 
+operating system—that practiced Cascades's patents. As a result, Cascades 
+could no longer assert patent rights with respect to those products. As was 
+the case in *Quanta*, use of the restriction in the Cascades/Google license 
+agreement to limit how those who thereafter acquired the Android operating 
+system from Google could use it would in effect allow Cascades to circumvent 
+the patent exhaustion doctrine and reap multiple gains from a single sale. 
+See *Keurig*, 732 F.3d at 1374. The license authorized Google to convey the 
+Android operating system to others, and thus the conveyance of the operating 
+system to Samsung and HTC was an authorized sale. The agreement's attempt to 
+carve out downstream users' own mobile devices is ineffective under *Quanta*.
+
+For these reasons, the Court concludes that Samsung and HTC have established 
+that there was an authorized sale of the Android operating system (and the 
+Dalvik JIT Compiler) to them; no reasonable fact-finder could determine 
+otherwise. The Court therefore proceeds to consider whether Samsung and HTC 
+have met the remaining requirements for patent exhaustion.
+
+**B. Substantial embodiment and reasonable noninfringing uses**
+
+As the Court has indicated, to establish their patent exhaustion defense, 
+Samsung and HTC must show that the Android operating system as it was 
+conveyed to them "substantially embodies" Cascades's patented method in that 
+the operating system "(1) has no reasonable noninfringing use and (2) 
+includes all inventive aspects of the claimed method." 
+*Keurig*, 732 F.3d at 1373.
+
+Cascades maintains that the Android operating system does not substantially 
+embody the '750 patent because it has a reasonable noninfringing use. It 
+argues that "\[t\]he Kit Kat version of Android \[which Samsung purportedly 
+uses in its devices\] does not require the use of the JIT compiler and 
+instead allows a user to switch runtimes from the JIT default to ART 
+(Android Run Time)." Pl.'s Resp. Br. at 6. Cascades also says that one can 
+"remove the claimed inventions from the Accused Devices" by" redesign\[ing\] 
+and modify\[ing\] the JIT Compiler to use a Kelly-style method of handling 
+precision exceptions." *Id*. at 10. Cascades says these should be considered 
+intended uses, because "the Accused Devices ... would likely still function 
+with unchanged performance...." *Id*. (internal quotation marks omitted).
+
+The question, however, is whether there is a reasonable alternative 
+noninfringing use of the Dalvik JIT Compiler—itself a "Google product" under 
+the Cascades–Google agreement—not whether defendants could avoid liability 
+by enabling its non-use. As defendants argue, this argument is foreclosed by 
+*Quanta*, in which the Court noted that evidence that patented features of 
+certain products could be disabled did not show a reasonable noninfringing 
+use of those features, because "\[t\]he disabled features would have no real 
+*use*." *Quanta*, 553 U.S. at 632 n.6, 128 S.Ct. 2109.
+
+That aside, Cascades has offered no admissible evidence from which a 
+reasonable finding could be made that a user's ability to enable Android Run 
+Time rather than the Dalvik JIT Compiler constitutes a *reasonable* 
+noninfringing use. One of Cascades's experts reports that "the official 
+Android website warns its KitKat users about the risks of running ART: 
+*Important: Dalvik must remain the default runtime or your risk breaking 
+your Android implementations and third-party applications.*" 
+Defs.' Ex. 21 ¶ 141. The same expert reports that "Android suggests that 
+Dalvik remains as the default runtime against the risk of malfunctioning 
+regarding Android implementations." Id. ¶ 52 (internal quotation marks 
+omitted). It is difficult to see how purported noninfringing uses that run 
+this sort of a risk could be considered reasonable.
+
+For these reasons, the Court concludes that defendants have established that 
+the Cascades–Google license brings the doctrine of patent exhaustion into 
+play; no reasonable fact finder could determine otherwise. Defendants are 
+therefore entitled to summary judgment on infringement from the date of the 
+Cascades–Google agreement forward.
+
+#### Intel Corp. v. ULSI System Technology, Inc.
+
+--------------------------------------------------------------------------------
+
+Excerpt from _Intel Corp. v. ULSI System Technology, Inc._, 995 F. 2d 1566  (Fed. Cir. 1993)[^IntelHeadnote]. 
+
+[^IntelHeadnote]: _Intel Corp. v. ULSI System Technology, Inc._, 995 F. 2d 1566  (Fed. Cir. 1993), _available at_ [https://scholar.google.com/scholar_case?case=2822821090682871319](https://scholar.google.com/scholar_case?case=2822821090682871319)
+
+**BACKGROUND**
+
+Intel is the assignee of U.S. Patent Re. 33,629 to John F. Palmer, et al., 
+entitled "Numerical Data Processor."[^IntelFNOmitted] The claims of the '629 
+patent are directed to the design and operation of a floating-point arithmetic 
+processor capable of mixed precision calculations, mixed mode arithmetic 
+calculations, and rounding operations. Intel has developed a line of math 
+coprocessors covered by the patent, including the Intel 8087, 80287, and 80387 
+coprocessors.
+
+On January 10, 1983, Intel and the Hewlett-Packard Company (HP) entered into a 
+cross-licensing agreement to "increase their freedom of design by obtaining a 
+license under present and future patents and patent applications owned or 
+controlled by the other." Under that agreement, Intel and HP each granted to 
+the other an "irrevocable, retroactive, nonexclusive, world-wide, royalty-free 
+license" under all patents and patent applications "having an effective filing 
+date prior to January 1, 2000, said license to be effective until the 
+expiration of said patents."
+
+ULSI sells a math coprocessor known as the US83C87 ('C87 coprocessor) which is 
+compatible with the Intel 80386 microprocessor and competes commercially with 
+the Intel 80387 coprocessor. Since September 22, 1989, ULSI has purchased the 
+'C87 coprocessors from HP under an agreement entered into on August 2, 1988, in 
+which HP agreed to manufacture the coprocessors for ULSI. As is apparently 
+common in such "foundry" arrangements in the semiconductor industry, ULSI 
+supplied HP with proprietary design specifications and HP then manufactured and 
+shipped completed coprocessor chips to ULSI, which resold them as ULSI products.
+
+Intel first became aware of ULSI's 'C87 coprocessor sales on February 4, 1991. 
+On July 29, 1991, Intel brought an action in the U.S. District Court for the 
+District of Oregon alleging infringement of the '629 patent by ULSI's "making 
+and selling, and inducing others to make, sell and use, the 'US83C87' 
+\[coprocessor\]." \[....\] 
+
+**DISCUSSION**
+
+\[...\]
+
+In opposition to the motion, ULSI maintained that HP was permitted under the 
+licensing agreement to act as a foundry for ULSI and that the sale of the 
+coprocessors by HP to ULSI was a "first sale" that extinguished Intel's patent 
+rights with respect to those products. The district court, however, rejected 
+ULSI's argument because it determined that the licensing agreement did not 
+grant HP the "power to sublicense" the '629 patent. On appeal, ULSI claims that 
+the district court erred in concluding that the "patent exhaustion" or "first 
+sale" doctrine did not shield ULSI from Intel's claim of infringement.
+
+The law is well settled that an authorized sale of a patented product places 
+that product beyond the reach of the patent. See _Bloomer v. Millinger_, 68 
+U.S. (1 Wall.) 340, 350-51, 17 L.Ed. 581 (1864). The patent owner's rights with 
+respect to the product end with its sale, _United States v. Univis Lens Co._, 
+316 U.S. 241, 252, 62 S.Ct. 1088, 1094, 86 L.Ed. 1408, 53 USPQ 404, 408 (1942), 
+and a purchaser of such a product may use or resell the product free of the 
+patent, *id*. at 250, 62 S.Ct. at 1093, 53 USPQ at 408. This longstanding 
+principle applies similarly to a sale of a patented product manufactured by a 
+licensee acting within the scope of its license. See _Unidisco, Inc. v. 
+Schattner_, 824 F.2d 965, 968, 3 USPQ2d 1439, 1441 (Fed.Cir.1987), cert. 
+denied, 484 U.S. 1042, 108 S.Ct. 774, 98 L.Ed.2d 860 (1988).
+
+In the instant case, the issue as to whether ULSI is free from infringement 
+liability turns on whether there was a sale of 'C87 coprocessors by HP to ULSI. 
+Intel argues that the "patent exhaustion" doctrine does not apply because HP 
+never sold a product to ULSI. Although Intel claims, as it must, that the 'C87 
+coprocessor infringes the '629 patent, it maintains that what was actually sold 
+by HP under the foundry agreement was its fabrication services with an 
+ancillary sale of wafers and chemicals. Intel asserts that HP could not have 
+sold a product covered by the '629 patent because HP never had or retained any 
+ownership rights in the 'C87 coprocessors. Thus, according to Intel, no sale 
+ever took place that could support ULSI's "first sale" defense. That argument 
+is incorrect.
+
+Interpretation of a contract is a question of law which we review *de novo*. 
+*See* _Interstate Gen. Gov't Contractors, Inc. v. Stone_, 980 F.2d 1433, 1434 
+(Fed.Cir.1992). After reviewing the HP-ULSI contract, we cannot accept Intel's 
+characterization of that agreement as one in which HP merely provided 
+fabrication services to ULSI. That agreement, entitled "Terms and Conditions of 
+Sale," is replete with references to the sale of semiconductor wafers (i.e., 
+chips) that incorporate the 'C87 coprocessor design. For example, the section 
+of the agreement headed "Section 2: Production Fabrication" provided that HP 
+"will sell CMOS34 wafers to" ULSI. That section recites prices for the chips 
+and includes a delivery schedule for shipments of the chips to ULSI. Although 
+the agreement also includes a section delineating the "engineering services" to 
+be provided by HP, the agreement clearly involved the sale of chips, not merely 
+the sale of fabrication services.
+
+Nor, as Intel contends, must the licensed seller of a patented product own 
+intellectual property rights to the product in order for there to be a sale. 
+Intel makes much of the fact that the 'C87 chip was based on a design provided 
+by ULSI. Intel confuses the issue of design origin with the issue of sale. Who 
+designed the chip and whether it embodies inventions other than Intel's have no 
+bearing on the controlling issue whether the 'C87 coprocessors were sold by HP 
+to ULSI and thus extinguished Intel's patent rights relating to those products.
+
+That ULSI, rather than HP, might have owned any existing intellectual property 
+rights to the chips was a matter between ULSI and HP, and did not concern 
+Intel. Intel does not dispute that HP was authorized under the broad terms of 
+the licensing agreement to sell the chips at issue. To the extent that Intel 
+had a patent covering the chips, HP's conceded right to sell the chips deprives 
+Intel of any claim of infringement, as long as HP sold the chips. If it had not 
+granted that license or if the license had been limited in some relevant way, 
+that would be a different case from the one before us. Intel might thereby have 
+retained its right to proceed against those who entered into foundry agreements 
+such as the present one. While Intel may not in retrospect be pleased with the 
+deal that it made permitting HP to make unrestricted sales, it nevertheless 
+granted HP that right in 1983, presumably for consideration it believed to be 
+of value at that time. It cannot now renege on that grant to avoid its 
+consequences.
+
+\[...\]
+
+Relatedly, we do not agree with the district court's conclusion that the sale 
+of chips by HP to ULSI was not a "first sale" because HP was not authorized to 
+sublicense ULSI to design products covered by the '629 patent. That HP did not 
+have the authority to sublicense the '629 patent to ULSI is irrelevant. The 
+agreement between HP and ULSI was not a sublicense, but a contract for the 
+manufacture and sale of chips. Thus, HP did not grant a sublicense; it sold a 
+product, albeit one designed by its purchaser. ULSI is immune from 
+infringement, not because it was a sublicensee, which it was not, but because 
+HP was a licensed and therefore legitimate source of the chips. Moreover, ULSI 
+was not required to be sublicensed in order to provide its chip design to HP.
+
 ___
 
 ##### Discussion
 
-1. The *Quanta* court notes that "methods ... may be 'embodied' in a product, 
+1. The *Quanta* court notes that "methods ... may be 'embodied' in a product,
   the sale of which exhausts patent rights." To what extent does software
   "embody" possible patent claims, including claims for systems that may 
   involve the use of many different components? 
 
-2. The *Lexmark* court draws a distinction between agreements to license alone
-  as opposed to distributions of goods: "Because the patentee is exchanging 
-  rights, not goods, it is free to relinquish only a portion of its bundle of 
-  patent protections." (*Lexmark* at 1539.) Does the common practice of 
-  including the license grant (the "rights") *with* the code itself 
-  (the "goods") imply that every distribution of the source code implicates
-  exhaustion?
+2. The *Lexmark* court draws a distinction between agreements to license 
+  alone as opposed to distributions of goods: "Because the patentee is 
+  exchanging rights, not goods, it is free to relinquish only a portion of 
+  its bundle of patent protections." (*Lexmark* at 1539.) Does the common 
+  practice of including the license grant (the "rights") *with* the code 
+  itself (the "goods") imply that every distribution of the source code implicates exhaustion?
 
-3. As discussed above, open source has *self-executing* licenses: Anybody who
-  receives a copy of the code automatically is licensed for the use of that 
-  code by the applicable upstream licensor. In the context of patent 
-  exhaustion, is there a logical distinction between licenses received through 
-  a direct download from a licensor, and those that are received via a third 
-  party? Does the rule from *General Talking Pictures* ("if a patentee has 
-  not given authority for a licensee to make a sale, that sale cannot exhaust 
-  the patentee's rights") mean that someone receiving a non-compliant 
-  distribution of source code may be liable for patent infringement?
+3. As discussed above, open source has *self-executing* licenses: Anybody 
+  who receives a copy of the code automatically is licensed for the use of 
+  that code by the applicable upstream licensor. In the context of patent 
+  exhaustion, is there a logical distinction between licenses received 
+  through a direct download from a licensor, and those that are received via 
+  a third party? Does the rule from *General Talking Pictures* ("if a 
+  patentee has not given authority for a licensee to make a sale, that sale 
+  cannot exhaust the patentee's rights") mean that someone receiving a 
+  non-compliant distribution of source code is in a different situation
+  than someone receiving a compliant distribution?
 
 4. On occasion, companies have distributed source code subject to an
   open source license accompanied by an explicit disclaimer of a patent 
@@ -3185,7 +3576,8 @@ ___
   > All rights reserved.
   > 
   > Redistribution and use in source and binary forms, with or without
-  > modification, are permitted provided that the following conditions are met:
+  > modification, are permitted provided that the following conditions 
+  > are met:
   > 
   > * Redistributions of source code must retain the above copyright
   >   notice, this list of conditions and the following disclaimer.
@@ -3193,19 +3585,20 @@ ___
   >   notice, this list of conditions and the following disclaimer in the
   >   documentation and/or other materials provided with the distribution.
   > 
-  > THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-  > AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, 
-  > THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR  
+  > THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS 
+  > IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO
+  > THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
   > PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL XEROX OR PARC BE LIABLE FOR ANY
-  > DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
-  > (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
-  > LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
-  > ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-  > (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF 
-  > THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+  > DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL 
+  > DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS 
+  > OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) 
+  > HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, 
+  > STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN 
+  > ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE 
+  > POSSIBILITY OF SUCH DAMAGE.
   > 
   >
-  > \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#
+  > \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#
   > 
   > PATENT NOTICE
   >  
@@ -3227,21 +3620,42 @@ ___
   > this file up to date and up to the user of the software to verify any 
   > claims herein.
   >
-  > Do not remove this header notification.  The contents of this section must 
-  > be present in all distributions of the software.  You may only modify your 
-  > own intellectual property statements.  Please provide contact information.
+  > Do not remove this header notification.  The contents of this section 
+  > must be present in all distributions of the software.  You may only 
+  > modify your own intellectual property statements.  Please provide 
+  > contact information.
   >
   > - Palo Alto Research Center, Inc
-  >   This software distribution does not grant any rights to patents owned by 
-  >   Palo Alto Research Center, Inc (PARC). Rights to these patents are 
-  >   available via various mechanisms. As of January 2016 PARC has committed 
-  >   to FRAND licensing any intellectual property used by its contributions 
-  >   to this software. You may contact PARC at cipo@parc.com for more 
-  >   information or visit http://www.ccnx.org
+  >   This software distribution does not grant any rights to patents 
+  >   owned by Palo Alto Research Center, Inc (PARC). Rights to these 
+  >   patents are available via various mechanisms. As of January 2016 PARC 
+  >   has committed to FRAND licensing any intellectual property used by its 
+  >   contributions to this software. You may contact PARC at cipo@parc.com 
+  >   for more information or visit http://www.ccnx.org
  ___
   
-  Does the distribution of the source code exhaust any applicable
-  patents regardless of the disclaimer? 
+  Even assuming that the explicit disclaimer of patent rights would prevents
+  the automatic grant of a patent license (explicit or implict), does the 
+  distribution of the source code exhaust any applicable patents regardless 
+  of the disclaimer? 
+
+5. The *Cascades* court identified the code that should be evaluated as having
+  a significant noninfringing use as being the exact code implementing the
+  claimed function (e.g. the JIT in Dalvik), not the project as a whole
+  (e.g. "Android"). Given this analysis, how likely is it that any code that
+  implicates a patent would be found to have a significant noninfringing use?
+
+6. The *Intel* court states that "Who designed the chip and whether it 
+  embodies inventions other than Intel's have no bearing on the controlling 
+  issue whether the 'C87 coprocessors were sold by HP to ULSI and thus 
+  extinguished Intel's patent rights relating to those products." Under this
+  analysis, any authorized sale or distribution of a product will exhaust
+  implicated patents, even if the patent owner is not the source of the
+  product. How might this analysis affect incidental distribution of open
+  source code from third parties by a patent owner?
+
+
+[^IntelFNOmitted]: Some footnotes and cites to the record have been omitted.
 
 [^PARC]: CCNx Module for NS3 License text, *available at* [https://github.com/PARC/ccns3Sim](https://github.com/PARC/ccns3Sim).
 
