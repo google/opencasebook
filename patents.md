@@ -62,12 +62,12 @@ that expressly include a patent grant.
 #### Academic Free License 3.0
 Excerpt from the Academic Free License, Version 3.0[^AFL]
 
-> **2) Grant of Patent License.** Licensor grants You a worldwide, 
-> royalty-free, non-exclusive, sublicensable license, under patent claims 
-> owned or controlled by the Licensor that are embodied in the Original Work
-> as furnished by the Licensor, for the duration of the patents, to make, 
-> use, sell, offer for sale, have made, and import the Original Work and 
-> Derivative Works.
+**2) Grant of Patent License.** Licensor grants You a worldwide, 
+royalty-free, non-exclusive, sublicensable license, under patent claims 
+owned or controlled by the Licensor that are embodied in the Original Work
+as furnished by the Licensor, for the duration of the patents, to make, 
+use, sell, offer for sale, have made, and import the Original Work and 
+Derivative Works.
 
 [^AFL]: _Academic Free License, Version 3.0_, Lawrence Rosen, 2002, *available at* [https://opensource.org/licenses/AFL-3.0] (https://opensource.org/licenses/AFL-3.0)  (2002). *See also* Rosen, "OSL 3.0: A Better License for Open Source Software," (2007), *available at* [http://rosenlaw.com/OSL3.0-explained.htm](http://rosenlaw.com/OSL3.0-explained.htm) 
 
@@ -463,7 +463,7 @@ of Claims against the United States, seeking to recover for an alleged unlawful
 use by the Government of certain patented vacuum tubes or audions, used in 
 radio communication. The suit was brought under the Act of June 25, 1910, c. 
 423, 36 Stat. 851, as amended by the Act of July 1, 1918, c. 114, 40 Stat. 704, 
-705. The Act of 1910 provided that whenever an invention described in and 
+705\. The Act of 1910 provided that whenever an invention described in and 
 covered by a patent of the United States should thereafter be used by the 
 Government without license of the owner or lawful right to use it, the owner 
 could recover reasonable compensation for the use in the Court of Claims, 
@@ -639,7 +639,7 @@ purchaser.
 
 In 1985 meetings, in the context of ongoing contacts between the two 
 companies, Mitsubishi and Wang discussed Mitsubishi's new 256K SIMMs.
-\[Footnote Omitted\] In one meeting, Clayton suggested that Mitsubishi modify 
+[Footnote Omitted] In one meeting, Clayton suggested that Mitsubishi modify 
 its SIMM by placing the decoupling capacitors on the same side of the substrate 
 with the chips, as in the original Wang design. Mitsubishi complied. 
 Mitsubishi went on to mass produce 256K SIMMs; and in 1987, Wang began 
@@ -673,13 +673,13 @@ into one instruction which read as follows:
 > person allowed to do the set of acts is a licensee.
 > 
 > An implied license is a form of implied-in-fact contract. In order to 
-> proved \[sic\] the defense of implied license, \[\Mitsubishi\] must 
+> proved [sic] the defense of implied license, [\Mitsubishi] must 
 > establish by a preponderance of the evidence that (1) there was an 
-> existing relationship between Wang and \[Mitsubishi\]; (2) within 
+> existing relationship between Wang and [Mitsubishi]; (2) within 
 > that relationship, Wang transferred a right to use SIMM invention to 
-> \[Mitsubishi\]; (3) the right was transferred for valuable 
+> [Mitsubishi]; (3) the right was transferred for valuable 
 > consideration; and (4) Wang has now denied the existence of the right 
-> it transferred to \[Mitsubishi\].
+> it transferred to [Mitsubishi].
 > 
 > In deciding whether [Mitsubishi has] proved the existence of an implied 
 > license, you may consider statements and conduct of Wang from which one 
@@ -687,8 +687,8 @@ into one instruction which read as follows:
 > selling products to persons other than Wang under the patents.
 > 
 > If you find that a right to make, use, or sell the SIMM invention
-> granted to \[Mitsubishi\] then you should find and \[sic\] implied 
-> license was granted to \[Mitsubishi\] by Wang.
+> granted to [Mitsubishi] then you should find and [sic] implied 
+> license was granted to [Mitsubishi] by Wang.
 
 The relevant question to the jury on the Special Verdict Form read, "Has 
 Mitsubishi proven by a preponderance of the evidence that Wang licensed 
@@ -780,7 +780,7 @@ the jury instructions and verdict to discover what the jury understood to
 constitute "valuable consideration.. The district court's order denying 
 Wang's motion for JMOL identified three benefits conferred on Wang: (1) by 
 agreeing to manufacture and sell SIMMs, Mitsubishi contributed to a "high 
-volume supply and downward pressure on \[the\] price" of SIMMs, which 
+volume supply and downward pressure on [the] price" of SIMMs, which 
 benefited Wang as a purchaser of SIMMs; (2) Mitsubishi absorbed development 
 and tooling costs; and, (3) Mitsubishi redesigned its SIMMs to conform to 
 Wang's preferred design. The district court ruled that each form of 
@@ -813,7 +813,7 @@ customers. Clayton's notes reveal that, from the first meeting onward, he
 closely followed Mitsubishi's development and tooling of SIMMs with 64K or 
 256K chips in PLCCs. Clayton clearly wanted Mitsubishi to make 64K SIMMs, 
 which Mitsubishi decided against, but Clayton also sought "to open 
-\[communication with\] Japan for us on a 256K X9 SIMM. All the while, Wang 
+[communication with] Japan for us on a 256K X9 SIMM. All the while, Wang 
 and Mitsubishi exchanged designs and samples. A reasonable person could 
 conclude that Wang received something it valued because Mitsubishi was 
 persuaded to follow Wang's design suggestions, but was led to believe the 
@@ -979,10 +979,10 @@ Excerpt from _A. C. Aukerman Co. v. R. L. Chaides Constr. Co._, Fed. Cir. 1992[^
 
 [^AukermanHeadnote]: _A. C. Aukerman Co. v. R. L. Chaides Constr. Co._, 960 F.2d 1020, 1041-1043 (1992), *reversed on other grounds*, _available at_ [https://law.justia.com/cases/federal/appellate-courts/F2/960/1020/350110/](https://law.justia.com/cases/federal/appellate-courts/F2/960/1020/350110/)
 
-An \[equitable\] estoppel case ... has three important elements. \[1\] 
+An [equitable] estoppel case ... has three important elements. [1] 
 The actor, who usually must have knowledge of the true facts, 
 communicates something in a misleading way, either by words, conduct or 
-silence. \[2\] The other relies upon that communication. \[3\] And the 
+silence. [2] The other relies upon that communication. [3] And the 
 other would be harmed materially if the actor is later permitted 
 to assert any claim inconsistent with his earlier conduct.
 
@@ -1190,7 +1190,7 @@ this language, Symantec urges us to find that:
 > 'Software' is more than source code and object code. . . . When read in 
 > conjunction with the . . . 'know-how' and 'technical expertise' 
 > transferred to Delrina (Delaware), Delrina (Delaware) essentially acquired 
-> Hilgraeve's entire knowledge base with respect to \[Hilgraeve's\] products. 
+> Hilgraeve's entire knowledge base with respect to [Hilgraeve's] products. 
 > Since the Software included in-transit anti-virus features, Delrina 
 > acquired Hilgraeve's knowledge base with respect to those in-transit 
 > anti-virus features and could use that knowledge base as it pleased."
@@ -1212,7 +1212,7 @@ rights in the Software," but failed to mention the transfer of patent
 rights. From the terms of the contract we cannot conclude that the parties 
 intended to transfer any patent rights. Symantec relies on _Allan v. Bushnell 
 T.V. Co., Ltd._, 1 D.L.R. (3d) 534, 539 (Ont. High Ct. 1968) for the 
-proposition that "unexpressed terms \[are implied\] to implement \[the\] 
+proposition that "unexpressed terms [are implied] to implement [the] 
 parties' presumed intention." Allan, however, stated that
 
 > the presumption is against the adding to contracts of terms which the 
@@ -1561,9 +1561,9 @@ continued access to future recombinant factor VIII products. Under the 1998
 Supply Agreement, Bayer agreed to "continue to provide quantities of human 
 recombinant Factor VIII to Centeon under the terms and conditions specified 
 herein. . . ." The 1998 Supply Agreement was to be "considered part of 
-the Settlement Agreement between Bayer AG and Armour just as the 1994 Agreement 
-was part of said Settlement Agreement." The parties incorporated Section 9 of 
-the 1994 Agreement into Section 10 of the 1998 Agreement. 
+the Settlement Agreement between Bayer AG and Armour just as the 1994 
+Agreement was part of said Settlement Agreement." The parties incorporated 
+Section 9 of the 1994 Agreement into Section 10 of the 1998 Agreement. 
 
 D. *KOGENATE® FS and the 1998 Supply Agreement*
 
@@ -1599,11 +1599,11 @@ under the '427 patent.
 A. *Background*
 
 A license, whether express or implied, is a defense to patent infringement.
-\[FN8\] *See* _Carborundum Co. v. Molten Metal Equip. Innovations_, 72 F.3d 
+[FN8] *See* _Carborundum Co. v. Molten Metal Equip. Innovations_, 72 F.3d 
 872, 878 (Fed. Cir.1995). The alleged infringer has the burden of establishing 
 this affirmative defense. *Id*. It has been observed that:
 
-> \[n\]o formal granting of a license is necessary in order to give it 
+> [n]o formal granting of a license is necessary in order to give it 
 > effect. Any language used by the owner of the patent, or any conduct on his 
 > part exhibited to another from which that other may properly infer that the 
 > owner consents to his use of the patent in making or using it, or selling it, 
@@ -1623,7 +1623,7 @@ Cutlery, Inc._, 67 F.3d 917, 920 (Fed.Cir. 1995)).
 
 Here, the parties agree that Connecticut law applies to the interpretation of 
 the 1998 Supply Agreement upon which Defendants' claim of express license is 
-based. Under Connecticut law, "\[a\]lthough ordinarily the question of 
+based. Under Connecticut law, "[a]lthough ordinarily the question of 
 contract interpretation, being a question of the parties' intent, is a 
 question of fact, where there is definitive contract language, the 
 determination of what the parties intended by their contractual commitments is 
@@ -1656,7 +1656,7 @@ In order for Defendants to obtain summary judgment on the question of express
 license, it would have to be clear from the four corners of the 1998 Supply 
 Agreement that Section 10 grants Bayer an express license to the '427 patent. 
 The fact that the provision is entitled "No Express or Implied License" and 
-provides, in part, that "\[n\]o license, express or implied, is granted by one 
+provides, in part, that "[n]o license, express or implied, is granted by one 
 party to the other hereunder" is at least enough to raise sufficient ambiguity 
 to preclude summary judgment for Defendants.
 
@@ -1716,7 +1716,7 @@ plausible reading of this provision would thus be that it *does* grant such
 licenses as are necessary to the performance of the 1998 Supply Agreement.
 
 At the very least, Section 10 does not clearly and unambiguously rule out 
-an implied license to the '427 patent. \[FN12\] To the contrary, the provision 
+an implied license to the '427 patent. [FN12] To the contrary, the provision 
 seems to contemplate the possibility that one or more patent licenses would 
 be necessary to the performance of the Agreement, and carves out such licenses 
 from the general statement that "no license, express or implied, is granted by 
@@ -1782,19 +1782,19 @@ ____
 
 *Selected footnotes from A. Natterman & CIE GmBH v. Bayer Corp:*
 
-\[FN8\]: An express license is merely "\[o\]ne which is granted in direct 
+[FN8]: An express license is merely "[o]ne which is granted in direct 
 terms." Black's Law Dictionary 920 (6th ed.1990). The definition of "implied 
 license" in this context is slightly more nuanced. In patent law, the term 
 "implied license" has been used to refer to "different categories of conduct 
 which lead to the same conclusion," namely, "a patentee's waiver of the 
 statutory right to exclude others from making, using, or selling the patented 
 invention." _Wang Labs., Inc. v. Mitsubishi Electronics Am., Inc._, 103 F.3d 
-1571, 1580 (Fed.Cir.1997). "\[C\]ourts and commentators relate that implied 
+1571, 1580 (Fed.Cir.1997). "[C]ourts and commentators relate that implied 
 licenses arise by acquiescence, by conduct, by equitable estoppel (estoppel in 
 pais), or by legal estoppel." *Id*. These distinctions as to implied licenses 
 are not relevant for purposes of the instant motions.
 
-\[FN12\]: Plaintiffs "move for summary judgment of no license—either express 
+[FN12]: Plaintiffs "move for summary judgment of no license—either express 
 or implied." Because I find that the plain terms of the 1998 Supply Agreement 
 do not, as a matter of law, necessarily foreclose an implied license to the 
 '427 patent, I do not address whether they foreclose an express license to the 
@@ -1907,7 +1907,7 @@ traditional sources of authority." _Rotec Indus., Inc. v. Mitsubishi Corp._,
 
 Under federal patent law, a license of intellectual property can be either 
 express or implied. See Bayer Corp., 428 F.Supp. at 258. "An express 
-license is merely '\[o\]ne which is granted in direct terms.'" *Id, n.8 
+license is merely '[o]ne which is granted in direct terms.'" *Id, n.8 
 (quoting BLACK'S LAW DICTIONARY 920 (6th ed. 1990)). Whether a contract 
 includes a license to intellectual property is a matter of contract 
 interpretation. _Wisconsin AlumniResearch Foundation v. Intel Corp._, 656 F.Supp.2d 898, 910 (W.D. Wis. 2009) 
@@ -1923,7 +1923,7 @@ terms.'" _NW Parkway, LLC v. Lemser_, 709 S.E.2d 858, 861 (Ga. App. 2011)
 (quoting _Eckerd Corp. v. Alterman Properties, Ltd._, 589 S.E.2d 660 (Ga. App. 
 2003)). In determining a contract's nature, a court looks at the plain meaning 
 of the contract provisions. *Id*. (quoting _Ga. Real Estate Properties, v. 
-Lindwall_, 692 S.E.2d 690 (Ga. App. 2010)). "'\[A\]ll the contract terms must 
+Lindwall_, 692 S.E.2d 690 (Ga. App. 2010)). "'[A]ll the contract terms must 
 be considered together in arriving at the construction of any part, and a 
 construction upholding the contract in whole and every part is preferred.'" 
 *Flynt*, 2011 WL 5305431 at *4 (citations omitted). "'Words generally bear 
@@ -1964,8 +1964,8 @@ sale, one would expect Windsor to have the right to bind Debtor to the sale. To
 the contrary, the Agreement does not give Windsor authority to bind Debtor to 
 any sales. Furthermore, customers were on notice of this relationship, as 
 Debtor's Term Sheet, which was provided to Debtor's customers, expressly states 
-that "\[a\] Purchase Order will be binding on \[Debtor\] only after accepted 
-in writing . . . by \[Debtor\]." Agreement, Exhibit B, § 1. Therefore, under 
+that "[a] Purchase Order will be binding on [Debtor] only after accepted 
+in writing . . . by [Debtor]." Agreement, Exhibit B, § 1. Therefore, under 
 Georgia contract law and general principles of patent law, Windsor could not 
 offer the products for sale....
 
@@ -2057,7 +2057,7 @@ This case spawned from earlier litigation between Versata and Ameriprise. During
 **A. The Versata Customers' Motions to Dismiss**
 
 The court starts with the customers' motions challenging XimpleWare's 
-allegations of direct infringement \[of Ximpleware's patents\] pursuant 
+allegations of direct infringement [of Ximpleware's patents] pursuant 
 to Section 271(a).
 
 Because an express license is a defense to patent infringement, XimpleWare's 
@@ -2097,7 +2097,7 @@ any unrelated third party, no distribution-related conditions were triggered.
 With respect to Amerirprise, XimpleWare has alleged enough to clear the bar set 
 by Rule 8. To understand why, one need only look to Judge Illston's recent 
 decision in a parallel copyright infringement case between XimpleWare and 
-Ameriprise. As Judge Illston explains, "\[a\]ccepting as true the facts alleged 
+Ameriprise. As Judge Illston explains, "[a]ccepting as true the facts alleged 
 in the amended complaint and drawing all reasonable inferences in favor of 
 XimpleWare, as it must, the Court finds that XimpleWare has alleged Ameriprise 
 reproduced and distributed the software outside of Ameriprise and to 
@@ -2118,8 +2118,8 @@ internal citations omitted.[^SpansionHeadnote]
 
 [^SpansionHeadnote]: _In re Spansion, Inc._, 507 F. App'x 125, 128 (3d Cir. 2012), _available at_ [http://www.ca3.uscourts.gov/opinarch/113323np.pdf](http://www.ca3.uscourts.gov/opinarch/113323np.pdf)
 
-"\[A\] license ... \[is\] a mere waiver of the right to sue by the patentee."
-A license need not be a formal grant, but is instead a "consent[] to \[the\] 
+"[A] license ... [is] a mere waiver of the right to sue by the patentee."
+A license need not be a formal grant, but is instead a "consent[] to [the] 
 use of the patent in making or using it, or selling it ... and a defense to 
 an action for a tort." The Court of Appeals for the Federal Circuit 
 explained that the inquiry focuses on what the agreement authorizes, not 
@@ -2228,7 +2228,7 @@ here, it stipulates that no license
 [^QuantaFNOmitted]: Some footnotes and cites to the record have been omitted.
 
 The License Agreement purports not to alter the usual rules of patent 
-exhaustion, however, providing that, "'\[n\]otwithstanding anything to the 
+exhaustion, however, providing that, "'[n]otwithstanding anything to the 
 contrary contained in this Agreement, the parties agree that nothing herein 
 shall in any way limit or alter the effect of patent exhaustion that would 
 otherwise apply when a party hereto sells any of its Licensed Products.'" 
@@ -2236,7 +2236,7 @@ otherwise apply when a party hereto sells any of its Licensed Products.'"
 
 In a separate agreement (Master Agreement), Intel agreed to give written notice 
 to its own customers informing them that, while it had obtained a broad license 
-"'ensur\[ing\] that any Intel product that you purchase is licensed by LGE and 
+"'ensur[ing] that any Intel product that you purchase is licensed by LGE and 
 thus does not infringe any patent held by LGE,'" the license "'does not extend, 
 expressly or by implication, to any product that you make by combining an Intel 
 product with any non-Intel product.'" (emphasis deleted) 
@@ -2288,18 +2288,18 @@ use the machine for the duration of the original patent term sought to continue
 using the licenses through the extended term. The Court held that the extension 
 of the patent term did not affect the rights already secured by purchasers who 
 bought the item for use "in the ordinary pursuits of life." _Bloomer v. 
-McQuewan_, 14 How. 539, 549 (1853); see also *ibid*. ("\[W\]hen the machine 
+McQuewan_, 14 How. 539, 549 (1853); see also *ibid*. ("[W]hen the machine 
 passes to the hands of the purchaser, it is no longer within the limits of the 
 monopoly"); _Bloomer v. Millinger_, 1 Wall. 340, 351 (1864). In _Adams v. 
 Burke_, 17 Wall. 453 (1873), the Court affirmed the dismissal of a patent 
 holder's suit alleging that a licensee had violated postsale restrictions on 
-where patented coffin-lids could be used. "\[W\]here a person ha\[s\] purchased 
+where patented coffin-lids could be used. "[W]here a person ha[s] purchased 
 a patented machine of the patentee or his assignee," the Court held, "this 
-purchase carrie\[s\] with it the right to the use of that machine so long as it 
-\[is\] capable of use." *Id*., at 455.
+purchase carrie[s] with it the right to the use of that machine so long as it 
+[is] capable of use." *Id*., at 455.
 
 Although the Court permitted postsale restrictions on the use of a patented 
-article in _Henry v. A. B. Dick Co._, 224 U. S. 1 (1912),\[FN2\] that decision 
+article in _Henry v. A. B. Dick Co._, 224 U. S. 1 (1912),[FN2] that decision 
 was short lived. In 1913, the Court refused to apply *A. B. Dick* to uphold 
 price-fixing provisions in a patent license. See _Bauer & Cie v. O'Donnell_, 
 229 U. S. 1, 14–17 (1913). Shortly thereafter, in _Motion Picture Patents Co. 
@@ -2314,7 +2314,7 @@ purpose of our patent laws is not the creation of private fortunes for the
 owners of patents but is 'to promote the progress of science and useful arts,'" 
 id., at 511 (quoting U. S. Const., Art. I, §8, cl. 8), the Court held that "the 
 scope of the grant which may be made to an inventor in a patent, pursuant to 
-the \[patent\] statute, must be limited to the invention described in the 
+the [patent] statute, must be limited to the invention described in the 
 claims of his patent." 243 U. S., at 511. Accordingly, it reiterated the rule 
 that "the right to vend is exhausted by a single, unconditional sale, the 
 article sold being thereby carried outside the monopoly of the patent law and 
@@ -2334,8 +2334,8 @@ The Court assumed that the Univis patents containing claims for finished lenses
 were practiced in part by the wholesalers and finishing retailers who ground 
 the blanks into lenses, and held that the sale of the lens blanks exhausted the 
 patents on the finished lenses. *Univis*, 316 U. S., at 248–249. The Court 
-explained that the lens blanks "embodi\[ed\] essential features of the patented 
-device and \[were\] without utility until … ground and polished as the finished 
+explained that the lens blanks "embodi[ed] essential features of the patented 
+device and [were] without utility until … ground and polished as the finished 
 lens of the patent." *Id*., at 249. The Court noted that:
 
 > "where one has sold an uncompleted article which, because it embodies 
@@ -2387,7 +2387,7 @@ blanks were ground into lenses. 316 U. S., at 248–251.
 These cases rest on solid footing. Eliminating exhaustion for method patents 
 would seriously undermine the exhaustion doctrine. Patentees seeking to avoid 
 patent exhaustion could simply draft their patent claims to describe a method 
-rather than an apparatus.\[FN5\] Apparatus and method claims "may approach each 
+rather than an apparatus.[FN5] Apparatus and method claims "may approach each 
 other so nearly that it will be difficult to distinguish the process from the 
 function of the apparatus." _United States ex rel. Steinmetz v. Allen_, 192 U. 
 S. 543, 559 (1904). By characterizing their claims as method instead of 
@@ -2400,7 +2400,7 @@ On LGE's theory, although Intel is authorized to sell a completed computer
 system that practices the LGE Patents, any downstream purchasers of the system 
 could nonetheless be liable for patent infringement. Such a result would 
 violate the longstanding principle that, when a patented item is "once lawfully 
-made and sold, there is no restriction on \[its\] use to be implied for the 
+made and sold, there is no restriction on [its] use to be implied for the 
 benefit of the patentee." *Adams*, 17 Wall., at 457. We therefore reject LGE's 
 argument that method claims, as a category, are never exhaustible.
 
@@ -2437,32 +2437,32 @@ systems using the LGE Patents and subject to "independent patents." Brief for
 Respondent 13. Finally, LGE argues that *Univis* does not apply because the 
 Intel Products are analogous to individual elements of a combination patent, 
 and allowing sale of those components to exhaust the patent would impermissibly 
-"ascrib\[e\] to one element of the patented combination the status of the 
+"ascrib[e] to one element of the patented combination the status of the 
 patented invention in itself." _Aro Mfg. Co. v. Convertible Top Replacement 
 Co._, 365 U. S. 336, 344–345 (1961).
 
 We agree with Quanta that *Univis* governs this case. As the Court there 
 explained, exhaustion was triggered by the sale of the lens blanks because 
 their only reasonable and intended use was to practice the patent and because 
-they "embodie\[d\] essential features of \[the\] patented invention." 316 U.S., 
+they "embodie[d] essential features of [the] patented invention." 316 U.S., 
 at 249–251. Each of those attributes is shared by the microprocessors and 
 chipsets Intel sold to Quanta under the License Agreement.
 
 First, *Univis* held that "the authorized sale of an article which is capable 
 of use only in practicing the patent is a relinquishment of the patent monopoly 
 with respect to the article sold." *Id*., at 249. The lens blanks in *Univis* 
-met this standard because they were "without utility until \[they were\] ground 
+met this standard because they were "without utility until [they were] ground 
 and polished as the finished lens of the patent." *Ibid*. Accordingly, "the 
-only object of the sale \[was\] to enable the [finishing retailer] to grind and 
+only object of the sale [was] to enable the [finishing retailer] to grind and 
 polish it for use as a lens by the prospective wearer." *Ibid*. Here, LGE has 
 suggested no reasonable use for the Intel Products other than incorporating 
-them into computer systems that practice the LGE Patents.\[FN6\] Nor can we can 
+them into computer systems that practice the LGE Patents.[FN6] Nor can we can 
 discern one: A microprocessor or chipset cannot function until it is connected 
 to buses and memory. And here, as in *Univis*, the only apparent object of 
 Intel's sales to Quanta was to permit Quanta to incorporate the Intel Products 
 into computers that would practice the patents.
 
-Second, the lens blanks in *Univis* "embodie\[d\] essential features of \[the\] 
+Second, the lens blanks in *Univis* "embodie[d] essential features of [the] 
 patented invention." *Id*., at 250–251. The essential, or inventive, feature of 
 the Univis lens patents was the fusing together of different lens segments to 
 create bi- and tri-focal lenses. The finishing process performed by the 
@@ -2485,7 +2485,7 @@ Supp. 258, 262–263 (SDNY 1941), the grinding process was not central to the
 patents. That standard process was not included in detail in any of the patents 
 and was not referred to at all in two of the patents. Those that did mention 
 the finishing process treated it as incidental to the invention, noting, for 
-example, that "\[t\]he blank is then ground in the usual manner," U. S. Patent 
+example, that "[t]he blank is then ground in the usual manner," U. S. Patent 
 No. 1,876,497, p. 2, or simply that the blank is "then ground and polished," U. 
 S. Patent No. 1,632,208, p. 1, Tr. of Record in _United States v. Univis Lens 
 Co._, O. T. 1941, No. 855 et al., pp. 516, 498.
@@ -2547,7 +2547,7 @@ infringes the patent. First, the replacement question is not at issue here.
 Second, and more importantly, *Aro* is not squarely applicable to the 
 exhaustion of patents like the LGE Patents that do not disclose a new 
 combination of existing parts. *Aro* described combination patents as 
-"cover\[ing\] only the totality of the elements in the claim \[so\] that no 
+"cover[ing] only the totality of the elements in the claim [so] that no 
 element, separately viewed, is within the grant." 365 U. S., at 344; see also 
 _Mercoid Corp. v. Mid-Continent Investment Co._, 320 U. S. 661, 667–668 (1944) 
 (noting that, in a combination patent, "the combination is the invention and it 
@@ -2584,7 +2584,7 @@ parts.
 LGE overlooks important aspects of the structure of the Intel-LGE transaction. 
 Nothing in the License Agreement restricts Intel's right to sell its 
 microprocessors and chipsets to purchasers who intend to combine them with 
-non-Intel parts. It broadly permits Intel to "'make, use, \[or\] sell'" 
+non-Intel parts. It broadly permits Intel to "'make, use, [or] sell'" 
 products free of LGE's patent claims. To be sure, LGE did require Intel to 
 give notice to its customers, including Quanta, that LGE had not licensed 
 those customers to practice its patents. But neither party contends that 
@@ -2617,7 +2617,7 @@ Patents. No conditions limited Intel's authority to sell products substantially
 embodying the patents. Because Intel was authorized to sell its products to 
 Quanta, the doctrine of patent exhaustion prevents LGE from further asserting 
 its patent rights with respect to the patents substantially embodied by those 
-products.\[FN7\]
+products.[FN7]
 
 **IV**
 
@@ -2637,7 +2637,7 @@ It is so ordered.
 
 *Selected footnotes from Quanta Computer, Inc. v. LG Electronics, Inc:*
 
-\[FN2\]: The A. B. Dick Company sold mimeograph machines with an attached 
+[FN2]: The A. B. Dick Company sold mimeograph machines with an attached 
 license stipulating that the machine could be used only with ink, paper, and 
 other supplies made by the A. B. Dick Company. The Court rejected the notion 
 that a patent holder “can only keep the article within the control of the 
@@ -2649,17 +2649,17 @@ qualified right of use," so that a sale made without conditions resulted in
 "an unconditional title to the machine, with no limitations upon the use." 
 *Id*., at 26.
 
-\[FN5\]: One commentator recommends this strategy as a way to draft patent 
+[FN5]: One commentator recommends this strategy as a way to draft patent 
 claims that "will survive numerous transactions regarding the patented good, 
 allowing the force of the patent to intrude deeply into the stream of 
 commerce." Thomas, *Of Text, Technique, and the Tangible: Drafting Patent 
 Claims Around Patent Rules*, 17 J. Marshall J. Computer & Info. L. 219, 252 
 (1998); see also *id*., at 225–226 (advocating the conversion of apparatus 
-claims into method claims and noting that "\[e\]ven the most novice claims 
+claims into method claims and noting that "[e]ven the most novice claims 
 drafter would encounter scant difficulty in converting a patent claim from 
 artifact to technique and back again").
 
-\[FN6\]: LGE suggests that the Intel Products would not infringe its patents if 
+[FN6]: LGE suggests that the Intel Products would not infringe its patents if 
 they were sold overseas, used as replacement parts, or engineered so that use 
 with non-Intel Products would disable their patented features. Brief for 
 Respondent 21–22, n. 10. But *Univis* teaches that the question is whether the 
@@ -2671,7 +2671,7 @@ partially practicing the patent are what must have an alternative use,
 suggesting that they be disabled is no solution. The disabled features would 
 have no real *use*.
 
-\[FN7\]: We note that the authorized nature of the sale to Quanta does not 
+[FN7]: We note that the authorized nature of the sale to Quanta does not 
 necessarily limit LGE's other contract rights. LGE's complaint does not include 
 a breach-of-contract claim, and we express no opinion on whether contract 
 damages might be available even though exhaustion operates to eliminate patent 
@@ -2694,7 +2694,7 @@ United States Supreme Court (2017)[^LexmarkHeadnote]
 
 A United States patent entitles the patent holder (the "patentee"), for a 
 period of 20 years, to "exclude others from making, using, offering for sale, 
-or selling \[its\] invention throughout the United States or importing the 
+or selling [its] invention throughout the United States or importing the 
 invention into the United States." 35 U. S. C. §154(a). Whoever engages in one 
 of these acts "without authority" from the patentee may face liability for 
 patent infringement. §271(a).
@@ -2789,7 +2789,7 @@ contract law, but they do not entitle Lexmark to retain patent rights in an
 item that it has elected to sell.
 
 The Patent Act grants patentees the "right to exclude others from making, 
-using, offering for sale, or selling \[their\] invention\[s\]." 35 U. S. C. 
+using, offering for sale, or selling [their] invention[s]." 35 U. S. C. 
 §154(a). For over 160 years, the doctrine of patent exhaustion has imposed a 
 limit on that right to exclude. See _Bloomer v. McQuewan_, 14 How. 539 (1853). 
 The limit functions automatically: When a patentee chooses to sell an item, 
@@ -2805,8 +2805,8 @@ rights to that item." _Quanta Computer, Inc. v. LG Electronics, Inc._,
 
 This well-established exhaustion rule marks the point where patent rights yield 
 to the common law principle against restraints on alienation. The Patent Act 
-"promote\[s\] the progress of science and the useful arts by granting to 
-\[inventors\] a limited monopoly" that allows them to "secure the financial 
+"promote[s] the progress of science and the useful arts by granting to 
+[inventors] a limited monopoly" that allows them to "secure the financial 
 rewards" for their inventions. *Univis*, 316 U. S., at 250. But once a patentee 
 sells an item, it has "enjoyed all the rights secured" by that limited 
 monopoly. _Keeler v. Standard Folding Bed Co._, 157 U. S. 659, 661 (1895). 
@@ -2866,8 +2866,8 @@ stores to resell at a specific price. 246 U. S. 8, 17-18 (1918). When the
 manufacturer brought a patent infringement suit against a retailer who sold for 
 less, we concluded that there was "no room for controversy" about the result: 
 By selling the item, the manufacturer placed it "beyond the confines of the 
-patent law, \[and\] could not, by qualifying restrictions as to use, keep 
-\[it\] under the patent monopoly." Id., at 20, 25.
+patent law, [and] could not, by qualifying restrictions as to use, keep 
+[it] under the patent monopoly." Id., at 20, 25.
 
 Two decades later, we confronted a similar arrangement in United States v. 
 Univis Lens Co. There, a company that made eyeglass lenses authorized an agent 
@@ -2875,8 +2875,8 @@ to sell its products to wholesalers and retailers only if they promised to
 market the lenses at fixed prices. The Government filed an antitrust lawsuit, 
 and the company defended its arrangement on the ground that it was exercising 
 authority under the Patent Act. We held that the initial sales 
-"relinquish\[ed\] . . . the patent monopoly with respect to the article\[s\] 
-sold," so the "stipulation . . . fixing resale prices derive\[d\] no support 
+"relinquish[ed] . . . the patent monopoly with respect to the article[s] 
+sold," so the "stipulation . . . fixing resale prices derive[d] no support 
 from the patent and must stand on the same footing" as restrictions on 
 unpatented goods. 316 U. S., at 249-251.
 
@@ -2912,7 +2912,7 @@ understood as an interpretation of" the infringement statute, which prohibits
 anyone from using or selling a patented article "without authority" from the 
 patentee. 816 F. 3d, at 734 (quoting 35 U. S. C. §271(a)). Exhaustion reflects 
 a default rule that a patentee's decision to sell an item "presumptively 
-grant\[s\] 'authority' to the purchaser to use it and resell it." 816 F. 3d, 
+grant[s] 'authority' to the purchaser to use it and resell it." 816 F. 3d, 
 at 742. But, the Federal Circuit explained, the patentee does not have to hand 
 over the full "bundle of rights" every time. *Id*., at 741 (internal quotation 
 marks omitted). If the patentee expressly withholds a stick from the 
@@ -2984,7 +2984,7 @@ restriction, but the only recourse for the licensee is through contract law,
 just as if the patentee itself sold the item with a restriction.
 
 General Talking Pictures involved a fundamentally different situation: There, a 
-licensee "knowingly ma\[de\] . . . sales . . . outside the scope of its 
+licensee "knowingly ma[de] . . . sales . . . outside the scope of its 
 license." 304 U. S., at 181-182 (emphasis added). We treated the sale "as if no 
 license whatsoever had been granted" by the patentee, which meant that the 
 patentee could sue both the licensee and the purchaser-who knew about the 
@@ -3008,16 +3008,16 @@ impose, either directly or through a license.
 Our conclusion that Lexmark exhausted its patent rights when it sold the 
 domestic Return Program cartridges goes only halfway to resolving this case. 
 Lexmark also sold toner cartridges abroad and sued Impression Products for 
-patent infringement for "importing \[Lexmark's\] invention into the United 
+patent infringement for "importing [Lexmark's] invention into the United 
 States." 35 U. S. C. §154(a). Lexmark contends that it may sue for infringement 
 with respect to all of the imported cartridges-not just those in the Return 
 Program--because a foreign sale does not trigger patent exhaustion unless the 
-patentee "expressly or implicitly transfer\[s\] or license\[s\]" its rights. 
+patentee "expressly or implicitly transfer[s] or license[s]" its rights. 
 Brief for Respondent 36-37. The Federal Circuit agreed, but we do not. An 
 authorized sale outside the United States, just as one within the United 
 States, exhausts all rights under the Patent Act.
 
-[...]
+\[...\]
 
 Exhaustion does not arise because of the parties' expectations about how sales 
 transfer patent rights. More is at stake when it comes to patents than simply 
@@ -3079,9 +3079,9 @@ entitled to continue using the machine during the extended term. The Court
 explained that
 
 > when the machine *passes to the hands* of the purchaser, it is no longer 
-> within the limits of the \[patent\] monopoly. It passes outside of it, and is 
+> within the limits of the [patent] monopoly. It passes outside of it, and is 
 > no longer under the protection of the act of Congress. . . . The implement or 
-> machine *becomes \[the purchaser's\] private, individual property*, not 
+> machine *becomes [the purchaser's] private, individual property*, not 
 > protected by the laws of the United States, but by the laws of the State in 
 > which it is situated.
 
@@ -3099,7 +3099,7 @@ _Chaffee v. Boston Belting Co._, 63 U.S. (22 How.) 217, 223,
 Court has stated that exhaustion can occur by a transfer "from any other person 
 . . . authorized [by the patentee] to convey it." Millinger, 68 U.S. (1 Wall.) 
 at 351 (emphasis added); Chaffee, 63 U.S. (22 How.) at 223 (same); see Black's 
-Law Dictionary 273 (1st ed. 1891) (defining "convey" to mean "\[t\]o pass or 
+Law Dictionary 273 (1st ed. 1891) (defining "convey" to mean "[t]o pass or 
 transmit the title to property from one to another"). So too, in *Univis*, the 
 Court stated that the patentee's "monopoly remains so long as he *retains the 
 ownership* of the patented article." 316 U.S. at 250 (emphasis added). Each of 
@@ -3137,7 +3137,7 @@ unconditionally parts with ownership of an article, it cannot later complain
 that the approach that it chose results in an inadequate reward and that 
 therefore ordinary principles of patent exhaustion should not apply.
 
-[...]
+\[...\]
 
 In summary, we hold that patent exhaustion principles apply equally to all 
 authorized transfers of title in property, regardless of whether the particular 
@@ -3177,7 +3177,7 @@ against them.
 **Background**
 
 Because the defendants have moved for summary judgment, the Court 
-"constru\[es\] all facts and reasonable inferences in the light most 
+"constru[es] all facts and reasonable inferences in the light most 
 favorable to the nonmoving party," in this case, Cascades. 
 _Ellis v. DHL Exp. Inc._, 33 F.3d 522, 525 (7th Cir.2011).
 
@@ -3193,7 +3193,7 @@ In 2011, Cascades filed patent infringement suits against certain parties,
 including Samsung and HTC. Cascades contends that Samsung and HTC infringe 
 the '750 patent by manufacturing and selling smartphones and tablets that 
 use the Dalvik JIT Compiler, which is part of the Android operating system 
-distributed by Google. According to Cascades, "\[t\]he claimed method is 
+distributed by Google. According to Cascades, "[t]he claimed method is 
 performed when a user of the cellular phones operates the device for their 
 intended purpose using the Android operating system, e.g., allowing the 
 Dalvik Virtual Machine to optimize the byte code for each application." 
@@ -3305,7 +3305,7 @@ Patent exhaustion applies to patented methods just as it applies to patented
 devices. *Quanta*, 553 U.S. at 621, 128 S.Ct. 2109; _United States v. Univis 
 Lens Co._, 316 U.S. 241, 250–51, 62 S.Ct. 1088, 86 L.Ed. 1408 (1942). A 
 method claim is exhausted by an authorized sale of an item—even an 
-unpatented item—"that substantially embodies the \[patented\] method if the 
+unpatented item—"that substantially embodies the [patented] method if the 
 item (1) has no reasonable noninfringing use and (2) includes all inventive 
 aspects of the claimed method." *Keurig*, 732 F.3d at 1373. And "alternative 
 uses are relevant to the exhaustion inquiry under *Quanta* only if they are 
@@ -3322,7 +3322,7 @@ Cascades and HTC. Cascades and HTC argue that they were then free to use the
 technology in whichever way they chose, free from any claim of infringement 
 of Cascades's patent.
 
-In response, Cascades relies on the principle that "\[e\]xhaustion is 
+In response, Cascades relies on the principle that "[e]xhaustion is 
 triggered only by a sale authorized by the patent holder." *Quanta*, 
 553 U.S. at 636, 128 S.Ct. 2109 (citing *Univis*, 316 U.S. at 249, 62 S.Ct. 
 1088). It argues that the plain language of the license agreement clearly 
@@ -3330,7 +3330,7 @@ triggered only by a sale authorized by the patent holder." *Quanta*,
 Pl.'s Resp. Br. at 5. Cascades argues, in other words, that the conveyance 
 of the Android operating system by Google to Samsung and HTC was not an 
 "authorized" sale that exhausted Cascades's patent rights in the operating 
-system. Specifically, Cascades says, "\[e\]ven accepting for the sake of 
+system. Specifically, Cascades says, "[e]ven accepting for the sake of 
 argument that Android is a product made by Google, the definition of 
 'Products' in the Motorola Agreement was modified by the definition of 
 'Google Product'...." *Id*. at 6. Samsung and HTC maintain that the 
@@ -3339,7 +3339,7 @@ license to Google creates exhaustion with respect to Defendants' downstream
 products that incorporate Google's licensed products." 
 Defs.' Opening Br. at 10.
 
-[...]
+\[...\]
 
 By way of its license agreement with Cascades, Google was authorized to 
 convey to others, including Samsung and HTC, products—including the Android 
@@ -3371,12 +3371,12 @@ includes all inventive aspects of the claimed method."
 
 Cascades maintains that the Android operating system does not substantially 
 embody the '750 patent because it has a reasonable noninfringing use. It 
-argues that "\[t\]he Kit Kat version of Android \[which Samsung purportedly 
-uses in its devices\] does not require the use of the JIT compiler and 
+argues that "[t]he Kit Kat version of Android [which Samsung purportedly 
+uses in its devices] does not require the use of the JIT compiler and 
 instead allows a user to switch runtimes from the JIT default to ART 
 (Android Run Time)." Pl.'s Resp. Br. at 6. Cascades also says that one can 
-"remove the claimed inventions from the Accused Devices" by" redesign\[ing\] 
-and modify\[ing\] the JIT Compiler to use a Kelly-style method of handling 
+"remove the claimed inventions from the Accused Devices" by" redesign[ing] 
+and modify[ing] the JIT Compiler to use a Kelly-style method of handling 
 precision exceptions." *Id*. at 10. Cascades says these should be considered 
 intended uses, because "the Accused Devices ... would likely still function 
 with unchanged performance...." *Id*. (internal quotation marks omitted).
@@ -3387,7 +3387,7 @@ the Cascades–Google agreement—not whether defendants could avoid liability
 by enabling its non-use. As defendants argue, this argument is foreclosed by 
 *Quanta*, in which the Court noted that evidence that patented features of 
 certain products could be disabled did not show a reasonable noninfringing 
-use of those features, because "\[t\]he disabled features would have no real 
+use of those features, because "[t]he disabled features would have no real 
 *use*." *Quanta*, 553 U.S. at 632 n.6, 128 S.Ct. 2109.
 
 That aside, Cascades has offered no admissible evidence from which a 
@@ -3449,7 +3449,9 @@ Intel first became aware of ULSI's 'C87 coprocessor sales on February 4, 1991.
 On July 29, 1991, Intel brought an action in the U.S. District Court for the 
 District of Oregon alleging infringement of the '629 patent by ULSI's "making 
 and selling, and inducing others to make, sell and use, the 'US83C87' 
-\[coprocessor\]." \[....\] 
+[coprocessor]."
+
+\[...\]
 
 **DISCUSSION**
 
