@@ -49,6 +49,56 @@ This chapter presents materials related to four separate but related issues:
 
 [^OpenSourceDefinition1and7]: _See The Open Source Definition - Annotated_, elements one and seven: <br />1\. _Free Redistribution_: The license shall not restrict any party from selling or giving away the software as a component of an aggregate software distribution containing programs from several different sources. The license shall not require a royalty or other fee for such sale.<br />7\. _Distribution of License_: The rights attached to the program must apply to all to whom the program is redistributed without the need for execution of an additional license by those parties. Open Source Initiative, [https://opensource.org/osd-annotated](https://opensource.org/osd-annotated) (Open Source Definition-Annotated) (CC-BY 4.0)
 
+## Statutory Law
+
+Each area of intellectual property law reserves particular rights to the
+owner of the corresponding intellectual property. The exclusive rights 
+granted under copyright law are different than the exclusive rights
+granted under patent law.
+
+--------------------------------------------------------------------------------
+#### 17 U.S.C. § 106 - Exclusive rights in copyrighted works
+
+Subject to sections 107 through 122, the owner of copyright under this 
+title has the exclusive rights to do and to authorize any of the following:
+
+  1. to reproduce the copyrighted work in copies or phonorecords;
+  2. to prepare derivative works based upon the copyrighted work;
+  3. to distribute copies or phonorecords of the copyrighted work to the 
+    public by sale or other transfer of ownership, or by rental, lease, 
+    or lending;
+  4. in the case of literary, musical, dramatic, and choreographic works, 
+    pantomimes, and motion pictures and other audiovisual works, to perform 
+    the copyrighted work publicly;
+  5. in the case of literary, musical, dramatic, and choreographic works, 
+    pantomimes, and pictorial, graphic, or sculptural works, including the 
+    individual images of a motion picture or other audiovisual work, to 
+    display the copyrighted work publicly; and
+  6. in the case of sound recordings, to perform the copyrighted work 
+    publicly by means of a digital audio transmission.
+
+--------------------------------------------------------------------------------
+#### 35 U.S.C. 271 Infringement of patent.
+
+(a) Except as otherwise provided in this title, whoever without authority 
+makes, uses, offers to sell, or sells any patented invention, within the 
+United States, or imports into the United States any patented invention 
+during the term of the patent therefor, infringes the patent. 
+
+--------------------------------------------------------------------------------
+
+Open source license analysis begins with the text of the governing statutes.
+Each license grants to users one or more rights that would otherwise be
+exclusive to the rightsholder. For both patents and copyrights, there are key 
+terms associated with each right that usually appear in the license text,
+although in some cases license authors have chosen to use new terms or
+imprecise language.
+
+The function of the court system is to interpret the license texts in light of
+the statutory grants to identify the extent to which a licensor has given
+permission for the person receiving the code to do things that would otherwise
+infringe on the applicable patent. 
+
 ## Explicit Patent Licensing
 
 ### Selections from Open Source Licenses
@@ -282,139 +332,8 @@ ___
   be licensed for everyone's free use or not licensed at all." Is this 
   language effective as a patent license?
 
-### Industry Agreements
-
-While there aren't any industry agreements that affect *all* open source,
-a large number of open source packages are covered by the patent 
-license agreement provided by the [Open Invention Network](https://www.openinventionnetwork.com/) ("OIN"). 
-
-The Open Invention Network is a shared defensive patent pool with the mission 
-to protect Linux. Launched in 2005, OIN includes (as of October 2018) 2747 
-participating licensees [^OINLicensees]. Based upon the number of patents 
-publicly owned by participants in OIN, the patent pool includes more than
-100,000 active patents cross-licensed on a royalty-free basis, making it
-the largest patent pool in any industry.
-
-The patent pool maintained by OIN covers what is described as the "Linux
-System." The Linux System is substantially broader than just the underlying
-operating system. It also includes a number of standard packages that are
-included with most Linux distributions
-
-[^OINLicensees]: The current list of OIN licensees is maintained at [https://www.openinventionnetwork.com/community-of-licensees/](https://www.openinventionnetwork.com/community-of-licensees/).
- 
-The OIN Linux System is defined as follows:[^OINLinuxSystem]
-
-  > "Linux Environment Component" shall mean any of the software packages 
-  > whose released source code shall be identified on the OIN website, 
-  > including bug fixes and error corrections thereto, or a Predecessor 
-  > Release or Successor Release of any of such packages.
-  > 
-  > "Linux System" shall mean a Linux Environment Component or any combination 
-  > of such components to the extent each such component is (i) generally 
-  > available under an Open Source License or in the public domain (and the 
-  > source code for such component is generally available) and (ii) Distributed 
-  > with, or for use with, the Linux Kernel (or is the Linux Kernel).
-
-
-Also see the the tables listing applicable standards[^OINTable0] and
-current list of packages.[^OINTable8]
-
-[^OINLinuxSystem]: The official definition of the Linux System is defined by the definition at [https://www.openinventionnetwork.com/joining-oin/linux-system/](https://www.openinventionnetwork.com/joining-oin/linux-system/) and 
-
-[^OINTable0]: *See* Table 0 at [https://www.openinventionnetwork.com/joining-oin/linux-system/linux-system-table/?cat_id=2&type=table](https://www.openinventionnetwork.com/joining-oin/linux-system/linux-system-table/?cat_id=2&type=table)) 
-
-[^OINTable8]: *See* the most recent list of packages in Table 8 at [https://www.openinventionnetwork.com/joining-oin/linux-system/linux-system-table/?cat_id=14&type=table](https://www.openinventionnetwork.com/joining-oin/linux-system/linux-system-table/?cat_id=14&type=table)
-
-One of the unique aspects of the OIN patent pool is that it grows in scope
-over time. Periodically the trustees of the Open Invention Network will
-propose a new set of packages to be added to the Linux System. If individual 
-companies object to the inclusion of the new components, they can exercise
-a "Limitation Election" to stop participating in the pool before the new
-components are added - but all previously licensed components remain licensed. 
-
---------------------------------------------------------------------------------
-#### The Open Invention Network Agreement
-Excerpt from the Open Invention Network License Agreement:[^OINLicense]
-
-[^OINLicense]: _OIN License Agreement_, *available at* [https://www.openinventionnetwork.com/joining-oin/oin-license-agreement/](https://www.openinventionnetwork.com/joining-oin/oin-license-agreement/). 
-
-**SECTION 1. Licenses.**
-
-1\.1    Subject to Section 1.2(b), OIN, grants to You and Your Subsidiaries 
-a royalty-free, worldwide, nonexclusive, non-transferable license under OIN 
-Patents to make, have made, use, import, and Distribute any products or 
-services. In addition to the foregoing and without limitation thereof, with 
-respect only to the Linux System, the license granted herein includes the 
-right to engage in activities that in the absence of this Agreement would 
-constitute inducement to infringe or contributory infringement (or 
-infringement under any other analogous legal doctrine in the applicable 
-jurisdiction).
-
-1\.2    Subject to Section 2.2 and in consideration for the license granted 
-in Section 1.1, You, on behalf of yourself and your Affiliates, (a) grant 
-to each Licensee and its Subsidiaries that are Subsidiaries as of the 
-Eligibility Date a royalty-free, worldwide, nonexclusive, non-transferable 
-license under Your Patents for making, having made, using, importing, and 
-Distributing any Linux System; and (b) represent and warrant that (i) You 
-have the full right and power to grant the foregoing licenses and the 
-release in Section 1.4 and that Your Affiliates are and will be bound by 
-the obligations of this Agreement; and (ii) neither You nor any of Your 
-Affiliates has a Claim pending against any Person for making, having made, 
-using, importing, and Distributing any Linux System. Notwithstanding 
-anything in another Company Licensing Agreement to the contrary, You and 
-your current and future Subsidiaries do not and shall not receive, and 
-hereby disclaim and waive, any license from a Licensee and its current and 
-future Affiliates pursuant to a Company Licensing Agreement for 
-implementations of Linux Environment Components as specified in such 
-Company Licensing Agreement to the extent that You and your current and 
-future Affiliates are excepting any such implementations of Linux 
-Environment Component from your license to a Licensee and its current and 
-future Subsidiaries. The previous sentence is for the express benefit of 
-the Members of OIN, OIN, and OIN's Licensees.
-
-1\.3     Subject to Section 1.2(b), OIN irrevocably releases You and Your 
-Subsidiaries from claims of infringement of the OIN Patents to the extent 
-such claims are based on acts prior to the Agreement Date that, had they 
-been performed after the Agreement Date, would have been licensed under 
-this Agreement.
-
-1\.4     You, on behalf of Yourself and Your Affiliates, irrevocably 
-releases and shall release each Licensee and its Subsidiaries that are 
-Subsidiaries on the Amendment Date and their respective Channel Entities 
-and Customers that are Channel Entities and Customers, respectively, on or 
-before the Amendment Date from any and all claims of infringement of Your 
-Patents to the extent such claims are based on acts prior to the Amendment 
-Date that, had they been performed after the Amendment Date, would have 
-been licensed under this Agreement. As used herein, a Licensee's "Amendment 
-Date" shall mean the later of the date an amendment becomes effective under 
-Section 2.1 and the date such Licensee becomes a Licensee.
-
-\[...\]
-
-**Definitions:**
-
-"Affiliate" shall mean, with respect to any specified Person, any other 
-Person that now or in the future (i) is a Subsidiary of the specified 
-Person, (ii) is a parent of the specified Person or (iii) is a Subsidiary 
-of a parent of the specified Person. In each of the foregoing cases, such 
-other Person shall be deemed to be an Affiliate only during the time such 
-relationship as a Subsidiary or parent exists.
-
-#### Discussion
-
-1. How does the OIN License Agreement change in scope over time? What 
-  is the effect of the wording around a person "that now or in the future"
-  is an Affiliate?
-
-2. How significant is the OIN patent pool? Many of the technologies used 
-  in the Linux System are more than twenty years old, and so are out of 
-  scope for any enforceable patents. On the other hand, many new 
-  technologies are being developed in open source *first,* and only later
-  commercialized. Which effect predominates?
-
 
 ## Implied Patent Licenses
-
 
 Open source software licenses are designed to spread: They maximize the ease 
 of distribution and minimize the friction associated with ordinary license 
@@ -1276,6 +1195,7 @@ grant a transferable license to the patent.
   license, such as occurs in open source licensing, to support an implied
   right to use any implicated patents?
 
+
 ## Express but Non-Specific Licenses
 
 One issue that comes up in the context of open source licenses is license 
@@ -1294,43 +1214,6 @@ an express patent license.
 
 [^LimitationsOnImplicit]: *See generally* the section on "Limitations on Implicit Patent Licenses," *supra.*
 
-### Statutory Law
-
-Each area of intellectual property law reserves particular rights to the
-owner of the corresponding intellectual property. The exclusive rights 
-granted under copyright law are different than the exclusive rights
-granted under patent law.
-
---------------------------------------------------------------------------------
-#### 17 U.S. Code § 106 - Exclusive rights in copyrighted works
-
-Subject to sections 107 through 122, the owner of copyright under this 
-title has the exclusive rights to do and to authorize any of the following:
-
-  1. to reproduce the copyrighted work in copies or phonorecords;
-  2. to prepare derivative works based upon the copyrighted work;
-  3. to distribute copies or phonorecords of the copyrighted work to the 
-    public by sale or other transfer of ownership, or by rental, lease, 
-    or lending;
-  4. in the case of literary, musical, dramatic, and choreographic works, 
-    pantomimes, and motion pictures and other audiovisual works, to perform 
-    the copyrighted work publicly;
-  5. in the case of literary, musical, dramatic, and choreographic works, 
-    pantomimes, and pictorial, graphic, or sculptural works, including the 
-    individual images of a motion picture or other audiovisual work, to 
-    display the copyrighted work publicly; and
-  6. in the case of sound recordings, to perform the copyrighted work 
-    publicly by means of a digital audio transmission.
-
---------------------------------------------------------------------------------
-#### 35 U.S.C. 271 Infringement of patent.
-
-(a) Except as otherwise provided in this title, whoever without authority 
-makes, uses, offers to sell, or sells any patented invention, within the 
-United States, or imports into the United States any patented invention 
-during the term of the patent therefor, infringes the patent. 
-
---------------------------------------------------------------------------------
 
 ### Selected Open Source Licenses
 
@@ -2048,7 +1931,17 @@ like XML....
 
 **B. XimpleWare's Patent Infringement Claims**
 
-This case spawned from earlier litigation between Versata and Ameriprise. During that litigation, Ameriprise reached out to XimpleWare to support its defense of the pending litigation and informed XimpleWare that it had discovered XimpleWare VTM-XML source code throughout Versata's DCM product. In violation of Versata's license under the GNU. XimpleWare then filed this suit against the Versata Defendants, Ameriprise and other Versata customers. XimpleWare's complaint asserts claims for (1) direct infringement of the '857, '459 and '652 patents under 35 U.S.C. § 271(a) against all defendants; (2) inducement under 35 U.S.C. § 271(b) against Versata and its corporate parents Aurea and Trilogy; and (3) declaratory relief that the asserted patents are valid and enforceable.
+This case spawned from earlier litigation between Versata and Ameriprise. 
+During that litigation, Ameriprise reached out to XimpleWare to support its 
+defense of the pending litigation and informed XimpleWare that it had 
+discovered XimpleWare VTM-XML source code throughout Versata's DCM product. 
+In violation of Versata's license under the GNU. XimpleWare then filed this 
+suit against the Versata Defendants, Ameriprise and other Versata customers. 
+XimpleWare's complaint asserts claims for (1) direct infringement of the 
+'857, '459 and '652 patents under 35 U.S.C. § 271(a) against all defendants; 
+(2) inducement under 35 U.S.C. § 271(b) against Versata and its corporate 
+parents Aurea and Trilogy; and (3) declaratory relief that the asserted 
+patents are valid and enforceable.
 
 \[...\]
 
@@ -2153,7 +2046,8 @@ Patent exhaustion is a U.S. common law doctrine limiting the scope of control
 that a patent holder can have after the "authorized sale" of a patented object.
 Under the doctrine, an authorized sale "exhausts" and thus entirely removes
 the ability of the patent older to use the threat of patent infringement to 
-control the use and sale of the sold object. The purchaser is free to *use* or *resell* the patented object without restrictions based in patent law.[^Repair] 
+control the use and sale of the sold object. The purchaser is free to *use* or 
+*resell* the patented object without restrictions based in patent law.[^Repair] 
 This right to use and resell the object extends to subsequent purchasers, even 
 those that acquire the patented object from a third party rather than from the 
 patent holder herself.
@@ -2688,7 +2582,7 @@ the patent laws").
 --------------------------------------------------------------------------------
 United States Supreme Court (2017)[^LexmarkHeadnote]
 
-[^LexmarkHeadnote]:_Impression Prods. v. Lexmark Int'l, Inc._, 137 S. Ct. 1523, 1526 (2017), _available at_ [https://caselaw.findlaw.com/us-supreme-court/15-1189.html](https://caselaw.findlaw.com/us-supreme-court/15-1189.html)
+[^LexmarkHeadnote]:_Impression Prods. v. Lexmark Int'l, Inc._, 137 S. Ct. 1523 (2017), _available at_ [https://caselaw.findlaw.com/us-supreme-court/15-1189.html](https://caselaw.findlaw.com/us-supreme-court/15-1189.html)
 
 *Chief Justice Roberts delivered the opinion of the Court.*
 
@@ -3659,6 +3553,152 @@ ___
 [^IntelFNOmitted]: Some footnotes and cites to the record have been omitted.
 
 [^PARC]: CCNx Module for NS3 License text, *available at* [https://github.com/PARC/ccns3Sim](https://github.com/PARC/ccns3Sim).
+
+
+### Industry Agreements
+
+When considering patent exhaustion, it isn't just the action of the patent
+holder that needs to be considered - it is also the acts of any licensees.
+As the *Lexmark* court noted: "a license is not about passing title to a 
+product, it is about changing the contours of the patentee's monopoly: 
+The patentee agrees not to exclude a licensee from making or selling 
+the patented invention, *expanding the club of authorized producers and 
+sellers.* (*Lexmark* at 1534, emphasis added)
+
+While there aren't any industry agreements that affect *all* open source,
+a large number of open source packages are covered by the patent 
+license agreement provided by the [Open Invention Network](https://www.openinventionnetwork.com/) ("OIN"). 
+
+The Open Invention Network is a shared defensive patent pool with the mission 
+to protect Linux. Launched in 2005, OIN includes (as of October 2018) 2747 
+participating licensees [^OINLicensees]. Based upon the number of patents 
+publicly owned by participants in OIN, the patent pool includes more than
+100,000 active patents cross-licensed on a royalty-free basis, making it
+the largest patent pool in any industry.
+
+The patent pool maintained by OIN covers what is described as the "Linux
+System." The Linux System is substantially broader than just the underlying
+operating system. It also includes a number of standard packages that are
+included with most Linux distributions
+
+[^OINLicensees]: The current list of OIN licensees is maintained at [https://www.openinventionnetwork.com/community-of-licensees/](https://www.openinventionnetwork.com/community-of-licensees/).
+ 
+The OIN Linux System is defined as follows:[^OINLinuxSystem]
+
+  > "Linux Environment Component" shall mean any of the software packages 
+  > whose released source code shall be identified on the OIN website, 
+  > including bug fixes and error corrections thereto, or a Predecessor 
+  > Release or Successor Release of any of such packages.
+  > 
+  > "Linux System" shall mean a Linux Environment Component or any combination 
+  > of such components to the extent each such component is (i) generally 
+  > available under an Open Source License or in the public domain (and the 
+  > source code for such component is generally available) and (ii) Distributed 
+  > with, or for use with, the Linux Kernel (or is the Linux Kernel).
+
+
+Also see the the tables listing applicable standards[^OINTable0] and
+current list of packages.[^OINTable8]
+
+[^OINLinuxSystem]: The official definition of the Linux System is defined by the definition at [https://www.openinventionnetwork.com/joining-oin/linux-system/](https://www.openinventionnetwork.com/joining-oin/linux-system/) and 
+
+[^OINTable0]: *See* Table 0 at [https://www.openinventionnetwork.com/joining-oin/linux-system/linux-system-table/?cat_id=2&type=table](https://www.openinventionnetwork.com/joining-oin/linux-system/linux-system-table/?cat_id=2&type=table)) 
+
+[^OINTable8]: *See* the most recent list of packages in Table 8 at [https://www.openinventionnetwork.com/joining-oin/linux-system/linux-system-table/?cat_id=14&type=table](https://www.openinventionnetwork.com/joining-oin/linux-system/linux-system-table/?cat_id=14&type=table)
+
+One of the unique aspects of the OIN patent pool is that it grows in scope
+over time. Periodically the trustees of the Open Invention Network will
+propose a new set of packages to be added to the Linux System. If individual 
+companies object to the inclusion of the new components, they can exercise
+a "Limitation Election" to stop participating in the pool before the new
+components are added - but all previously licensed components remain licensed. 
+
+--------------------------------------------------------------------------------
+#### The Open Invention Network Agreement
+Excerpt from the Open Invention Network License Agreement:[^OINLicense]
+
+[^OINLicense]: _OIN License Agreement_, *available at* [https://www.openinventionnetwork.com/joining-oin/oin-license-agreement/](https://www.openinventionnetwork.com/joining-oin/oin-license-agreement/). 
+
+**SECTION 1. Licenses.**
+
+1\.1    Subject to Section 1.2(b), OIN, grants to You and Your Subsidiaries 
+a royalty-free, worldwide, nonexclusive, non-transferable license under OIN 
+Patents to make, have made, use, import, and Distribute any products or 
+services. In addition to the foregoing and without limitation thereof, with 
+respect only to the Linux System, the license granted herein includes the 
+right to engage in activities that in the absence of this Agreement would 
+constitute inducement to infringe or contributory infringement (or 
+infringement under any other analogous legal doctrine in the applicable 
+jurisdiction).
+
+1\.2    Subject to Section 2.2 and in consideration for the license granted 
+in Section 1.1, You, on behalf of yourself and your Affiliates, (a) grant 
+to each Licensee and its Subsidiaries that are Subsidiaries as of the 
+Eligibility Date a royalty-free, worldwide, nonexclusive, non-transferable 
+license under Your Patents for making, having made, using, importing, and 
+Distributing any Linux System; and (b) represent and warrant that (i) You 
+have the full right and power to grant the foregoing licenses and the 
+release in Section 1.4 and that Your Affiliates are and will be bound by 
+the obligations of this Agreement; and (ii) neither You nor any of Your 
+Affiliates has a Claim pending against any Person for making, having made, 
+using, importing, and Distributing any Linux System. Notwithstanding 
+anything in another Company Licensing Agreement to the contrary, You and 
+your current and future Subsidiaries do not and shall not receive, and 
+hereby disclaim and waive, any license from a Licensee and its current and 
+future Affiliates pursuant to a Company Licensing Agreement for 
+implementations of Linux Environment Components as specified in such 
+Company Licensing Agreement to the extent that You and your current and 
+future Affiliates are excepting any such implementations of Linux 
+Environment Component from your license to a Licensee and its current and 
+future Subsidiaries. The previous sentence is for the express benefit of 
+the Members of OIN, OIN, and OIN's Licensees.
+
+1\.3     Subject to Section 1.2(b), OIN irrevocably releases You and Your 
+Subsidiaries from claims of infringement of the OIN Patents to the extent 
+such claims are based on acts prior to the Agreement Date that, had they 
+been performed after the Agreement Date, would have been licensed under 
+this Agreement.
+
+1\.4     You, on behalf of Yourself and Your Affiliates, irrevocably 
+releases and shall release each Licensee and its Subsidiaries that are 
+Subsidiaries on the Amendment Date and their respective Channel Entities 
+and Customers that are Channel Entities and Customers, respectively, on or 
+before the Amendment Date from any and all claims of infringement of Your 
+Patents to the extent such claims are based on acts prior to the Amendment 
+Date that, had they been performed after the Amendment Date, would have 
+been licensed under this Agreement. As used herein, a Licensee's "Amendment 
+Date" shall mean the later of the date an amendment becomes effective under 
+Section 2.1 and the date such Licensee becomes a Licensee.
+
+\[...\]
+
+**Definitions:**
+
+"Affiliate" shall mean, with respect to any specified Person, any other 
+Person that now or in the future (i) is a Subsidiary of the specified 
+Person, (ii) is a parent of the specified Person or (iii) is a Subsidiary 
+of a parent of the specified Person. In each of the foregoing cases, such 
+other Person shall be deemed to be an Affiliate only during the time such 
+relationship as a Subsidiary or parent exists.
+
+#### Discussion
+
+1. How does the OIN License Agreement change in scope over time? What 
+  is the effect of the wording around a person "that now or in the future"
+  is an Affiliate?
+
+2. How significant is the OIN patent pool? Many of the technologies used 
+  in the Linux System are more than twenty years old, and so are out of 
+  scope for any enforceable patents. On the other hand, many new 
+  technologies are being developed in open source *first,* and only later
+  commercialized. Which effect predominates?
+
+3. The OIN License Agreement contains an explicit patent license, thus
+  "expanding the club" of authorized users of the code. But as discussed 
+  above, open source licenses may imply or contain a broad but non-specific
+  patent grant. Can patent owner rights be exhausted through the actions of 
+  implicit licensees? What about through the actions of those who have 
+  received a broad right to "use... without restriction"?
 
 <!-- Footnotes themselves at the bottom. -->
 
