@@ -3699,6 +3699,7 @@ relationship as a Subsidiary or parent exists.
   patent grant. Can patent owner rights be exhausted through the actions of 
   implicit licensees? What about through the actions of those who have 
   received a broad right to "use... without restriction"?
+  
 
 <!-- Footnotes themselves at the bottom. -->
 
