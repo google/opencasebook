@@ -1,1 +1,8 @@
-theme: jekyll-theme-minimal
+name: Google Open Source Casebook
+url: https://google.github.io/opencasebook
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_id_stripping: true
+  hard_wrap: false
