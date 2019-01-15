@@ -1,6 +1,8 @@
 # Resolving Contractual Ambiguity in Open Source Licenses
+{:.no_toc}
 
-[TOC]
+* Table of Contents
+{:toc}
 
 ## Introduction {#introduction}
 

@@ -1,6 +1,8 @@
 # Model CLA Policy and Rationale
+{:.no_toc}
 
-[TOC]
+* Table of Contents
+{:toc}
 
 ## Introduction
 

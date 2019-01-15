@@ -1,6 +1,8 @@
 # Authorship in Open Source
+{:.no_toc}
 
-[TOC]
+* Table of Contents
+{:toc}
 
 ## Introduction
 

@@ -1,6 +1,8 @@
 # Contract and Copyright Remedies Available under Open Source Licenses
+{:.no_toc}
 
-[TOC]
+* Table of Contents
+{:toc}
 
 ## Introduction
 
