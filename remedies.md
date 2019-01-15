@@ -1134,6 +1134,7 @@ to receive new licenses for the same material under section 10.
 [^1]: See Infra, The Penalties Compared
 [^2]: *[Sun Microsystems, Inc. v. Microsoft Corp., 188 F.3d 1115, 1121 (9th Cir.
     1999)](https://advance.lexis.com/api/document/collection/cases/id/3X7T-TDB0-0038-X066-00000-00?page=1121&reporter=1107&context=1000516)*.
+
 [^3]: Id.
 [^4]: Restat 2d of Contracts, § 347.
 [^5]: Id. at Comment a.
@@ -1145,6 +1146,7 @@ to receive new licenses for the same material under section 10.
     2012)](https://advance.lexis.com/api/document/collection/cases/id/56JC-B7G1-F04K-S2WM-00000-00?page=901&reporter=1107&context=1000516)*(affirming
     statutory damages award of $222,000; holding the $150,000 statutory cap
     to apply on a 'per work infringed' basis).
+
 [^13]: 17 USC 504(b).
 [^14]: 17 USC 502.
 [^15]: 17 USC 503(a)(1)(B).
@@ -1164,14 +1166,17 @@ to receive new licenses for the same material under section 10.
     ("Voluntary cessation of challenged conduct moots a case . . . only if it
     is *absolutely* clear that the allegedly wrongful behavior could not
     reasonably be expected to recur." (emphasis in original)).
+
 [^18]: FN2. For example, the GNU General Public License, which is used for the
     Linux operating system, prohibits downstream users from charging for a
     license to the software. See *Wallace v. IBM Corp.*, 467 F.3d 1104,
     1105-06 (7th Cir.2006).
+
 [^19]: FN3. Jacobsen's copyright registration creates the presumption of a valid
     copyright. See, e.g.,* [Triad Sys. Corp. v. Se. EXP. Co., 64 F.3d 1330,
     1335 (9th Cir.
     1995)](https://advance.lexis.com/document?crid=fea82229-8d17-4893-b80f-513bb7af0d56&pddocfullpath=%2Fshared%2Fdocument%2Fcases%2Furn%3AcontentItem%3A4T6V-54Y0-TX4N-G15K-00000-00&pdcontentcomponentid=6396&pdpinpoint=PAGE_1375_1107&pdmfid=1000516&pdisurlapi=true#)*.
+
 [^20]: FN4. The District Court held that "Defendants' alleged violation of the
     conditions of the license may have constituted a breach of the
     nonexclusive license . . . [and] the Court finds that Plaintiff's claim
@@ -1181,6 +1186,7 @@ to receive new licenses for the same material under section 10.
     Thus, despite the use of the word "conditions," the District Court
     treated the terms of the Artistic License as contractual covenants which
     did not limit the scope of the license.
+
 [^21]: FN5. Open source licensing restrictions are easily distinguished from
     mere "author attribution" cases. Copyright law does not automatically
     protect the rights of authors to credit for copyrighted materials. See*
@@ -1199,9 +1205,11 @@ to receive new licenses for the same material under section 10.
     from maps licensed to it where the license granted the county "the right
     to obtain duplicate tracings" from photographic negatives that contained
     copyright notices).
+
 [^22]: FN1. Alternatively, MDY asks that we determine whether there are any
     genuine issues of material fact that warrant a remand for trial on
     Blizzard's secondary copyright infringement claims. We find none.
+
 [^23]: FN2. See also* [S.O.S., 886 F.2d at
     1089](https://advance.lexis.com/document/?pdmfid=1000516&crid=06650db3-0f63-4524-9068-1e89116d90ac&pddocfullpath=%2Fshared%2Fdocument%2Fcases%2Furn%3AcontentItem%3A51PJ-CY71-652R-8004-00000-00&pddocid=urn%3AcontentItem%3A51PJ-CY71-652R-8004-00000-00&pdcontentcomponentid=6393&pdshepid=urn%3AcontentItem%3A51P5-94G1-DXC7-J10H-00000-00&pdteaserkey=sr0&ecomp=r89tk&earg=sr0&prid=029365ab-656c-46c5-a540-be903eb10e58#)*
     (remanding for infringement determination where licensee exceeded the
@@ -1218,6 +1226,7 @@ to receive new licenses for the same material under section 10.
     (hotel infringed copyright by publicly performing copyrighted music with
     representations of movie scenes, where its public performance license
     expressly prohibited the use of accompanying visual representations).
+
 [^24]: FN3. A copyright holder may wish to enforce violations of license
     agreements as copyright infringements for several reasons. First, breach
     of contract damages are generally limited to the value of the actual loss
@@ -1237,10 +1246,12 @@ to receive new licenses for the same material under section 10.
     infringers with whom they are not in privity of contract. See* [ProCD,
     Inc., 86 F.3d at
     1454](https://advance.lexis.com/document/?pdmfid=1000516&crid=06650db3-0f63-4524-9068-1e89116d90ac&pddocfullpath=%2Fshared%2Fdocument%2Fcases%2Furn%3AcontentItem%3A51PJ-CY71-652R-8004-00000-00&pddocid=urn%3AcontentItem%3A51PJ-CY71-652R-8004-00000-00&pdcontentcomponentid=6393&pdshepid=urn%3AcontentItem%3A51P5-94G1-DXC7-J10H-00000-00&pdteaserkey=sr0&ecomp=r89tk&earg=sr0&prid=029365ab-656c-46c5-a540-be903eb10e58#)*.
+
 [^25]: FN4. A licensee arguably may commit copyright infringement by continuing
     to use the licensed work while failing to make required payments, even
     though a failure to make payments otherwise lacks a nexus to the
     licensor's exclusive statutory rights. We view payment as *sui generis*,
     however, because of the distinct nexus between payment and all commercial
     copyright licenses, not just those concerning software.
+
 [^26]: https://opensource.org/licenses/artistic-license-1.0

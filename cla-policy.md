@@ -469,7 +469,8 @@ company has conferred authority upon the signee to execute the agreement.
 [^1]: The Berne Convention requires that copyright rights vest automatically at
     the time of creation. WIPO-Administered Treaties: Berne Convention For The
     Protection Of Literary And Artistic Works, Article 5(2). Wipo.int. N.p.,
-    2016. Web. 24 Jun. 2016.
+    2016\. Web. 24 Jun. 2016.
+
 [^2]: “A ‘work made for hire’ is ... a work prepared by an employee within the
     scope of his or her employment.” 17 U.S.C. § 101. See Miller v. CP Chems.,
     Inc., 808 F. Supp. 1238, 1242-44 (D.S.C. 1992) (software written at home
@@ -477,6 +478,7 @@ company has conferred authority upon the signee to execute the agreement.
     found to be a work-for-hire), appeal dismissed, No. 93-1045 (4th Cir.
     April 13, 1993); Genzmer v. Pub. Health Trust, 219 F. Supp. 2d 1275, 1276
     (S.D. Fla. 2002) (same).
+
 [^3]: https://www.apache.org/licenses/cla-corporate.txt
 [^4]: When employers hold copyright to the work product of their employees, this
     can benefit receiving companies and downstream users because works for
@@ -487,9 +489,11 @@ company has conferred authority upon the signee to execute the agreement.
     company does not need to fear that the contributing organization or their
     successors in interest could attempt to terminate the license 35 years
     after granting it.
+
 [^5]: This mechanism stipulates that the patent license between the contributor
     and any given entity terminates if the entity institutes patent
     litigation. See Clause 3 of http://www.apache.org/licenses/LICENSE-2.0.
+
 [^6]: See e.g. Meyer v. Ford Motor Co., 275 Cal. App. 2d 90, 102 (Cal. App. 3d
     Dist. 1969) (“Although it is established that ostensible authority can be
     created only by the acts or declarations of the principal, not by those of
@@ -501,50 +505,60 @@ company has conferred authority upon the signee to execute the agreement.
     chief financial officer or any assistant treasurer” in order to (almost)
     incontrovertibly establish the legitimacy of the agreement under
     California law. Cal. Corp. Code § 313.
+
 [^7]: This could arise if a contributor sought to limit the use of their code to
     internal uses by the company, to limit the company’s permission to charge
     end users a fee in connection with use of the code, or by a litany of
     other possible criteria were every inbound code contribution subject to a
     negotiated license.
+
 [^8]: See 17 U.S.C. § 203(a) (“In the case of any work other than a work made
     for hire, the exclusive or nonexclusive grant of a transfer or license of
     copyright ... is subject to termination…[.]”).
+
 [^9]: Copyrighted works created “within the scope of one’s employment” are
     treated as works made for hire. Works created outside the scope of
     employment, such as works created prior to being employed, or works
     created by an engineer using the engineer’s own time and resources (and
     that are unrelated to the employer’s business) are owned by their specific
     author.
+
 [^10]: See, e.g., Cal Corp Code § 208(b).
 [^11]: See Airline Support, Inc. v. ASM Capital II, L.P., 279 P.3d 599, 609
     (Alaska 2012) (remanded for determination of “whether a credit manager of
     a company's accounts receivable department would typically have the
     authority to sell one of the company's significant assets”).
+
 [^12]: “Any contract or conveyance made in the name of a corporation which is
     […] done within the scope of the authority, actual or apparent, conferred
     by the board or within the agency power of the officer executing it, […]
     binds the corporation[.]” Cal Corp Code § 208(b).
+
 [^13]: For instance, a California-based company could require that the CLA be
     signed by “the chairperson of the board, the president or any vice
     president and the secretary, any assistant secretary, the chief financial
     officer or any assistant treasurer” in order to (almost) incontrovertibly
     establish the legitimacy of the agreement under California law. Cal.
     Corp. Code § 313.
+
 [^14]: "An agent acts with actual authority when, at the time of taking action
     that has legal consequences for the principal, the agent reasonably
     believes, in accordance with the principal's manifestations to the agent,
     that the principal wishes the agent so to act." Restat 3d of Agency §2.01
     (3rd 2006)
+
 [^15]: An example would be if the president of a company were personally
     instructed by the company’s board not to accept a CLA, yet the president
     were to proceed with signing it anyway. The receiving company may be
     faultless for trusting in the president’s apparent authority, even though
     the president lacks actual authority due to the action of the board.
+
 [^16]: "Apparent authority is the power held by an agent or other actor to
     affect a principal's legal relations with third parties when a third
     party reasonably believes the actor has authority to act on behalf of the
     principal and that belief is traceable to the principal's
     manifestations." Restat 3d of Agency §2.03 (3rd 2006)
+
 [^17]: Id.
 [^18]: “A principal may also make a manifestation by placing an agent in a
     defined position in an organization or by placing an agent in charge of a
@@ -553,44 +567,54 @@ company has conferred authority upon the signee to execute the agreement.
     authority to do acts consistent with the agent's position or role unless
     they have notice of facts suggesting that this may not be so.” Restat 3d
     of Agency, § 3.03 (3rd 2006).
+
 [^19]: Cal Civ Code § 3543.
 [^20]: A principal is liable for the torts of its agent if it is negligent in
     “selecting, training, retaining, supervising, or otherwise controlling
     the agent.” Restat 3d of Agency, § 7.05 (3rd 2006).
+
 [^21]: “Apparent authority ends when it is no longer reasonable for the third
     party with whom an agent deals to believe that the agent continues to act
     with actual authority.” Restat 3d of Agency, § 3.11(2) (3rd 2006).
+
 [^22]: “It is your responsibility to notify the Foundation when any change is
     required to the list of designated employees authorized to submit
     Contributions on behalf of the Corporation, or to the Corporation's Point
     of Contact with the Foundation.” Section 8 of The Apache Software
     Foundation Software Grant and Corporate Contributor License Agreement, at
     https://www.apache.org/licenses/cla-corporate.txt
+
 [^23]: This is designed to clarify situations where it is unclear whether the
     code is being submitted on behalf of an engineer’s employer as opposed to
     being submitted by the engineer in her individual capacity, but could be
     triggered by the existence of multiple CLAs for a given entity.
+
 [^24]: All individuals under a single authorized group for a single given CLA
     are considered to be the same entity, both under the terms of a CLA and
     the law. One key measure in ensuring the intentionality of a submission
     is requiring that all of the commits authored in a given pull request are
     subject to the same CLA.
+
 [^25]: See *Menard, Inc. v. Dage-MTI, Inc.*, 726 N.E.2d 1206 at 1216 (Ind. 2000)
     (even where president possessed neither actual nor apparent authority to
     enter agreement, corporation subject to liability due to the president’s
     inherent authority).
+
 [^26]: The contracting party knew that the corporate vice president lacked
     authority to agree to a three-year ship charter. The contracting party
     could not reasonably rely on the vice president’s claim of authority, and
     the senior management of the company did nothing to manifest that such
     authority existed. *Armagas Ltd. v. Mundogas S.A.* 1 A.C. 717, 777-78
     (1986).
+
 [^27]: Vice president found to lack authority to sign on behalf of company where
     the contract concerned the vice-president’s individual transactions.
     *Morris v. Griffith & W. Co.*, 69 F. 131, 137, 1895 U.S. App. LEXIS 3080,
     *17 (C.C.D. Ohio 1895).
+
 [^28]: *Anderson v. McAllister Towing & Transp. Co.*, 17 F.Supp.2d 1280, 1289
     (S.D.Ala. 1998).
+
 [^29]: *See Orient Overseas Container Line v. Kids Int’l Corp.*, 1999 A.M.C. 961
     (S.D.N.Y. 1998) (“Director of Imports” lacked actual authority to execute
     a guarantee on behalf of a third party to induce a shipping company to
