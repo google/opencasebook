@@ -7,8 +7,9 @@
   <meta name="viewport" content="width=device-width">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <link rel="canonical" href="{{ page.url | replace: 'index.html','' | prepend: site.url }}">
+  <link rel="shortcut icon" href="/static/favicon.png">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Google+Sans|Roboto:400,500|Roboto+Mono:400">
-  <link rel="stylesheet" href="https://opensource.google.com/assets/static/css/main-d44d8728ea1223aa7cbd4d87a21d6f2b.css">
+  <link rel="stylesheet" href="/static/main.css">
   <style>
     .hero a { color: #fff; }
     .license { font-size: 14px; }
@@ -131,6 +132,19 @@
         </div>
       </footer>
     </div>
-    <script type="text/javascript" src="https://opensource.google.com/assets/static/js/main-9526d3a44f2d35e0a15c1bb1ba1034bf.js"></script>
+    <script type="text/javascript" src="/static/main.js"></script>
+    <script type="text/javascript">
+      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+      ga('create', 'UA-53341410-15', 'auto');
+      ga('require', 'eventTracker');
+      ga('require', 'outboundLinkTracker', {
+        events: ['click', 'auxclick', 'contextmenu'],
+      });
+      ga('require', 'urlChangeTracker');
+      ga('require', 'maxScrollTracker');
+      ga('send', 'pageview');
+    </script>
+    <script async src="https://www.google-analytics.com/analytics.js"></script>
+    <script async src="/static/autotrack.js"></script>
   </body>
 </html>
