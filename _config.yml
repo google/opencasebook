@@ -1,5 +1,5 @@
-name: Open Source Casebook
-url: https://google.github.io/opencasebook
+title: Open Source Casebook
+baseurl: /opencasebook
 permalink: pretty
 
 markdown: kramdown

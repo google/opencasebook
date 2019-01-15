@@ -3,10 +3,10 @@
 <!doctype html>
 <html>
   <head>
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="viewport" content="width=device-width">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="{{ page.url | replace: 'index.html','' | prepend: site.url }}">
+  <link rel="canonical" href="{{ page.url | replace: 'index.html','' | absolute_url }}">
   <link rel="shortcut icon" href="{{ '/static/favicon.png' | relative_url }}">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Google+Sans|Roboto:400,500|Roboto+Mono:400">
   <link rel="stylesheet" href="{{ '/static/main.css' | relative_url }}">
@@ -84,7 +84,7 @@
         <div class="container-docs">
           <section class="hero short">
             <div class="col-wrap">
-              <h2><a href="/">{{ site.name }}</a></h2>
+              <h2><a href="/">{{ site.title }}</a></h2>
             </div>
           </section>
 
