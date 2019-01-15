@@ -9,7 +9,10 @@
   <link rel="canonical" href="{{ page.url | replace: 'index.html','' | prepend: site.url }}">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Google+Sans|Roboto:400,500|Roboto+Mono:400">
   <link rel="stylesheet" href="https://opensource.google.com/assets/static/css/main-d44d8728ea1223aa7cbd4d87a21d6f2b.css">
-  <style>.hero a { color: #fff; }</style>
+  <style>
+    .hero a { color: #fff; }
+    .license { font-size: 14px; }
+  </style>
   </head>
   <body class="no-touch">
     <div class="container">
@@ -85,9 +88,13 @@
           </section>
 
           <section class="content">
-              <div class="col-wrap">
-                {{ content }}
-              </div>
+            <div class="col-wrap">
+              {{ content }}
+              <p class="license">
+                Except as otherwise noted, the content of this page is licensed under the <a
+                  href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a> license.
+              </p>
+            </div>
           </section>
         </div>
       </div>
