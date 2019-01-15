@@ -7,8 +7,123 @@
   <meta name="viewport" content="width=device-width">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <link rel="canonical" href="{{ page.url | replace: 'index.html','' | prepend: site.url }}">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Google+Sans|Roboto:400,500|Roboto+Mono:400">
+  <link rel="stylesheet" href="https://opensource.google.com/assets/static/css/main-d44d8728ea1223aa7cbd4d87a21d6f2b.css">
+  <style>.hero a { color: #fff; }</style>
   </head>
-  <body>
-  {{ content }}
-  <body>
+  <body class="no-touch">
+    <div class="container">
+      <!--[if lte IE 11]>
+      <p id="whatbrowser" class="whatbrowser">
+        You are using an <strong>outdated</strong> browser.
+        Please <a href="http://whatbrowser.com/" target="_blank">
+          upgrade your browser
+        </a>
+        to improve your experience.
+      </p>
+      <![endif]-->
+
+      <header class="header-main">
+        <h1>
+          <a href="http://opensource.google.com/"
+            data-g-event="Header"
+            data-g-action="Click"
+            data-g-label="Open Source Logo">
+            opensource.google.com
+          </a>
+        </h1>
+        <a id="NavTrigger"
+          href="/#Navigation"
+          data-g-event="Header"
+          data-g-action="Click"
+          data-g-label="Nav Toggle Open">
+          <span>Menu</span>
+        </a>
+        <nav class="main-nav" id="Navigation">
+          <ul>
+                <li class="projects">
+                  <a href="/projects/"
+                    data-g-event="Header"
+                    data-g-action="Click"
+                    data-g-label="Projects">
+                    Projects
+                  </a>
+                </li>
+                <li class="community">
+                  <a href="/community/"
+                    data-g-event="Header"
+                    data-g-action="Click"
+                    data-g-label="Community">
+                    Community
+                  </a>
+                </li>
+                <li class="docs">
+                  <a href="/docs/"
+                    data-g-event="Header"
+                    data-g-action="Click"
+                    data-g-label="Docs">
+                    Docs
+                  </a>
+                </li>
+                <li class="blog">
+                  <a href="https://opensource.googleblog.com/"
+                    data-g-event="Header"
+                    data-g-action="Click"
+                    data-g-label="Blog">
+                    Blog
+                  </a>
+                </li>
+          </ul>
+        </nav>
+      </header>
+      <div class="main">
+        <div class="container-docs">
+          <section class="hero short">
+            <div class="col-wrap">
+              <h2><a href="/">{{ site.name }}</a></h2>
+            </div>
+          </section>
+
+          <section class="content">
+              <div class="col-wrap">
+                {{ content }}
+              </div>
+          </section>
+        </div>
+      </div>
+      <footer id="FooterMain" class="footer-main">
+        <div class="col-wrap">
+          <nav class="footer-nav pull-left">
+            <ul>
+              <li class="google">
+                <a href="http://google.com"
+                  data-g-event="Footer"
+                  data-g-action="Click"
+                  data-g-label="Google Logo">
+                  Google
+                </a>
+              </li>
+              <li>
+                <a href="https://www.google.com/policies/privacy/"
+                  data-g-event="Footer"
+                  data-g-action="Click"
+                  data-g-label="Privacy">
+                  Privacy
+                </a>
+              </li>
+              <li>
+                <a href="https://www.google.com/policies/terms/"
+                  data-g-event="Footer"
+                  data-g-action="Click"
+                  data-g-label="Terms">
+                  Terms
+                </a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+      </footer>
+    </div>
+    <script type="text/javascript" src="https://opensource.google.com/assets/static/js/main-9526d3a44f2d35e0a15c1bb1ba1034bf.js"></script>
+  </body>
 </html>
