@@ -5,6 +5,8 @@ This casebook does not provide legal advice, and represents the views solely of
 its contributors in their individual capacities. Please consult with your own
 lawyer for legal advice.
 
+You can contribute to the casebook at <https://github.com/google/opencasebook>.
+
 ## Casebook
 
 The Casebook reproduces and discusses primary sources like case law, statutes, and license text.
