@@ -1,6 +1,9 @@
 # Patents in Open Source
 
-[TOC]
+{:.no_toc}
+
+* Table of Contents
+{:toc}
 
 ## Introduction
 
