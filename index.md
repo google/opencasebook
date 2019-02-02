@@ -12,6 +12,7 @@ You can contribute to the casebook at <https://github.com/google/opencasebook>.
 The Casebook reproduces and discusses primary sources like case law, statutes, and license text.
 
 - [Contract and Copyright Remedies Available under Open Source Licenses](remedies/)
+- [Patent Licensing and Exhaustion in Open Source](patents/)
 - [Trademarks in Open Source](trademarks/)
 - [Authorship in Open Souce](authorship/)
 - [Resolving Contractual Ambiguity in Open Source Licenses](ambiguity/)
