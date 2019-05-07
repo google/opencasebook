@@ -18,6 +18,7 @@ fundamentally different from patent and copyright licensing.
 
 [^NominativeDiscussion]: _See_ discussion _infra_ Fair Use Defense to Trademark
     Infringement.
+
 [^CommonLawDiscussion]: _See_ discussion _infra_ Common Law Trademarks in Open
     Source.
 
@@ -57,6 +58,7 @@ is reasonable as long as software freedom is not restricted.[^RichardStallman]
     holders and consumers' interests in commerce; for that reason, it
     is, among the many types of intellectual property, the least
     property-oriented") (citation omitted).
+
 [^OpenSourcePrinciples]: _See The Open Source Definition_, Open Source
     Initiative,
     [https://opensource.org/osd](https://opensource.org/osd)
@@ -70,6 +72,7 @@ is reasonable as long as software freedom is not restricted.[^RichardStallman]
     ("Trademarks and FOSS are not incompatible; instead,
     trademarks are legal tools strongly aligned with FOSS
     principles.") (CC BY 4.0).
+
 [^RichardStallman]: When asked for his opinion on trademark enforcement of a
     logo, Stallman responded, "It is no problem if the program
     contains trademarked images and names, and provided that the
