@@ -1,8 +1,4 @@
 # Trademarks in Open Source
-{:.no_toc}
-
-* Table of Contents
-{:toc}
 
 ## Introduction
 
@@ -234,6 +230,7 @@ guidelines.
 
 [^FreecyclingVocab]: Beal did not coin the word "freecycle" and TFN is not the
     first organization to promote freecycling.
+
 [^YahooGroups]: In general, online discussion groups such as Yahoo! Groups and
     Google Groups allow individuals with a shared common interest to
     communicate by means of posting messages to the particular
@@ -636,9 +633,12 @@ against TFN is AFFIRMED.
     owner?[^18]
 
 [^16]: _Stanfield_, 52 F.3d at 871.
+
 [^15]: _FreecyleSunnyvale v. Freecycle Network_, 626 F.3d 509, 516 (9th Cir.
     2010).
+
 [^17]: _Freecycle,_ 626 F.3d at 519 (citation omitted).
+
 [^18]: _See, e.g._, _Trademarks and Free Software_, FOSSmarks,
     [http://fossmarks.org/](http://fossmarks.org/) ("It may be the case that
     confusion between two products with similar/identical trademarks isn't
@@ -664,6 +664,7 @@ infringement.[^20]
 [^19]: _See Unregistered trademark_, Wikipedia,
     [https://en.wikipedia.org/wiki/Unregistered_trademark](https://en.wikipedia.org/wiki/Unregistered_trademark)
     (last visited Jan. 2, 2018) (CC-BY-SA 3.0).
+
 [^20]: _See Tally-Ho, Inc. v. Coast Community College Dist._, 889 F.2d 1018,
     1022-23 ("Under the common law, trademark rights are appropriated only
     through actual prior use in commerce.") (citation omitted).
@@ -700,11 +701,13 @@ attribute to the original author releasing software under the GNU GPL?
 
 [^FirstPlanet]: _Planetary Motion, Inc. v. Techsplosion, Inc._, 261 F.3d 1188
     (11th Cir. 2001)
+
 [^21]: _See New England Duplicating Co. v. Mendes_, 190 F.2d 415, 417-418 (1st
     Cir. 1951) (after finding "use in commerce" jurisdiction predicate
     satisfied, court noted that "the question remains whether the plaintiff
     has established that he was the 'owner' of the mark, for under 15 U.S.C.
     § 1051 only the owner of the mark is entitled to have it registered.")
+
 [^PlanetaryOwnership]: 261 F.3d at 1195 (citation omitted).
 
 #### Planetary Motion, Inc. v. Techsplosion, Inc.
@@ -878,6 +881,7 @@ scope of injunctive relief, as well as the award of attorney fees and costs.
     person's goods, services, or commercial activities, shall be liable in a
     civil action by any person who believes that he or she is or is likely to
     be damaged by such act. 15 U.S.C. § 1125(a).
+
 [^26]: Courts may use an analysis of federal infringement claims as a "measuring
     stick" in evaluating the merits of state law claims of unfair
     competition. _See Investacorp, Inc. v. Arabian Inv. Banking Corp._
@@ -974,6 +978,7 @@ ownership, even without evidence of actual sales.[^30]
 
 [^29]: It is uncontested that Darrah adopted the mark "Coolmail" before
     Appellants' use of the mark in connection with their e-mail service.
+
 [^30]: This ownership test is not for the purpose of establishing the "use in
     commerce" jurisdictional predicate of the Lanham Act. _See, e.g._, _Univ.
     of Fla. v. KPB, Inc._, 89 F.3d 773, 776 n.4 (11th Cir. 1996). See supra
@@ -1022,6 +1027,7 @@ retailer), _aff'd in part, vacated in part,_ 101 F.3d 259 (2d Cir. 1996).[^33]
     establishes a common law right to a trademark only by demonstrating that
     its use of the mark was 'deliberate and continuous, not sporadic, casual
     or transitory.'").
+
 [^32]: Appellants cite _Future Domain Corp. v. Trantor Sys. Ltd._, 27 U.S.P.Q.2d
     1289, 1293 (N.D. Cal. 1993) for the proposition that there must be a sale
     in order to satisfy the "use in commerce" requirement. Future Domain,
@@ -1032,6 +1038,7 @@ retailer), _aff'd in part, vacated in part,_ 101 F.3d 259 (2d Cir. 1996).[^33]
     where at most 7,000 persons actually received or requested information
     about the mark and where no orders were taken -- was not sufficient to
     create such an association. _Id._ at 1293-95.
+
 [^33]: Courts applying the "totality of circumstances" approach routinely have
     found evidence of a few sales of goods to which the mark had been affixed
     insufficient to establish trademark ownership. For example, in _Zazu
@@ -1086,6 +1093,7 @@ was called "Coolmail" when it contacted Darrah.
     in them. Also there's a copyright notice included with the software that
     has the name Coolmail. And the name of the executable file itself is
     Coolmail." R2-47-Exh. 3 at 67.
+
 [^36]: Darrah: The Coolmail name always comes with the documentation that comes
     with the software.
 
@@ -1228,6 +1236,7 @@ evidence of competitive activity.[^41]
     competition nor disentitles them to protection against the unfair
     competition of similar organizations.'" 520 F.2d at 512 (quoting Callman,
     Vol. 1,s 1.1, p. 4).
+
 [^41]: The _DeCosta_ court noted that [common law unfair competition]
     [p]rotection at present has the merits of inherent limitations: the
     existence of a trade, business, or profession where the 'good will' to be
@@ -1287,6 +1296,7 @@ Planetary Motion's e-mail services).
     Corp._, 174 F.3d 1036, 1055 (1999), explained that the domain name
     "moviebuff.com" was virtually identical to "MovieBuff," because "Web
     addresses are not caps-sensitive."
+
 [^43]: This Court considers the following seven factors in assessing whether or
     not a likelihood of consumer confusion exists: (1) type of mark; (2)
     similarity of mark; (3) similarity of the products the marks represent;
@@ -1354,6 +1364,7 @@ at 1027.
 [^45]: Techsplosion, the junior user in this case, first used the mark
     "CoolMail" in connection with its e-mail service in April 16, 1998,
     before Planetary motion filed its intent-to-use application.
+
 [^46]: The court in Carnival explained the "source or sponsorship" inquiry in
     this context as follows: The likelihood-of-confusion test, when applied
     at this stage in order to determine priority where there are issues of
@@ -1394,6 +1405,7 @@ e-mail service were promoted over the Internet to those who make use of e-mail.
     service similar to those of the parties. For goods or services to be
     "related," they need not have exactly the same customer base or be in
     direct competition with one another.
+
 [^48]: _Cf._ _Commerce Nat'l Ins. Servs., Inc. v. Commerce Insurance Agency,
     Inc._, 214 F.3d 432, 438, 441-43 (3d Cir. 2000). The court in Commerce
     Nat'l found clear error in the district court's "likelihood of confusion"
@@ -1403,6 +1415,7 @@ e-mail service were promoted over the Internet to those who make use of e-mail.
     where evidence of such perception consisted of an affidavit and an
     "unpersuasive report" and where state law limited banks from engaging in
     the general insurance industry. 214 F.3d at 441.
+
 [^49]: _See_ _Scarves by Vera, Inc. v. Todo Imports, Ltd._, 544 F.2d 1167,
     1174-75 (2d Cir. 1976). The court in Scarves by Vera found a use of mark
     on cosmetics to infringe on use on apparel and household linens, even
@@ -1532,10 +1545,12 @@ simpler (and more likely to be understood) to refer to the Chicago Bulls."[^56]
     allowing the trademark holder exclusive rights would allow the language
     to 'be depleted in much the same way as if generic words were
     protectable.'") (citation omitted).
+
 [^55]: _See_ Mike Masnick, _Hey Advertisers! Stop Believing the NFL's Lies About
     Trademark Law And Call The Super Bowl The Super Bowl_, techdirt (Feb. 3,
     2012, 9:21 AM),
     [https://www.techdirt.com/articles/20120202/04205917638/hey-advertisers-stop-believing-nfls-lies-about-trademark-law-call-super-bowl-super-bowl.shtml](https://www.techdirt.com/articles/20120202/04205917638/hey-advertisers-stop-believing-nfls-lies-about-trademark-law-call-super-bowl-super-bowl.shtml).
+
 [^56]: _New Kids on the Block_, 971 F.2d at 308.
 
 _Playboy Enters. v. Welles_ applies nominative use analysis to 1981 Playmate of
@@ -1604,6 +1619,7 @@ and dilution claims. We affirm in part and reverse in part.
 
 [^58]: Metatags are hidden code used by some search engines to determine the
     content of websites in order to direct searchers to relevant sites.
+
 [^59]: PEI claims that "PMOY" is an unregistered trademark of PEI, standing for
     "Playmate of the Year."
 
@@ -1634,10 +1650,13 @@ inapplicable.[^64] The use was nonetheless permissible, we concluded, based on
 its nominative nature.
 
 [^61]: 971 F.2d 302 (9th Cir. 1992).
+
 [^62]: _Id_. at 304.
+
 [^63]: The "classic fair use case" is one in which "the defendant has used the
     plaintiff's mark to describe the defendant's _own_ product." _Id_. at 308
     (emphasis in original).
+
 [^64]: _See New Kids_, 971 F.2d at 308-09 (adopting a three-factor test for
     nominative use, not the eight-factor test for likelihood of confusion set
     forth in _AMF, Inc. v. Sleekcraft Boats_, 599 F.2d 341, 348-49 (9th Cir.
@@ -1681,6 +1700,7 @@ trademark.
 [^66]: _Id_. at 309 ("Where, as here, the use does not imply sponsorship or
     endorsement, the fact that it is carried on for profit and in competition
     with the trademark holder's business is beside the point.").
+
 [^67]: 599 F.2d at 348-49.
 
 _1. Headlines and banner advertisements._
@@ -1711,10 +1731,15 @@ prototypical woman for the year 1981" would be impractical as well as
 ineffectual in identifying Terri Welles to the public.[^73]
 
 [^68]: _New Kids_, 971 F.2d at 308.
+
 [^69]: _Id_. at 306.
+
 [^70]: _Id_.
+
 [^71]: _Id_.
+
 [^72]: _Id_.
+
 [^73]: _PEI v. Welles_, 78 F. Supp. 2d 1066, 1079 (S.D. Cal. 1999).
 
 We agree. Just as the newspapers in _New Kids_ could only identify the band
@@ -1734,7 +1759,9 @@ advertisements and headlines satisfy this element because they use only the
 trademarked words, not the font or symbols associated with the trademarks.
 
 [^74]: _New Kids_, 971 F.2d at 308.
+
 [^75]: _Id_. at n. 7.
+
 [^76]: _Id_. (quoting _Volkswagenwerk Aktiengesellschaft v. Church_, 411 F.2d
     350 (9th Cir. 1969)).
 
@@ -1753,6 +1780,7 @@ of the year, in our case, serves the same function as the "former" in our
 example. It shows that any sponsorship or endorsement occurred in the past.[^78]
 
 [^77]: _Id_. 971 F.2d at 308.
+
 [^78]: We express no opinion regarding whether an individual's use of a current
     title would suggest sponsorship or endorsement.
 
@@ -1784,6 +1812,7 @@ that the use of the trademarked terms in Welles' metatags is nominative.
 
 [^80]: _See Brookfield Communications, Inc. v. West Coast Entertainment_, 174
     F.3d 1036, 1045 (9th Cir. 1999).
+
 [^81]: We note that search engines that use their own summaries of websites, or
     that search the entire text of sites, are also likely to identify Welles'
     site as relevant to a search for "playboy" or "playmate," given the
@@ -1830,6 +1859,7 @@ regularly appear above PEI's in searches for one of the trademarked terms.[^84]
     are now using pictures. Searching for symbols, such as the Playboy bunny,
     cannot be far behind. That problem does not arise in this case, however,
     and we need not address it.
+
 [^84]: PEI asserts that it introduced evidence showing that Welles' site has
     been listed before PEI's on occasion. However, an examination of the
     evidence PEI cites shows that Welles' site, although sometimes ranked
@@ -1892,9 +1922,12 @@ as well as elsewhere.[^90]
 [^87]: _Academy of Motion Picture Arts & Sciences v. Creative House Promotions_,
     _Inc._, 944 F.2d 1446, 1457 (9th Cir. 1991) (_citing_ J. McCarthy,
     _Trademarks and Unfair Competition_, § 24: 13 (2d ed. 1984)).
+
 [^88]: _Panavision Int'l, L.P. v. Toeppen_, 141 F.3d 1316, 1326 n. 7 (9th Cir.
     1998).
+
 [^89]: _Id_.
+
 [^90]: _Id_. at 1326-27.
 
 Dilution works its harm not by causing confusion in consumers' minds regarding
@@ -1921,6 +1954,7 @@ confusion, would cause harm by diluting the mark.
 
 [^91]: _See_ 4 J. McCarthy, _Trademarks and Unfair Competition_, § 24: 70 (4th
     ed. 2001).
+
 [^92]: _I.P. Lund Trading ApS v. Kohler Co._ 163 F.3d 27, 50 (1st Cir. 1998).
 
 Uses that do not create an improper association between a mark and a new product
@@ -2035,12 +2069,14 @@ Welles, Inc.
     functional trademark uses occur in open source projects?
 
 [^CurbAbuse]: Autodesk, Inc. v. Dassault Systemes Solidworks Corp._, 685 F.
-    Supp. 2d 1023, 1025 (N.D. Cal. 2009) (citation omitted)
+    Supp. 2d 1023, 1025 (N.D. Cal. 2009) (citation omitted).
+
 [^95]: _Playboy Enters. v. Welles_, 279 F.3d 796, 804 (9th Cir. 2002) ("There is
     simply no descriptive substitute for the trademarks used in Welles'
     metatags. Precluding their use would have the unwanted effect of
     hindering the free flow of information on the internet, something which
     is certainly not a goal of trademark law.") (footnote omitted).
+
 [^96]: _See_ Carrie L. Kiedrowski & Charlotte K. Murphy, _Are Hashtags Capable
     of Trademark Protection under U.S. Law?_, INTABulletin (Feb. 1, 2016),
     https://www.inta.org/INTABulletin/Pages/AreHashtagsCapableofTMProtectionunderUSLaw-.aspx.
@@ -2347,6 +2383,7 @@ organization would want to encourage.
 [^106]: _Trademark Policy_, Wikimedia Foundation,
     [https://wikimediafoundation.org/wiki/Trademark_policy](https://wikimediafoundation.org/wiki/Trademark_policy)
     (last visited Jan. 4, 2017) (CC-BY-SA 3.0).
+
 [^Mattel]: _See_ _Mattel, Inc. v. MCA Records_, 296 F.3d 894 (2002), _available
     at_ https://scholar.google.com/scholar_case?case=4174039731032587001.
 
