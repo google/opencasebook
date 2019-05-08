@@ -1,8 +1,4 @@
 # Authorship in Open Source
-{:.no_toc}
-
-* Table of Contents
-{:toc}
 
 ## Introduction
 
@@ -48,6 +44,7 @@ application.
 [^Distinction]: This is entirely independent from the question of whether the
     work is jointly authored. A work can be both a collective work
     and be a work of joint authorship simultaneously.
+
 [^CollectiveDefinition]: “[T]he owner of copyright in the collective work is
     presumed to have acquired only the privilege of
     reproducing and distributing the contribution as part
@@ -161,6 +158,7 @@ from case law:
     Tel. Serv. Co._, 499 U.S. 340, 355, 111 S. Ct. 1282, 1292-93
     (1991) (citing H. R. Rep. No. 94-1476, p. 51 (1976); S. Rep.
     No. 94-473, p. 50 (1975)).
+
 [^Originality]: _Id._ at 1287-88 (internal citations omitted).
 
 **“Joint Work”** - “A ‘joint work’ is a work prepared by two or more authors
@@ -170,6 +168,7 @@ is accorded to person whose contribution is relatively minor, that person enjoys
 all benefits of joint authorship.” [^Joint2]
 
 [^Joint1]: 17 U.S.C. § 101.
+
 [^Joint2]: _Bencich v. Hoffman_, 84 F. Supp. 2d 1053 (D. Ariz. 2000).
 
 ## Section 1 - Copyright Property Interests: The Role of The Joint And Individual Authorship Distinction in Open Source Development
@@ -197,6 +196,7 @@ work.[^Copyrightable]
 [^Employed]: However, if the work were to constitute a Work Made For Hire, then
     sole copyright ownership would vest with the principal. 17 U.S.C. §
     201(b).
+
 [^Copyrightable]: "A 'joint work' in [the Ninth] circuit 'requires each author
     to make an independently copyrightable contribution' to the
     disputed work." _Aalmuhammed v. Lee_, 202 F.3d 1227, 1231 (9th
@@ -214,6 +214,7 @@ product of collaboration, such as a single sculpture where two authors sculpted
 interdependent parts.
 
 [^Joint101]: 17 U.S.C. § 101.
+
 [^Joint201]: 17 U.S.C. § 201(a).
 
 The open source community is intrigued by the joint authorship model.[^Chestek]
@@ -310,7 +311,9 @@ defendants summary judgment against Mr. Aalmuhammed's copyright claims. We
 review de novo.[^Aal4]
 
 [^Aal2]: 17 U.S.C. §§ 101, 201(a).
+
 [^Aal3]: _Cf. Thomson v. Larson_, 147 F.3d 195, 206 (2nd Cir. 1998).
+
 [^Aal4]: _See Covey v. Hollydale Mobilehome Estates_, 116 F.3d 830, 834 (9th
     Cir. 1997), _amended by_, 125 F.3d 1281 (1997).
 
@@ -325,6 +328,7 @@ authorship.[^Aal6]
 [^Aal5]: _See_ 17 U.S.C. § 507(b); _Zuill v. Shanahan_, 80 F.3d 1366, 1371 (9th
     Cir. 1996), _cert. denied_, 519 U.S. 1090, 136 L. Ed. 2d 710, 117 S.
     Ct. 763 (1997).
+
 [^Aal6]: _Zuill_, 80 F.3d at 1371.
 
 The movie credits plainly and expressly repudiated authorship, by listing
@@ -382,7 +386,9 @@ issue of fact for each element of a "joint work."
 
 [^Aal8]: _Richardson v. United States_, 526 U.S. 813, 119 S. Ct. 1707, 1710, 143
     L. Ed. 2d 985 (1999).
+
 [^Aal9]: _Ashton-Tate Corp. v. Ross_, 916 F.2d 516, 521 (9th Cir. 1990).
+
 [^Aal10]: _See Ashton-Tate Corp. v. Ross_, 916 F.2d 516, 521 (9th Cir. 1990).
 
 But there is another element to a "joint work." A "joint work" includes "two or
@@ -448,8 +454,11 @@ maker; one who completes a work of science or literature.'"[^Aal17]
 
 [^Aal14]: _Burrow-Giles Lithographic Co. v. Sarony_, 111 U.S. 53, 61, 28 L. Ed.
     349, 4 S. Ct. 279 (1884).
+
 [^Aal15]: _Id._ at 61 (quoting _Nottage v. Jackson_, 11 Q.B.D. 627 (1883)).
+
 [^Aal16]: U.S. Const. Art. 1, § 8, cl. 8.
+
 [^Aal17]: _Burrow-Giles_, 111 U.S. at 58 (quoting Worcester).
 
 Answering a different question, what is a copyrightable "work," as opposed to
@@ -486,14 +495,18 @@ was the author.[^Aal23]
 
 [^Aal19]: _Burrow-Giles Lithographic Co. v. Sarony_, 111 U.S. 53, 58, 28 L. Ed.
     349, 4 S. Ct. 279 (1883).
+
 [^Aal20]: _Feist Publications, Inc. v. Rural Telephone Service Co., Inc._, 499
     U.S. 340, 346, 113 L. Ed. 2d 358, 111 S. Ct. 1282 (1991).
+
 [^Aal21]: _See Burrow-Giles Lithographic Co. v. Sarony_, 111 U.S. 53, 28 L. Ed.
     349, 4 S. Ct. 279 (1884); _Feist Publications, Inc. v. Rural Telephone
     Service Co., Inc._, 499 U.S. 340, 113 L. Ed. 2d 358, 111 S. Ct. 1282
     (1991).
+
 [^Aal22]: _Burrow-Giles_, 111 U.S. at 61 (quoting _Nottage v. Jackson_, 11
     Q.B.D. 627 (1883)).
+
 [^Aal23]: _Id._ at 61.
 
 The Second and Seventh Circuits have likewise concluded that contribution of
@@ -510,7 +523,9 @@ parties bill themselves, and other evidence.[^Aal26]
 [^Aal24]: _Thomson v. Larson_, 147 F.3d 195, (2nd Cir. 1998); _Erickson v.
     Trinity Theatre, Inc._, 13 F.3d 1061 (7th Cir. 1994); _Childress v.
     Taylor_, 945 F.2d 500 (2d Cir. 1991).
+
 [^Aal25]: _Thomson_, 147 F.3d at 202-05.
+
 [^Aal26]: _Id._
 
 In _Thomson v. Larson_, an off-Broadway playwright had created a modern version
@@ -528,10 +543,15 @@ reasoning, the Second Circuit held that there was no intent to be joint authors
 by the putative parties and therefore it was not a joint work.[^Aal32]
 
 [^Aal27]: _Id._ at 197.
+
 [^Aal28]: _Id._
+
 [^Aal29]: _Id._ at 198.
+
 [^Aal30]: _Id._
+
 [^Aal31]: _Id._ at 202-04.
+
 [^Aal32]: _Id._ at 202-24.
 
 Considering Burrow-Giles, the recent cases on joint works[^Aal33] (especially
@@ -555,14 +575,21 @@ most important factor.
 [^Aal33]: _See Thomson v. Larson_, 147 F.3d 195, (2nd Cir. 1998); _Erickson v.
     Trinity Theatre, Inc._, 13 F.3d 1061 (7th Cir. 1994); _Childress v.
     Taylor_, 945 F.2d 500 (2nd Cir. 1991).
+
 [^Aal34]: _Thomson v. Larson_, 147 F.3d 195 (2nd Cir. 1998).
+
 [^Aal35]: _Burrow-Giles v. Sarony_, 111 U.S. at 61 (quoting _Nottage v.
     Jackson_, 11 Q. B. div. 627 (1883)).
+
 [^Aal36]: _Thomson_, 147 F.3d at 202.
+
 [^Aal37]: _Burrow-Giles v. Sarony_, 111 U.S. at 61 (quoting _Nottage v.
     Jackson_, 11 Q. B. Div. 627 (1883)).
+
 [^Aal38]: _Id._
+
 [^Aal39]: _Cf. Thomson v. Larson_, 147 F.3d 195, 202 (2nd Cir. 1998).
+
 [^Aal40]: _Edward B. Marks Music Corp. v. Jerry Vogel Music Co., Inc._, 140 F.2d
     266, 267 (2nd Cir. 1944) (Hand, J.) modified by, 140 F.2d 268 (1944).
 
@@ -587,6 +614,7 @@ evidence of the absence of co-authorship.
 
 [^Aal41]: _See Burrow-Giles v. Sarony_, 111 U.S. 53, 61, 28 L. Ed. 349, 4 S. Ct.
     279 (1883).
+
 [^Aal42]: _Id._
 
 Also, neither Aalmuhammed, nor Spike Lee, nor Warner Brothers, made any
@@ -629,6 +657,7 @@ talked with people about what they were doing, if creative copyrightable
 contribution were all that authorship required.
 
 [^Aal44]: _Thomson_, 147 F.3d at 200 (internal quotations omitted).
+
 [^Aal45]: _Id._ at 202 (citing _Childress v. Taylor_, 945 F.2d 500, 504 (1991)).
 
 Aalmuhammed also argues that issuance of a copyright registration certificate to
@@ -2469,6 +2498,7 @@ written authorization.
     alienation, or hypothecation of a copyright or of any of the exclusive
     rights comprised in a copyright . . . but not including a nonexclusive
     license." 17 U.S.C. § 101.
+
 [^Eff3]: Cohen concedes that he licensed Effects to prepare the footage as a
     derivative work incorporating other shots from "The Stuff," and that
     Effects has a valid copyright in this footage. Appellees' Brief at 25
@@ -2629,6 +2659,7 @@ World Entertainment to distribute the film.[^Eff7]
     in the copyrighted work," 17 U.S.C. § 202 (1988) (emphasis added), it
     is one factor that may be relied upon in determining that an implied
     license has been granted.
+
 [^Eff7]: Plaintiff argues that an implied license is an equitable remedy, akin
     to estoppel, for which Cohen does not qualify because he hasn't paid in
     full the agreed-to price for the footage. We reject this argument.
@@ -2965,6 +2996,7 @@ work." H. R. Rep. 122.
     Enterprises_, 471 U.S. 539, 558, 85 L. Ed. 2d 588, 105 S. Ct. 2218
     (1985) (quoting _Mazer v. Stein_, 347 U.S. 201, 219, 98 L. Ed. 630,
     74 S. Ct. 460, 1954 Dec. Comm'r Pat. 308 (1954)).
+
 [^Tasini4]: As amended, § 106 now provides: "Subject to sections 107 through
     121, the owner of copyright under this title has the exclusive
     rights to do and to authorize any of the following: "(1) to
@@ -2981,6 +3013,7 @@ work." H. R. Rep. 122.
     to display the copyrighted work publicly; and "(6) in the case of
     sound recordings, to perform the copyrighted work publicly by means
     of a digital audio transmission."
+
 [^Tasini5]: It bears repetition here, see _supra_, at 7, that we neither decide
     nor express any view on whether the § 201(c) "privilege" may be
     transferred.
@@ -3069,6 +3102,7 @@ of the Articles, § 106.[^Tasini8]
     written instrument signed by [both parties]" indicating that the
     Articles shall be considered "works made for hire." § 101 (1994 ed.,
     Supp. V) (defining "work made for hire").
+
 [^Tasini8]: Satisfied that the Publishers exercised rights § 106 initially
     assigns exclusively to the Author, we need resolve no more on that
     score. Thus, we do not reach an issue the Register of Copyrights has
@@ -3486,15 +3520,18 @@ stipulation the parties filed with the Court. (Doc. 51).
 [^Cor2]: The "Out of Touch" album contains the following four songs, all of
     which are in dispute: "Dance Transylvania," "I Consume You," "This
     Place," "Your Pretty Eyes." (Doc. 51).
+
 [^Cor3]: The "Call Me When You Get This" album contains the following seven
     songs, all of which are in dispute: "Baby Got Her Gun Out," "Shake It,"
     "Do You Think?," "My Pretty Eyes," "Standing On Edge," "I Consume You -
     alt. version." (Doc. 51).
+
 [^Cor4]: The "Sleepless Nights" album contains the following nine songs, all of
     which are in dispute: "Sleepless Nights," "Standing On Edge - alt.
     version," "Say It Like You Mean It," "Drink The Night Away,"
     "Gorgeous," "I'm Just Like The Other Guys," "Not Invited," "Face Down,"
     "I Will Forget You." (Doc. 51).
+
 [^Cor5]: The "Lost Songs" album contains the following eleven songs, all of
     which are [**4] in dispute: "Belmont," "Ecstacy," "Every Fucking
     Movie," "Hang On," "Hideout," "I'm In Love With You," "One Eighty,"
