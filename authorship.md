@@ -1,4 +1,8 @@
 # Authorship in Open Source
+{:.no_toc}
+
+* Table of Contents
+{:toc}
 
 ## Introduction
 
@@ -9,7 +13,7 @@ year. But what are the legal consequences of collaborative authorship? Who
 decides how the project is licensed? Who has standing to sue over infringement
 of the project?
 
-In order to discuss the legal ramifications of collaborative authorhsip, it is
+In order to discuss the legal ramifications of collaborative authorship, it is
 critical to distinguish the different types of copyrightable works from the
 different types of copyright property interests. These two subjects each play a
 very important role in the assignment of rights to a copyright-protected work.
@@ -71,11 +75,10 @@ works and independently-authored works, the distinction between collective works
 and monolithic works, and the role that writings can play in resolving
 authorship ambiguity.
 
-The first section of this chapter will address: the criteria for establishing
+The first section of this chapter will address the criteria for establishing
 that a work is a joint work, the property interest consequences of a joint work,
 and the role that joint authorship plays in open source development. While forms
-of joint authorship appear in many nation’s copyright laws, the concept is
-approached differently from country to country.[^NimmerInternational] This
+of joint authorship appear in many nation’s copyright laws, the concept varies from country to country.[^NimmerInternational] This
 chapter presently focuses on the joint authorship mechanism under United States
 law.
 
@@ -98,9 +101,9 @@ helpful foundations for discussing copyright property interests and work types.
 **“Collective Work”** - “A ‘collective work’ is a work, such as a periodical
 issue, anthology, or encyclopedia, in which a number of contributions,
 constituting separate and independent works in themselves, are assembled into a
-collective whole.”[^§101]
+collective whole.”[^s101]
 
-[^§101]: 17 U.S.C. § 101.
+[^s101]: 17 U.S.C. § 101.
 
 **“Compilation”** - “A ‘compilation’ is a work formed by the collection and
 assembling of preexisting materials or of data that are selected, coordinated,
@@ -234,7 +237,7 @@ This seminal Ninth Circuit case on the subject of joint authorship concerned a
 joint authorship claim by one of the production assistants for the movie
 _Malcolm X_ who played a significant role in informing the movie’s depiction of
 Malcolm X’s conversion to Islam. The _Aalmuhammed_ court established a
-three-criterion test for determining whether joint authorship exists in the
+three-factor test for determining whether joint authorship exists in the
 absence of a contract, and it continues to be employed in some circuits today.
 
 #### Opinion
@@ -479,11 +482,11 @@ movie.
 [^Aal18]: _Feist Publications, Inc. v. Rural Telephone Service Co., Inc._, 499
     U.S. 340, 345, 113 L. Ed. 2d 358, 111 S. Ct. 1282 (1991).
 
-Burrow-Giles, in defining "author," requires more than a minimal creative or
+_Burrow-Giles_, in defining "author," requires more than a minimal creative or
 original contribution to the work.[^Aal19] Burrow-Giles is still good law, and
-was recently reaffirmed in Feist Publications.[^Aal20] Burrow-Giles and Feist
-Publications answer two distinct questions; who is an author, and what is a
-copyrightable work.[^Aal21] Burrow-Gilesdefines author as the person to whom the
+was recently reaffirmed in _Feist Publications_.[^Aal20] _Burrow-Giles_ and _Feist
+Publications_ answer two distinct questions; who is an author, and what is a
+copyrightable work.[^Aal21] _Burrow-Giles_ defines author as the person to whom the
 work owes its origin and who superintended the whole work, the "master
 mind."[^Aal22] In a movie this definition, in the absence of a contract to the
 contrary, would generally limit authorship to someone at the top of the screen
@@ -554,7 +557,7 @@ by the putative parties and therefore it was not a joint work.[^Aal32]
 
 [^Aal32]: _Id._ at 202-24.
 
-Considering Burrow-Giles, the recent cases on joint works[^Aal33] (especially
+Considering _Burrow-Giles_, the recent cases on joint works[^Aal33] (especially
 the thoughtful opinion in _Thomson v. Larson_ [^Aal34]), and the Gilbert and
 Sullivan example, several factors suggest themselves as among the criteria for
 joint authorship, in the absence of contract. First, an author
@@ -703,8 +706,8 @@ declaratory judgment and an accounting resting on co-authorship.
     having contributed to that work.”)(Judge Pierce’s concurrence, citing 1 M.
     Nimmer, _Nimmer on Copyright_ § 6.07 (1988)).
 
-4.  Professor Nimmer firmly disagrees with the Ninth Circuit’s joint authorship
-    test formulated in Aalmuhammed:
+4.  Professor Melville Nimmer firmly disagrees with the Ninth Circuit’s joint authorship
+    test formulated in _Aalmuhammed_:
 
 > > “The Aalmuhammed court’s emphasis on 'control' as the most important factor
 > > in the joint authorship analysis is inconsistent with the plain meaning,
@@ -720,15 +723,15 @@ declaratory judgment and an accounting resting on co-authorship.
 > > intent.”[^Nimmer]
 
 > Does the Ninth Circuit misconstrue the legislative intent behind joint works
-> in Aalmhuammed? Are we likely to see refinement of the Ninth Circuit’s
-> three-crtierion test?
+> in _Aalmuhammed_? Are we likely to see refinement of the Ninth Circuit’s
+> three-factor test?
 
 [^Nimmer]: 1 _Nimmer on Copyright_ § 6.07 (2018)
 
-### _Weissmann v. Freeman_ 868 F.2d 1313 (2nd Cir. 1989)
+### _Weissmann v. Freeman_, 868 F.2d 1313 (2d Cir. 1989)
 
 Our next case concerns a dispute that arose when one of two joint authors of
-scholarly works indepedently published a paper derived from the jointly-authored
+scholarly works independently published a paper derived from the jointly-authored
 works. It highlights an important issue for open source developers to consider,
 namely: the creation of works that are derived from joint works, and the
 relationship between joint authors and those derivative works.
@@ -839,7 +842,7 @@ prerequisite to a claim for attorney's fees.
 PROCEEDINGS BELOW
 
 After a four-day bench trial, Judge Pollack in a written decision concluded that
-Dr. Freeman's use of P-1 did not violate the copyright law.684 F. Supp. 1248
+Dr. Freeman's use of P-1 did not violate the copyright law. 684 F. Supp. 1248
 (S.D.N.Y. 1988). In support of its determination that Freeman had not infringed
 any legally cognizable rights that appellant may have had in P-1, the district
 court found that appellee was a joint author, and therefore a co-owner of any
@@ -1333,7 +1336,7 @@ remand, with judgment to be entered for appellant.
 [^Chestek2]: _See_ Pamela S. Chestek, _A Theory of Joint Authorship For Free and
     Open Source Software Projects_, (2017).
 
-### _Gaylord v. United States_, 595 F.3d 1364 (Fed Cir. 2010)
+### _Gaylord v. United States_, 595 F.3d 1364 (Fed. Cir. 2010)
 
 Our final case on the topic of joint authors concerns the authorship of a
 sculptural work called “The Column” crafted by the sculptor Frank Gaylord. When
@@ -1378,9 +1381,9 @@ proposal to create 38 larger-than-life granite soldiers in formation. According
 to the Penn State Team, "[f]rom a distance, one [would see] the Memorial as an
 elusive, dream-like presence of ghostly figures moving across a remote
 landscape." Although its original concept undoubtedly influenced the design of
-the Memorial, the Penn State Team eventually withdrew from the project.[^Gay1]
+the Memorial, the Penn State Team eventually withdrew from the project.[^Gaylord1]
 
-[^Gay1]: The members of the Penn State Team are not parties to this litigation,
+[^Gaylord1]: The members of the Penn State Team are not parties to this litigation,
     and no one has suggested that they have copyrights in the Memorial.
 
 The Army Corps of Engineers selected Cooper-Lecky Architects, P.C.
@@ -1436,9 +1439,9 @@ permission from the copyright owner of the underlying work, eventually locating
 Mr. Lecky of Cooper-Lecky, who held himself out as the "outright" owner of the
 copyright. Mr. Alli agreed to pay a 10% royalty on sales of prints of his
 photographs to a licensing entity established by Mr. Lecky. Mr. Lecky did not
-notify Mr. Gaylord about the agreement with Mr. Alli.[^Gay2]
+notify Mr. Gaylord about the agreement with Mr. Alli.[^Gaylord2]
 
-[^Gay2]: In 2006, Mr. Gaylord sued Mr. Alli for copyright infringement. Mr. Alli
+[^Gaylord2]: In 2006, Mr. Gaylord sued Mr. Alli for copyright infringement. Mr. Alli
     settled the dispute and agreed to pay Mr. Gaylord 10% of his net sales.
 
 In 2002, the Postal Service decided to issue a 37-cent stamp commemorating the
@@ -1546,7 +1549,7 @@ expression entitled to copyright protection.'" S.O.S., 886 F.2d at 1087 (quoting
 _CCNV_, 490 U.S. at 737); _see also PODS_, 484 F.3d at 1370 ("Mere participation
 in, contributions to, and review of the work of [another person] would not
 necessarily create a joint work."). As a general rule, each joint author must
-make an independently copyrightable contribution to the work.[^Gay4] _See
+make an independently copyrightable contribution to the work.[^Gaylord4] _See
 Aalmuhammed v. Lee_, 202 F.3d 1227, 1234 (9th Cir. 1999); _Thomson v. Larson_,
 147 F.3d 195, 200 (2d Cir. 1998); _Erickson v. Trinity Theatre, Inc._, 13 F.3d
 1061, 1071 (7th Cir. 1994); _M.G.B. Homes, Inc. v. Ameron Homes, Inc._, 903 F.2d
@@ -1555,7 +1558,7 @@ of establishing that each of the putative co-authors (1) made independently
 copyrightable contributions to the work; and (2) fully intended to be
 co-authors." _Thomson_, 147 F.3d at 200.
 
-[^Gay4]: The Seventh Circuit carved out an "exception" to this rule in a case
+[^Gaylord4]: The Seventh Circuit carved out an "exception" to this rule in a case
     where neither collaborator made independently copyrightable
     contributions, but the result of the collaboration produced a
     copyrightable work. _Gaiman v. McFarlane_, 360 F.3d 644, 658 (7th Cir.
@@ -1568,8 +1571,8 @@ co-authors." _Thomson_, 147 F.3d at 200.
 
 The government argues that the contributions of the various government entities
 merged with Mr. Gaylord's contributions to create a joint work, analogizing to
-CCNV, 846 F.2d at 1485. In CCNV, the Community for Creative Non-Violence (CCNV)
-decided to sponsor a display to "dramatize the plight of the homeless." CCNV,
+_CCNV_, 846 F.2d at 1485. In _CCNV_, the Community for Creative Non-Violence (CCNV)
+decided to sponsor a display to "dramatize the plight of the homeless." _CCNV_,
 846 F.2d at 1487. Members of the CCNV conceived of a detailed plan for the
 display, involving a modern Nativity scene depicting two homeless adults and one
 infant huddling for warmth over a steam grate placed atop a pedestal from which
@@ -1597,7 +1600,7 @@ The Supreme Court granted certiorari and determined that the display was not a
 work made for hire, but noted that "CCNV nevertheless may be a joint author of
 the sculpture if, on remand, the District Court determines that CCNV and Reid
 prepared the work 'with the intention that their contributions be merged into
-inseparable or interdependent parts of a unitary whole.'" Cmty. for _Creative
+inseparable or interdependent parts of a unitary whole.'" _Cmty. for Creative
 Non-Violence v. Reid_, 490 U.S. 730, 753, 109 S. Ct. 2166, 104 L. Ed. 2d 811
 (1989). The case settled without a decision on the merits of the joint
 authorship issue. _See Cmty. for Creative Non-Violence v. Reid_, Civ. No.
@@ -1649,8 +1652,7 @@ provided some direction and ideas, this effort did not rise to the level
 necessary for a joint work.
 
 If one commissioned a work for a cowboy riding a horse, that contribution would
-not constitute copyrightable expression. _See_ 17 U.S. C. § 102(b) there is no
-evidence that Mr. Gaylord created(no copyright protection for ideas). If one
+not constitute copyrightable expression. _See_ 17 U.S. C. § 102(b) (no copyright protection for ideas). If one
 later instructed the artist to depict the cowboy as weathered, wearing a cowboy
 hat, and riding slowly in calm wind, that would not rise to the level of
 copyrightable expression. _See S.O.S._, 886 F.2d at 1087 ("A person who merely
@@ -1710,12 +1712,7 @@ see no clear error in the Court of Federal Claims' determination that the
 parties never intended The Column to be a joint work.
 
 The dissent argues that the government escapes liability for copyright
-infringement either by virtue of a contract with Cooper-Lecky or 28 U.S.C. §
-1498. These issues were raised sua sponte by the dissent--we received no
-argument or briefing on either issue. The government cannot escape liability
-under its DACA31-90-C-0057 contract because Mr. Gaylord is not a party to that
-contract. Moreover, neither section of DACA31-90-C-0057 cited by the dissent
-concerns works by Mr. Gaylord. Section I-28 concerns works to which Cooper-Lecky
+infringement either by virtue of a contract with Cooper-Lecky or 28 U.S.C. § 1498. These issues were raised sua sponte by the dissent--we received no argument or briefing on either issue. The government cannot escape liability under its DACA31-90-C-0057 contract because Mr. Gaylord is not a party to that contract. Moreover, neither section of DACA31-90-C-0057 cited by the dissent concerns works by Mr. Gaylord. Section I-28 concerns works to which Cooper-Lecky
 could assert or establish authorship. Section I-29 concerns works made for hire,
 and the government has not provided any evidence establishing that The Column
 was a work made for hire. _See_ 17 U.S.C. §§ 101, 201. Nor can the government
@@ -1732,15 +1729,15 @@ that authorship of The Column rested solely with Mr. Gaylord.
 
 ##### Discussion
 
-1.  What do the United States Government in Gaylord and Aalmuhammed in
-    Aalmuhammed have in common? What distinguishes their cases from one another?
+1.  What do the United States Government in _Gaylord_ and Aalmuhammed in
+    _Aalmuhammed_ have in common? What distinguishes their cases from one another?
     Which comes closer to demonstrating joint authorship?
 
 2.  What consequences could the legal operation of joint authorship have on the
     maintenance of an open source project? What is the worst thing that could
-    happen as a result of failing to be acknowledged as a joint author of a
-    project that you largely authored? What is the worst thing that could happen
-    as a result of acknowledging a person who creates a one character bug fix as
+    happen to a contributor as a result of failing to be acknowledged as a joint author of a
+    project that the contributor largely authored? What is the worst thing that could happen to a project
+    as a result of the project acknowledging a person who creates a one character bug fix as
     a joint author of the project?
 
 3.  If an open source project that originated with a sole entity is determined
@@ -1789,7 +1786,7 @@ action neatly fits the statutory definition of a collective work. But does any
 contribution to an open source project create a collective work? What are the
 rights held by the author of a component of a collective work?
 
-### _TCA TV Corp. v. McCollum_, 839 F.3d 168 (2nd Cir. 2016)
+### _TCA Television Corp. v. McCollum_, 839 F.3d 168 (2d Cir. 2016)
 
 Our first case will examine the barriers that exist to alleging copyright
 infringement of a work that is merely an incorporated component of a larger
@@ -2406,7 +2403,7 @@ copyright.
     performance in a movie? Is it easier, or more appropriate, to treat a patch
     as an independent work of authorship?
 
-### _Effects Assocs. v. Cohen_, 908 F.2d 555, 558-59 (9th Cir. 1990)
+### _Effects Assocs. v. Cohen_, 908 F.2d 555 (9th Cir. 1990)
 
 This next case we will examine is another dispute related to movie production.
 Footage was prepared for inclusion in a horror movie by an independent
@@ -2711,7 +2708,7 @@ heart.
     the scene had been licensed for inclusion in the movie from being a triable
     question of fact?
 
-### N.Y. Times Co. v. Tasini, 533 U.S. 483 (2001)
+### _N.Y. Times Co. v. Tasini_, 533 U.S. 483 (2001)
 
 Our next case concerns a dispute over permission to exploit components of a
 collective work. The case concerned freelance contributors to the New York Times
