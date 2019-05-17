@@ -2,15 +2,10 @@
 
 ## Introduction
 
-There are common misconceptions about the relationship between open source
-licenses and trademark rights. For instance, one might believe that releasing a
-project under an open source license prevents anyone else from using the name of
-the project under any circumstances.[^NominativeDiscussion] Alternatively, one
-might assume that trademarks can only be enforced if they are formally
-registered,[^CommonLawDiscussion] or that trademarks are hard property rights
-which can be freely licensed the way that copyrights and patents are licensed.
-However, the cases that follow will demonstrate how trademark licensing is
-fundamentally different from patent and copyright licensing.
+Many people have misconceptions about how to license and enforce trademarks -- even, embarassingly enough, some intellectual property attorneys. This chapter will use U.S. case law to illuminate the relationship between open source licenses and trademark rights. This shared basis of understanding should help dispel common trademark licensing and enforcement myths that circulate in discussion boards for open source developers without citation to primary sources. For example, some people believe that releasing a
+project under an open source license gives the licensor the right to prevent anyone else from using the name of
+the project under any circumstances.[^NominativeDiscussion] Others assume that trademarks can only be enforced if they are formally
+registered,[^CommonLawDiscussion] or that trademark rights can be licensed in exactly the same way that copyrights and patents are licensed.
 
 [^NominativeDiscussion]: _See_ discussion _infra_ Fair Use Defense to Trademark
     Infringement.
@@ -18,14 +13,13 @@ fundamentally different from patent and copyright licensing.
 [^CommonLawDiscussion]: _See_ discussion _infra_ Common Law Trademarks in Open
     Source.
 
-Unlike copyright and patent laws, which were designed to incentivize creative
+Trademarks serve a different purpose from copyrights and patents and can be licensed differently. Unlike copyright and patent laws, which were designed to incentivize creative
 works and useful inventions, trademark law's purpose is to protect consumers by
-providing information about the source of a product or service.[^LanhamAct] An
+guaranteeing the source of a product or service.[^LanhamAct] An
 open source author may choose to openly license her project's copyrights and
 patents while still enforcing her trademarks. Trademark enforcement is not
 inconsistent with open source principles: it restricts how a brand identifier
-can be used, rather than restricting what you can do with
-software.[^OpenSourcePrinciples] Even Richard Stallman, the founder and
+can be used, rather than restricting what you can do with the open source code.[^OpenSourcePrinciples] Even Richard Stallman, the founder and
 president of the Free Software Foundation, recognizes that trademark enforcement
 is reasonable as long as software freedom is not restricted.[^RichardStallman]
 
@@ -85,15 +79,9 @@ is reasonable as long as software freedom is not restricted.[^RichardStallman]
     Brand_, The Trademark Reporter, July-Aug, 2012, Vol. 102 No.
     4 1028, 1036.
 
-Trademark is not a right in gross; it is a quasi-property right fundamentally
-concerned with consumer protection. While no one can entirely own a word without
-unduly burdening free expression, source identifiers are protected by
-law.[^FreeExpression] How courts have applied the logic and tension of trademark
+How courts have applied the logic and tension of trademark
 law in these cases illustrates the nature of trademarks and their rich interplay
-with software and technology. The reasoning from these cases is brought into
-discussion questions might challenge your understanding of some of the most
-popular open source licenses, which are excerpted at the end of this chapter.
-Finally, these concepts are contextualized with several organizations' trademark
+with software and technology. The reasoning from these cases is contextualized with discussion questions and an examination of how popular open source licenses have struggled to address trademark rights, as well as several organizations' trademark
 policies.
 
 [^FreeExpression]: _See, Playboy Enters. v. Welles_, 279 F.3d 796, 804 (9th Cir.
