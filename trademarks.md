@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Many people have misconceptions about how to license and enforce trademarks -- even, embarassingly enough, some intellectual property attorneys. This chapter will use U.S. case law to illuminate the relationship between open source licenses and trademark rights. This shared basis of understanding should help dispel common trademark licensing and enforcement myths that circulate in discussion boards for open source developers without citation to primary sources. For example, some people believe that releasing a
+Many people have misconceptions about how to license and enforce trademarks -- even some intellectual property attorneys. This chapter will use U.S. case law to illuminate the relationship between open source licenses and trademark rights. This shared basis of understanding should help dispel common trademark licensing and enforcement myths that circulate in discussion boards for open source developers without citation to primary sources. For example, some people believe that releasing a
 project under an open source license gives the licensor the right to prevent anyone else from using the name of
 the project under any circumstances.[^NominativeDiscussion] Others assume that trademarks can only be enforced if they are formally
 registered,[^CommonLawDiscussion] or that trademark rights can be licensed in exactly the same way that copyrights and patents are licensed.
@@ -15,7 +15,7 @@ registered,[^CommonLawDiscussion] or that trademark rights can be licensed in ex
 
 Trademarks serve a different purpose from copyrights and patents and can be licensed differently. Unlike copyright and patent laws, which were designed to incentivize creative
 works and useful inventions, trademark law's purpose is to protect consumers by
-guaranteeing the source of a product or service.[^LanhamAct] An
+guaranteeing the source of a product or service.[^LanhamAct] Copyrights and patent rights are property rights, whereas trademarks are fundamentally concerned with consumer protection. As such, an
 open source author may choose to openly license her project's copyrights and
 patents while still enforcing her trademarks. Trademark enforcement is not
 inconsistent with open source principles: it restricts how a brand identifier
