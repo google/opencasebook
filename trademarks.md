@@ -1,4 +1,8 @@
 # Trademarks in Open Source
+{:.no_toc}
+
+* Table of Contents
+{:toc}
 
 ## Introduction
 
@@ -105,9 +109,9 @@ undermining that provision over email by freely allowing anyone to use the
 trademark. This type of activity might be seen as an implied license -- or
 worse -- naked licensing.
 
-As we will see in _Freecycle_'s discussion of naked licensing, doing nothing to
+As we will see in the following case's discussion of naked licensing, doing nothing to
 control the quality associated with a licensed trademark risks losing the
-enforceability of a trademark altogether. _Freecycle_ summarizes the heart of
+enforceability of a trademark altogether. _FreecycleSunnyvale v. Freecycle Network_ summarizes the heart of
 the issue:[^QualitySymbol]
 
 > [T]rademark owners have a duty to control the quality of their trademarks. It
@@ -127,30 +131,19 @@ Just as with waiving copyright to a work or publishing an invention before
 patenting it, overly permissive trademark licensing without quality control
 risks diminishing the enforceability of the trademark.
 
-As you read this case, consider the open source applications of _Freecycle_'s
-analysis the types of control a licensor may have over licensed trademarks. For
-example, what would happen if a project author released an open source project
-under a license which explicitly disavows trademark rights, but then freely
-agrees to let others' use those trademarks via email communications? How could
-the licensor maintain contractual or actual control?
+As you read _Freecycle_, consider the open source applications of the court's
+analysis of the types of control a licensor may have over licensed trademarks. For
+example, what would happen if a project wishes to explicitly permit the use of the project's trademarks in some circumstances? How could the licensor maintain contractual or actual control?
 
-From a practical standpoint, when crafting a trademark enforcement strategy
-consider what the value of a trademark could be to your open source project. How
-much of a priority is the trademark, or the related value of the brand? Do the
-project maintainers value the unique identity of their project? Does protection
-against similarly-named projects contribute to adoption? Would the author want
-to retain exclusive rights to sell merchandise related to the project? The value
+When crafting a trademark enforcement strategy consider what the value of a trademark could be to your open source project. Does the unique brand of the project attract contributions or bolster widespread adoption? How much of a priority is the unique identity of the project to the core contributors? Would the project want to retain exclusive rights to certify compliant sub-projects or sell project-related merchandise? The value
 of a trademark can vary from project to project.
 
-Although _Freecycle_ does not concern software, Freecycle Network's structure of
+Although the _Freecycle_ case does not concern software, The Freecycle Network's structure of
 loose franchising arrangements was central to the holding and could be analogous
-to many open source collaborations. Freecycle leveraged online communities to
+to many open source collaborations. The Freecycle Network leveraged online communities to
 unite passionate contributors around a shared goal, progressing with a
-democratized structure and little apparent interest in trademark protection. In
-spite of Freecycle's arguments to the contrary, due to the organization's lack
-of contractual or actual control of the quality associated with the use of its
-trademarks, the Court held that Freecycle Network had engaged in naked licensing
-and abandoned its trademarks.
+democratized structure and little apparent interest in trademark protection. Due to the organization's lack
+of contractual or actual control over the quality associated with the use of the term "Freecycle," the Court held that The Freecycle Network had engaged in naked licensing and abandoned its trademarks.
 
 #### FreecycleSunnyvale v. Freecycle Network
 
@@ -579,23 +572,21 @@ against TFN is AFFIRMED.
 
 ##### Discussion {#discussion}
 
-1.  What harm could come to the authors or maintainers of an open source project
-    if a court found that they abandoned their trademarks due to evidence of
-    naked licensing? Would the benefits of attempting to freely license all
-    trademarks to the open source community at large outweigh the individual
+1.  What would be the possible detriments to an open source project or community if a court found that the project's trademarks had been abandoned due to evidence of naked licensing? Would the benefits of attempting to freely license all
+    trademarks to the open source community at large outweigh the project's
     loss of enforcement rights?
 
 1.  _Freecycle_ found that the absence of an agreement with provisions
     "restricting or monitoring the quality of goods or services produced under a
     trademark supports a finding of naked licensing"[^15] and cited _Stanfield
-    v. Osborne Indus., Inc._, 52 F.3d 867, 871 (10th Cir. 1995), which granted
+    v. Osborne Indus., Inc._, 52 F.3d 867, 871 (10th Cir. 1995). In _Stanfield_, the court granted
     summary judgment where a license agreement lacked the right to inspect or
     supervise a licensee's operations and gave the licensee sole discretion to
     design the trademark. What would a right to inspect or supervise quality
     look like in the context of software? Can a boilerplate provision be enough
     to resolve trademark enforcement concerns? Do any of the most popular open
     source licenses specifically protect the licensor's right to enforce
-    trademark rights against downstream users?
+    trademark rights against downstream users? What role could a project maintainer's discretion play when it comes to accepting pull requests?
 
 1.  Absent any express contractual right to inspect or supervise the quality of
     the goods or services associated with a trademark, what would "actual
@@ -612,13 +603,9 @@ against TFN is AFFIRMED.
     control,"[^17] the court cited numerous examples of the types of close
     working relationships that could help to support a finding of actual control
     over the quality associated with a mark. Would these types of close working
-    relationships would be likely to arise in open source collaborations? If a
+    relationships be likely to arise in open source collaborations? If a
     project author and a contributor had been working together closely for eight
-    years, would a court find that that relationship established adequate
-    quality control in the absence of any agreement? Would the main project
-    owner then be able to enforce the mark against the contributor if the
-    contributor forked the project after having a falling out with the project
-    owner?[^18]
+    years, could that support a finding that there qas adequate control? What if the close collaborator then fell out with the main project owner and forked the project. Would the project owner still be able to enforce the mark against the contributor?[^18]
 
 [^16]: _Stanfield_, 52 F.3d at 871.
 
@@ -644,7 +631,7 @@ against TFN is AFFIRMED.
 
 In the United States and countries with similar common law legal systems, a
 trademark does not have to be formally registered to be enforceable.[^19]
-However, in the United States a "common law" trademark must meet requirements
+However, in the United States a "common law" trademark must meet the requirements
 set out by the courts in order to be enforceable. Primarily, an unregistered
 mark must be: (1) used in commerce, and (2) used prior to the alleged trademark
 infringement.[^20]
@@ -658,19 +645,16 @@ infringement.[^20]
     through actual prior use in commerce.") (citation omitted).
 
 It may be counterintuitive that the "use in commerce" requirement does not
-necessarily require a profit motive. As the _Planetary Motion_ case clarifies,
-"use in commerce" does not mean that the trademark holder must be selling
-something for a profit.[^FirstPlanet] In fact, the Court clarified that the term
+necessarily mean a profitable or profit-seeking use. In fact, as the following case clarifies, the term
 "use in commerce" is used as a reference to Congress's authority to regulate
 trademarks under the U.S. Constitution's Commerce Clause rather than an intent
-to limit trademarks to profit-making activity. Rejecting Techsplosion's argument
+to limit trademarks to profit-making activity.[^Planet] Where a developer released open source software under the name Coolmail, the court rejected the argument
 that the lack of direct profit from releasing software under the GNU General
 Public License rendered the original Coolmail name unenforceable as a trademark,
-the Court held that distributing software for end-users over the Internet
+holding that distributing software for end-users over the Internet
 satisfies the "use in commerce" requirement.
 
-The second prong of unregistered trademark analysis, "prior use," is a case by
-case determination based on the relevant facts.[^21] _Planetary Motion_ restates
+The second prong of unregistered trademark analysis, "prior use," is a fact-based determination.[^21] _Planetary Motion_ restates
 the test for whether sufficient "prior use" of a mark has been proven to
 establish trademark ownership rights:[^PlanetaryOwnership]
 
@@ -680,14 +664,14 @@ establish trademark ownership rights:[^PlanetaryOwnership]
 > without evidence of actual sales.
 
 In _Planetary Motion_ the successful party bought the trademark rights from the
-earliest author of the email software called called "Coolmail." As you read the
-following case, consider: which of Byron Darrah's actions were taken into
-consideration by the court as evidence of trademark ownership rights? How is use
-in commerce defined? What is the reasoning behind permitting non-profit
+earliest author of the email software called "Coolmail." As you read the
+following case, consider: how is use
+in commerce defined? Which of Byron Darrah's actions were taken into
+consideration by the court as evidence of trademark ownership rights? What is the reasoning behind permitting non-profit
 organizations to enforce their trademarks? What benefits does the Court
-attribute to the original author releasing software under the GNU GPL?
+attribute to the original author releasing software under the GPL?
 
-[^FirstPlanet]: _Planetary Motion, Inc. v. Techsplosion, Inc._, 261 F.3d 1188
+[^Planet]: _Planetary Motion, Inc. v. Techsplosion, Inc._, 261 F.3d 1188
     (11th Cir. 2001)
 
 [^21]: _See New England Duplicating Co. v. Mendes_, 190 F.2d 415, 417-418 (1st
@@ -1447,20 +1431,19 @@ respect to the award of attorney fees, is VACATED.
     publish the code publicly under an open source license? To email the code
     privately? Does the court suggest that affirmative steps are required to
     avoiding ceding software to the public domain when publicly distributing
-    software for free?"
+    software for free?
 
 1.  What does it mean to purchase trademark rights in an unregistered trademark?
-    Planetary Motion began using cool mail after Techsplosion, and purchased
+    Planetary Motion began using Coolmail after Techsplosion, and purchased
     rights from Darrah only after the filing of its claims and Techsplosion's
     counterclaims. What effect does this have in the analysis?
 
 ### Fair Use Defense to Trademark Infringement: Nominative Use
 
-Nominative use is one of trademark law's most important balances between
-consumer protection and the interests of free expression. Nominative use permits
+In trademark law, nominative use is one of the most important balances between
+consumer protection and free expression. Nominative use permits
 the use of a trademark -- even in commercial contexts -- if it is the most
-accurate way to refer to a brand without misleading consumers as to the source
-of a good or service.
+accurate way to refer to a good or service without misleading consumers as to its source.
 
 The three-part test for nominative use was first laid out in _New Kids on the
 Block_:[^51]
@@ -1483,8 +1466,7 @@ listing the name of a library as a dependency of software you are distributing.
     [https://www.law.berkeley.edu/files/New_Kids_on_the_Block_v_News_America.pdf](https://www.law.berkeley.edu/files/New_Kids_on_the_Block_v_News_America.pdf)
     (citation omitted).
 
-As another gray area of possible nominative use, consider naming conventions for
-project forking.[^52] For example, when you fork an original project on GitHub,
+Project forking's naming conventions are another area of possible nominative use, although it remains a gray area. [^52] Consider how, when you fork an original project on GitHub,
 the result is that you have a different version of the source code from that
 project copied into your own account at a URL which probably reads
 "github.com/[yourusername]/[originalprojectname]." The original project name
@@ -1499,14 +1481,13 @@ changed project name?
     development on it, creating a distinct and separate piece of software.")
     (last visited Dec. 7, 2017) (CC-BY-SA 3.0).
 
-There is considerable concern and confusion on discussion boards about the issue
-of using trademark names in project forking. In one thread a non-attorney's
-top-voted answer recommends that a user register their project name "because
+Concern and confusion abounds on discussion boards about the issue
+of using trademarks in project forking. In one thread a non-attorney's
+top-voted answer recommends that a user register their project name as a trademark "because
 then people are required to get your permission before re-using the name."[^53]
-While there is no definitive case law on trademark use in project forking, the
-concept of nominative use can provide general guidance as to the use of
-trademark names without permission so long as it is done so in a referential
-manner that does not cause user confusion as to source.
+While there is no definitive case law on trademarks and project forking conventions, the
+concept of nominative use can provide more general guidance as to the permissionless use of
+trademarked names.
 
 [^53]: Top-voted answer by Bart van Ingen Schenau, posted June 13, 2013 at
     15:29,
@@ -1517,10 +1498,10 @@ Nominative use prevents trademark holders from depleting general language by
 monopolizing every use of a word.[^54] Nominative use has many parallels to the
 fair use doctrine in copyright law, and is sometimes referred to as nominative
 trademark fair use. Both trademark nominative use and copyright fair use permit
-context-specific use of trademarks and copyrights without the IP owner's
-permission in order to balance the interests of IP owners against the necessary
-and natural use of a term.[^55] The Ninth Circuit Court of Appeals provided an
-illustrative example in _New Kids_: "one might refer to the two-time world
+context-specific use of intellectual property without the IP owner's
+permission in order to balance the interests of IP owners against necessary
+and natural uses.[^55] The Ninth Circuit Court of Appeals provided an
+illustrative example in _New Kids_: "one might refer to the 'two-time world
 champions' or 'the professional basketball team from Chicago,' but it's far
 simpler (and more likely to be understood) to refer to the Chicago Bulls."[^56]
 
@@ -1534,7 +1515,7 @@ simpler (and more likely to be understood) to refer to the Chicago Bulls."[^56]
     to 'be depleted in much the same way as if generic words were
     protectable.'") (citation omitted).
 
-[^55]: _See_ Mike Masnick, _Hey Advertisers! Stop Believing the NFL's Lies About
+[^55]: _See, e.g.,_ Mike Masnick, _Hey Advertisers! Stop Believing the NFL's Lies About
     Trademark Law And Call The Super Bowl The Super Bowl_, techdirt (Feb. 3,
     2012, 9:21 AM),
     [https://www.techdirt.com/articles/20120202/04205917638/hey-advertisers-stop-believing-nfls-lies-about-trademark-law-call-super-bowl-super-bowl.shtml](https://www.techdirt.com/articles/20120202/04205917638/hey-advertisers-stop-believing-nfls-lies-about-trademark-law-call-super-bowl-super-bowl.shtml).
@@ -2012,35 +1993,26 @@ Welles, Inc.
 
 1.  Consider how the _New Kids on the Block_ factors apply to a hypothetical
     project name which uses a trademark. Is the use of the original project name
-    is a descriptive reference to the original project? Would the original
+    a descriptive reference to the original project? Would the original
     project would be readily identifiable without the use of the trademark? Does
     it use more of the trademarked word than is necessary? Would the use of the
-    trademarked word suggests sponsorship or endorsement by the original
+    trademarked word suggest sponsorship or endorsement by the original
     trademark holder?
 
-1.  Arguably the GitHub community at large would be so familiar with the
-    functionality and naming conventions of project forking that users would not
-    be misled into thinking that a forked project reusing the original project
-    name would not imply actual affiliation or endorsement on behalf of the
-    original project. Any GitHub user can fork an open source project without
-    advance permission or endorsement. There may not be clear legal precedent on
-    this yet, but it's worth considering what the reuse of a project name
-    indicates to other users, and the extent to which existing conventions may
-    or may not imply affiliation to other users or the public at large.
+1.  How relevant is the likelihood of confusion of consumers based on convention? For example, consider to what extent the reuse of a project name in a fork may indicate to others users that the fork is officially affiliated or endorsed by the original project. Arguably the GitHub community at large will be so familiar with the
+    functionality and naming conventions of project forking that reuse of an original project name in a project fork would not confuse users as to any affiliation or endorsement. Is the GitHub community the relevant group of consumers? Would that likelihood of confusion be determinative? Would the balance change if a project has a policy governing when project forks may use the original project name?
 
-1.  After reading _Playboy Enters. v. Welles_, does the reference to the
-    original project name in GitHub project forking seem more or less like
-    nominative use? What are the reasons why a project forker may want to refer
+1.  What are the reasons why a project forker may want to refer
     back to the original project? As assessed in _Welles_, are there adequate
     "descriptive substitutes" or would changing forking norms force users to
     "use absurd turns of phrases" in a way that would be "particularly damaging"
     and "have the unwanted effect of hindering the free flow of information on
-    the internet"?[^95]
+    the internet"?[^95] Would a project detriment its own third party contributions by strictly prohibiting the use of its name in project forks?
 
 1.  In addition to the nominative use exception to trademark infringement, there
     are also uses of trademarked words which are not considered "trademark use."
     For example, an entirely non-commercial use of trademarked words should not
-    be considered "trademark use." Similarly, the functionality doctrine limits
+    be considered "trademark use." Additionally, the functionality doctrine limits
     the enforceability of trademarks in order to curb abuse. _Autodesk, Inc. v.
     Dassault Systemes Solidworks Corp._ held that file extensions are functional
     and could not be trademarked, reasoning:[^CurbAbuse]
@@ -2053,8 +2025,8 @@ Welles, Inc.
     > the protections of patents, but with potentially limitless duration.
 
     Debate continues to rage over whether hashtags in social media are purely
-    functional objects or source identifiers.[^96] What other possible
-    functional trademark uses occur in open source projects?
+    functional objects or source identifiers.[^96] What are other possible
+    functional object uses in open source projects?
 
 [^CurbAbuse]: Autodesk, Inc. v. Dassault Systemes Solidworks Corp._, 685 F.
     Supp. 2d 1023, 1025 (N.D. Cal. 2009) (citation omitted).
@@ -2071,7 +2043,7 @@ Welles, Inc.
 
 ## License Terms' Bearing on Trademark Use
 
-This chapter will provide excerpts of popular open source licenses, ranging from
+This section will provide excerpts of popular open source licenses, ranging from
 a license that does not address trademark rights, to those that implicitly
 address them, to those that explicitly disclaim any grant of trademark rights.
 
@@ -2112,9 +2084,8 @@ Excerpt from the MIT License[^97]
 
 1.  A number of message board discussions are concerned about losing trademark
     rights in a logo if they release a project under an MIT license.[^98] Could
-    logos also be protected by copyright or other intellectual property
-    protections? Are logos addressed by the MIT license at all? If an entity
-    added its logo to an open source project it published as an image within the
+    logos also be protected by other intellectual property
+    rights? If an entity added its logo to an open source project it published as an image within the
     library, and applied the MIT license to the project, what legal
     ramifications would this have for the logo?
 
@@ -2159,12 +2130,12 @@ Excerpt from the 3-Clause BSD License[^99]
     Consider the application of the common law requirements stated by _Planetary
     Motion_: use in commerce and priority of ownership.
 
-1.  If Company released open source software Project, and Outside Engineer
+1.  If Company released open source software Project, and Independent Engineer
     builds on that software to facilitate illegal transactions online, would
-    this clause prevent Outside Engineer from using the Company name for his
+    clause 3 prevent Independent Engineer from using the Company name for his
     additions?
 
-1.  Section 1 of the BSD-3 license requires all redistributions to reproduce the
+1.  Clause 1 of the BSD 3-clause license requires all redistributions to reproduce the
     above copyright notice, which could include the original author's name. How
     does this requirement interact with Section 3's prohibition against using
     the copyright holder to endorse or promote products? Could republishing the
@@ -2173,11 +2144,10 @@ Excerpt from the 3-Clause BSD License[^99]
 
 1.  As a practical matter, what would be the most effective way for an open
     source project to establish acceptable use guidelines for trademarks,
-    assuming that the project wants to allow certain uses? Based on your own
-    experiences and your understanding of the cases in this chapter, how would
-    you balance the convenient accessibility of including guidelines in the
-    license itself against the individual flexibility of maintaining a separate
-    trademark policy document?
+    assuming that the project owners wish to permit certain uses? Based on your own
+    experiences and your understanding of the cases in this chapter, consider the convenient accessibility of including guidelines in the
+    license itself versus the flexibility of maintaining a separate
+    trademark policy document.
 
 ### PHP-3.0
 
@@ -2197,10 +2167,10 @@ Excerpt from the PHP License, version 3.0[^100]
 #### Discussion
 
 1.  Based on your understanding of nominative use from _Playboy_, is it possible
-    for PHP to prescribe acceptable use of their name in this manner? Would the
-    use of "PHP" without prior written permission be legally defensible in some
+    for PHP to dictate acceptable use of their name in this manner? Would the
+    use of "PHP" without prior written permission still be legally defensible in some
     contexts? Would a project named "PHPabulous" be permissible nominative use
-    or trademark infringement?
+    or trademark infringement? Does nominative use overcome more restrictive license terms?
 
 1.  If written permission was granted for one project to use PHP, would all
     subsequent contributors also require written permission for PHP to appear in
@@ -2211,7 +2181,7 @@ Excerpt from the PHP License, version 3.0[^100]
     conventions stated in this license.[^101]
 
 1.  How does the PHP license's naming convention interact with other licenses
-    and naming conventions? Could PHP licensed software be combined with GPL
+    and naming conventions? Could PHP-licensed software be combined with GPL
     licensed software and then redistributed? Could this combination be
     distributed as binary? Could it be combined into software with PHP in its
     title?
@@ -2239,7 +2209,7 @@ Excerpt from the Apache License, Version 2.0, January 2004[^102]
 1.  Is it necessary for the Apache license to explicitly permit uses of the
     names and marks "as required for reasonable and customary use in describing
     the origin of the Work" or does this necessarily overlap with the legal
-    defense of nominative use?
+    defense of nominative use? Is this intended as guidance for trademark jurisdictions that lack the nominative use defense? 
 
 1.  As a practical matter, is there additional information that licensees might
     want about the trademark permissions granted or not granted under the Apache
@@ -2297,7 +2267,7 @@ Excerpt from the GNU General Public License, Version 3[^104]
 
 1.  If a license provision is merely optional, as with the trademark section
     above, does that lead to license proliferation?[^105] Could the inclusion of
-    the optional trademark provision complicate AI license scanning?
+    the optional trademark provision complicate license scanning?
 
 1.  Apart from section "e," which explicitly mentions trademark, are there other
     provisions which could bear on trademark protections?
@@ -2335,27 +2305,21 @@ Excerpt from the GNU General Public License, Version 3[^104]
 
 ## Trademark Usage Guidelines and Enforcement Policies
 
-It is any commercial actor's interest to develop, register, and police its
-trademarks for many reasons. The careful selection of a brand name will
-forestall accusations that its brand infringes another's trademark, and will
-maximize the brand's opportunity to operate as a trademark. Consistent,
-regimented use of the brand in commerce will permit the brand to obtain
+There are many reasons for a commercial actor to develop, register, and police its
+trademarks. The careful selection of a brand name will
+forestall accusations that its brand infringes another trademark. Consistent,
+regimented use of the brand in commerce should permit the brand to obtain
 trademark status. Registration of the brand as a trademark will deter
 infringement, prevent the registration of similar trademarks, and facilitate
-enforcement efforts. Policing the manner in which others use the brand with
-permission will help prevent the reduction of enforceable trademark rights.
-Balanced enforcement of a brand to prevent the confusingly similar names or
-design elements while allowing for legitimate nominative fair uses will preserve
-the distinctiveness of the trademark and its ability to function as an exclusive
-source identifier.
+enforcement efforts. Policing the manner in which others use the trademark will help retain the strength of the mark. Balanced enforcement of a trademark can preserve the distinctiveness of an exclusive source identifier while allowing for legitimate fair uses.
 
 Organizations often maintain trademark policies that establish the
-organization's approach toward trademark enforcement efforts. The Wikimedia
-Foundation is one such organization, and has published its trademark enforcement
+organization's approach toward trademark enforcement. The Wikimedia
+Foundation is one such organization, and it has published its trademark enforcement
 policy publicly at
 [https://wikimediafoundation.org/wiki/Trademark_policy](https://wikimediafoundation.org/wiki/Trademark_policy).
 This policy provides valuable insight into the thinking of an organization
-engaged in the production of open source software and content.
+engaged in the collaborative production of open content.
 
 ### Wikimedia Foundation Trademark Policy
 
@@ -2517,25 +2481,20 @@ Excerpt:
 #### Discussion
 
 1.  Section 4 of the Trademark Enforcement Policy states that any uses not
-    expressly permitted in section 3 require a license. Is this enforceable?
-
-1.  Can any parallels be drawn between the Wikimedia Foundation's Trademark
-    Enforcement Policy and the open source licensing scheme at operation in
-    _Planetary Motion_? How are the schemes different? Which scheme does more to
-    enhance and/or protect the trademark rights at issue?
+    expressly permitted in Section 3 require a license. Is this enforceable? How well does Section 3 capture nominative fair uses?
 
 ### Linux Foundation Trademark Usage Guidelines
 
 --------------------------------------------------------------------------------
 
-The Linux Foundation does not publicly elaborate its trademark enforcement
-efforts, but does maintain Trademark Usage Guidelines.[^108] In a similar
-fashion to the approach taken by the Wikimedia Foundation, the Linux Foundation
+The Linux Foundation does not publicly elaborate on its trademark enforcement
+philosophy but does maintain Trademark Usage Guidelines.[^108] In a similar
+fashion to Wikimedia, the Linux Foundation
 includes in its Guidelines an overview of the rights and responsibilities one
-has when using someone else's trademarks generally. This portion of the
+has when using someone else's trademarks. This portion of the
 Guidelines includes admonishments of activities that could be detrimental to the
-trademarks being used, but also, like Wikimedia's policy, specifically addresses
-fair use, addressing the fact that the law authorizes certain uses of others'
+trademarks being used, but is also similar to Wikimedia in that it specifically addresses
+fair use, including the fact that the law authorizes certain uses of others'
 trademarks without permission.
 
 Excerpt:
@@ -2625,11 +2584,6 @@ Excerpt:
     trademarks with permission, would they be contractually bound to observe the
     rules the foundations have placed on how their trademarks may be used?
 
-1.  The Linux Foundation's Trademark Usage Guidelines include "a few specific
-    rules that [the Linux Foundation] ask[s] everyone to follow when using
-    trademarks owned by The Linux Foundation." What is the legal significance of
-    this precatory wording?
-
 1.  Would all of the actions proscribed by the Linux Foundation's Usage
     Guidelines constitute prima facie grounds for a trademark infringement suit?
 
@@ -2648,8 +2602,8 @@ Excerpt:
 The Pokemon Company has a trademark policy embedded in a concise Legal
 Information notice on its website.[^109] The policy goes further than
 advertising that the company will police its trademarks aggressively. It asserts
-a compulsory license scheme whereby a licensee's distribution of anything
-containing or derived from Pokemon Company trademarks triggers a royalty-free
+a compulsory license scheme whereby a commercial licensee's distribution of anything
+containing or derived from the Pokemon Company's trademarks triggers a royalty-free
 license of that content to The Pokemon Company.
 
 > Legal Information
@@ -2681,9 +2635,9 @@ license of that content to The Pokemon Company.
 
 #### Discussion
 
-1.  Are the terms of The Pokemon Company's Legal Information notice enforceable?
+1.  Are the terms of the Pokemon Company's Legal Information notice enforceable?
     What significance does the distinction between copyright and trademark play,
-    if any?
+    if any? 
 
 1.  Must a creator of Pokemon "Fan Art" be aware of this policy in order to be
     bound by it in any way?
