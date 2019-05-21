@@ -6,6 +6,8 @@
 
 ## Introduction
 
+[DEMO EDIT]
+
 Many people have misconceptions about how to license and enforce trademarks -- even some intellectual property attorneys. This chapter will use U.S. case law to illuminate the relationship between open source licenses and trademark rights. This shared basis of understanding should help dispel common trademark licensing and enforcement myths that circulate in discussion boards for open source developers without citation to primary sources. For example, some people believe that releasing a
 project under an open source license gives the licensor the right to prevent anyone else from using the name of
 the project under any circumstances.[^NominativeDiscussion] Others assume that trademarks can only be enforced if they are formally
