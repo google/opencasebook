@@ -201,6 +201,7 @@ a court in resolving uncertain terms.
 [^wtfpl]: _Do What the F*ck You Want to Public License (WTFPL)_,
     [http://www.wtfpl.net/](http://www.wtfpl.net/) (last visited Nov. 27,
     2018).
+
 [^agpl]: _Affero General Public License v3_, _available at_
     https://www.gnu.org/licenses/agpl-3.0.en.html (last visited Nov. 27,
     2018).
@@ -225,6 +226,7 @@ definition of "goods" specifically contemplates movable goods.[^movable]
     revised it in 1980. Although the Restatements do not have the force
     of law, they have been very influential in both the litigation and
     transactional aspects of United States contract law.").
+
 [^preempt]: _See_ _Uniform Commercial Code_, Wikipedia,
     [https://en.wikipedia.org/wiki/Uniform_Commercial_Code](https://en.wikipedia.org/wiki/Uniform_Commercial_Code)
     (last visited Nov. 23, 2018) (CC-BY-SA 3.0) ("The Uniform Commercial
@@ -247,6 +249,7 @@ definition of "goods" specifically contemplates movable goods.[^movable]
     jurisdictions is especially relevant in the context of the UCC,
     which seeks to 'make uniform the law among the various
     jurisdictions[.]'").
+
 [^movable]: U.C.C. § 2-105 (2002), _available at_
     https://www.law.cornell.edu/ucc/2/2-105 ("'Goods' means all things
     (including specially manufactured goods) which are movable at the
@@ -284,8 +287,10 @@ considered a "good" for the purposes of the application of the UCC.
     Richard Raysman & Peter Brown, _Applicability of the UCC to Software
     Transactions_; Technology Today, N.Y. L.J. ONLINE (Mar. 8, 2011)
     (acknowledging that Article 2 does not explicitly mention software).
+
 [^certainty]: _See_ Am. Law Inst., _Principles of the Law: Software Contracts_
     §1.12 (2010) (Relation to Outside Law).
+
 [^applyUCC]: _Id._ _citing_ _Sys. Design & Mgmt. Info., Inc. v. Kansas City Post
     Office Employees Credit Union_, 788 P.2d 878 (Kan. Ct. App. 1990)
     ("The test . . . [is] whether [the] predominant factor . . . [or]
@@ -305,6 +310,7 @@ considered a "good" for the purposes of the application of the UCC.
     goods subject to the Uniform Commercial Code (UCC) even though
     incidental services are provided along with the sale of
     software.").
+
 [^applyRestatement]: _Id._ _citing_ _Pearl Invs., LLC v. Std. I/O, Inc._, 257
     F.Supp.2d 326, 353 (D. Me. 2003) (custom software primarily
     a service); _Wharton Mgmt. Group v. Sigma Consultants,
@@ -316,6 +322,7 @@ considered a "good" for the purposes of the application of the UCC.
     App. 1998) (where contract for custom software is paid on
     basis of time, at stated rates, and materials, the services
     aspect of the contract is its predominant purpose.).
+
 [^unsuccessful]: The American Law Institute and the Uniform Law Commission have
     repeatedly tried to resolve the uncertainty regarding the
     applicable law for software contracts. In the 1990s, the ALI
@@ -358,7 +365,9 @@ but this is far from being consistent guidance.[^sale]
     at 44 (3d ed. 2004) ("Courts usually determine whether a
     transaction is one in goods, services, or land by looking for
     the 'predominant factor' of the contract.")).
+
 [^facts]: _Id._ at 106-107.
+
 [^sale]: _See, e.g._, _SAS Inst., Inc. v. World Programming Ltd._, No.
     5:10-25-FL, 2016 U.S. Dist LEXIS 79230, at *31-33, 2016 WL 3435196 at
     *10 (E.D.N.C. June 17, 2016) ("As this court has noted before, the
@@ -451,10 +460,12 @@ inadmissible.[^inadmissible]
 [^integrated]: _Id._ § 209(2) ("An integrated agreement is a writing or writings
     constituting a final expression of one or more terms of an
     agreement.").
+
 [^first]: _Id._ § 210(3) ("Whether an agreement is completely or partially
     integrated is to be determined by the court as a question preliminary
     to determination of a question of interpretation or to application of
     the parol evidence rule.").
+
 [^inadmissible]: _Id._ § 215.
 
 Exceptions to the parol evidence rule exist. One of these exceptions is that
@@ -473,6 +484,7 @@ supplement the understanding of the ambiguous term.[^supplement]
     Cir. 1984) (applying Missouri law); _United States v. Haas & Haynie
     Corp._, 477 F.2d 568, 572 (9th Cir. 1978) (applying general contract
     principles).
+
 [^supplement]: _See_ _Restatement (Second) of Contracts_ § 213(1) (1981); U.C.C.
     § 2-202 (2002).
 
@@ -521,6 +533,7 @@ bargaining power of the party who was unable to negotiate the terms.[^unequal]
     the reasonable meanings of a promise or agreement or a term thereof,
     that meaning is generally preferred which operates against the party
     who supplies the words or from whom a writing otherwise proceeds."
+
 [^unequal]: _See Black's Law Dictionary_ 143 (3rd Pocket ed. 2006) ("adhesion
     contract. A standard-form contract prepared by one party, to be
     signed by another party in a weaker position, usu. a consumer, who
@@ -544,6 +557,7 @@ the promise of software freedom.[^osifaq]
 
 [^osilicenses]: Licenses & Standards, Open Source Initiative,
     https://opensource.org/licenses.
+
 [^osifaq]: _See Which Open Source license is best?_, Open Source Initiative FAQ,
     [https://opensource.org/faq#which-license](https://opensource.org/faq#which-license)
     ("Unlike bilateral copyright licenses, which are negotiated between
@@ -667,6 +681,7 @@ rent was due for 2010.
     is due upon execution of the lease or some specific date thereafter.
     Such a specific contractual provision avoids ambiguity and/or
     defaulting to the common law regarding leases.
+
 [^due]: Tenant's interpretation that no rent was due for 2010 because the
     payment date for that year was April 1, 2010, is unreasonable. Tenant
     was in possession of Oyster Farm from January 1, 2010 through December
@@ -777,10 +792,13 @@ The judgment of the trial court is affirmed.
     TechCrunch,
     [https://techcrunch.com/2018/09/07/commons-clause-stops-open-source-abuse/](https://techcrunch.com/2018/09/07/commons-clause-stops-open-source-abuse/)
     (Sept. 7, 2018).
+
 [^fbpatents]: [https://web.archive.org/web/20170310090807/https://github.com/facebook/react/blob/master/PATENTS](https://web.archive.org/web/20170310090807/https://github.com/facebook/react/blob/master/PATENTS)
+
 [^jsmin]: _See, e.g._, The JSON License,
     [https://www.json.org/license.html](https://www.json.org/license.html)
     ("The Software shall be used for Good, not Evil.").
+
 [^good]: Open source licenses cannot discriminate as to the purposes the
     software may be used for. _See The Open Source Definition_, The Open
     Source Initiative ("6. No Discrimination Against Fields of Endeavor:
@@ -820,6 +838,7 @@ each of those sources in that same order.[^lastly]
 
 [^contextual]: Restatement (Second) of Contracts § 203(b) (1981); U.C.C. §
     1-103(e) (2001); U.C.C. § 2-208 (2002).
+
 [^lastly]: _See_ Restatement (Second) of Contracts § 203(b) (1981) ("Standard of
     Preference in Interpretation: In the interpretation of a promise or
     agreement or a term thereof, the following standards of preference
@@ -843,7 +862,7 @@ each of those sources in that same order.[^lastly]
     performance and course of performance shall control both course of
     dealing and usage of trade. . . ").
 
-### 1. Express Terms of the Agreement {#1-express-terms-of-the-agreement}
+### 1. Express Terms of the Agreement {#express-terms-of-the-agreement}
 
 Courts first look to the words of the parties' written integrated agreement as
 the source of truth for what the parties intended. If possible, a court will
@@ -855,7 +874,7 @@ source of evidence.[^plainness] Courts examine both the ordinary, dictionary
 meaning of the terms as well as contextual evidence from other terms within the
 same document. In one famous case, _Frigaliment Imp. Co. v. B.N.S. Int'l Sales
 Corp._, a court considered multiple sources of evidence in interpreting a
-disputed term.[^friggychickens] In determining the intent of the parties at the
+disputed term.[^frichickens] In determining the intent of the parties at the
 time of contracting, the court gave the most weight to the evidence from the
 agreement itself: the plain, dictionary meaning of the word "chicken," along
 with the contextual evidence found within the rest of the agreement. Determining
@@ -876,7 +895,8 @@ quality chicken.
     performance, course of dealing, and usage of trade . . ."); U.C.C.
     § 1-303(e) (2001) ("[E]xpress terms prevail over course of
     performance, course of dealing, and usage of trade").
-[^friggychickens]: _Frigaliment Imp. Co. v. B.N.S. Int'l Sales Corp._, 190 F.
+
+[^frichickens]: _Frigaliment Imp. Co. v. B.N.S. Int'l Sales Corp._, 190 F.
     Supp. 116 (S.D.N.Y. 1960), _available at_
     https://cyber.harvard.edu/bridge/Cases/frigaliment.txt.htm.
 
@@ -1142,7 +1162,7 @@ Judgment shall be entered dismissing the complaint with costs.
     original intent when the downstream developer did not participate in the
     drafting or selection of the license?
 
-### 2. Course of Performance & Waiver {#2-course-of-performance-&-waiver}
+### 2. Course of Performance & Waiver {#course-of-performance-&-waiver}
 
 A court may look to consistent evidence of the parties' behavior after the
 formation of the agreement, also known as "course of performance" evidence, in
@@ -1169,6 +1189,7 @@ weight.[^chickenbalance]
     to it by the other, any course of performance accepted
     or acquiesced in without objection is given great weight
     in the interpretation of the agreement.").
+
 [^chickenbalance]: _See_ Restatement (Second) of Contracts § 203(b) (1981)
     ("[C]ourse of performance is given greater weight than course
     of dealing or usage of trade . . ."); U.C.C. § 1-303(e)
@@ -1215,11 +1236,13 @@ source licenses.
 [^nanakuli]: _Nanakuli Paving & Rock Co. v. Shell Oil Co._, 664 F.2d 772 (9th
     Cir. 1982), _available at_
     https://law.resource.org/pub/us/case/reporter/F2/664/664.F2d.772.78-2670.78-2667.html.
+
 [^aloha]: _See_ Brian A. Blum, _Examples and Explanations: Contracts_ 315 n.11
     (5th ed. 2011) ("It can be difficult to distinguish a course of
     performance, which casts light on what the parties meant at the time
     of contracting, from post-formation conduct that is either a waiver of
     rights or a modification of the contract.").
+
 [^hawaii]: _Id._ _citing_ _Cosmopolitan Financial Corp. v. Runnels_, 29 P.2d 390
     (1981); _see also Hunt Foods, Inc. v. Doliner_, 26 App.Div.2d 41, 270
     N.Y.S.2d 937 (1966); _Zwierzycki v. Owens_, 499 P.2d 996 (Wyo. 1972);
@@ -1266,8 +1289,10 @@ conclusion could have been reached by the jury. _Cockrum v. Whitney_, 479 F.2d
 
 [^appellee]: Shell removed the suit to United States District Court for the
     District of Hawaii on March 2 of that year
+
 [^longterm]: The parties agree this act is governed by the Uniform Commercial
     Code, as enacted in Hawaii Rev.Stat. § 490:1-101 et seq.
+
 [^asphalt]: Although the jury found for Nanakuli on its price protection claim,
     it denied Nanakuli recovery on its other two claims: that Shell
     should have paid commissions and discounts on asphalt Nanakuli was
@@ -1355,6 +1380,7 @@ express term controls.
     offer evidence in rebuttal that Chevron price protected other
     customers in California with whom it had no such relationship in the
     event Shell tried to impeach that evidence
+
 [^prejudicial]: The judge excluded evidence of price protection usage by
     suppliers of cement because cement was too infrequently used in
     the production of asphaltic paving and, when used, formed too
@@ -1400,6 +1426,7 @@ Nanakuli rather than being a waiver by Shell of those terms.[^jury]
     Shell in 1974 and the harmless nature of the minimal evidence of price
     protection by aggregate suppliers after 1969. See textual discussion
     infra
+
 [^jury]: In addition, Shell's Bohner volunteered on direct for Shell that Shell
     price protected Nanakuli again after 1974 on the only two occasions of
     later price increases in 1977 and 1978. Although not constituting a
@@ -1602,11 +1629,13 @@ the need to notify Shell of awards won did not apply to Nanakuli.
     to comply with Shell's requirement for a firm contract within 15
     days of an award. See note 21 infra & textual discussion
     accompanying
+
 [^award]: Shell made a similar announcement in a November 15, 1973, letter but
     the testimony of Nanakuli's Smith was that, when the second letter
     came, it was too late for Nanakuli to do anything; all the projects
     that formed the basis of the price protection claim were bid well
     before that second letter arrived
+
 [^firm]: "We already had a supply contract. Why would we need another supply
     contract?" Smith asked. "There was no need to write. We had our supply
     contract. We didn't need to enter a new contract with the Shell Oil
@@ -1709,6 +1738,7 @@ in Hawaii.
     Sept. one, perhaps you can bargain to leave prices the same for
     the balance of 1970 to compensate for existing committed work."
     (emphasis supplied.)
+
 [^fuller]: Fuller only found out the background to the Shell-Nanakuli 1969
     agreement and Shell's past price protection of Nanakuli in an August
     11, 1974, in-house memo from Bohner. Bohner explained in that memo
@@ -1720,6 +1750,7 @@ in Hawaii.
     on Oahu, Bohner wrote. Bohner later testified that he was not with
     Shell in 1963 but had gotten the background information from his
     predecessors in Shell's Hawaiian office
+
 [^contemporaneously]: Other testimony by Smith was thrown out as hearsay: that
     Chippendale felt that, if Shell deviated from the rule for
     one, it would have to do so for all. He also testified
@@ -1954,6 +1985,7 @@ overly legalistic interpretation of a contract should be shunned." _Id._ at 11.
     has ruled that ambiguity is not necessary to admit usage evidence.
     Board of Trade of San Francisco v. Swiss Credit Bank, 597 F.2d 146,
     148 (9th Cir. 1979)
+
 [^mereprojections]: State court cases have interpreted express quantity as mere
     projections in similar circumstances. E. g., Campbell v.
     Hofstetter Farms, Inc., 251 Pa.Super. 232, 380 A.2d 463,
@@ -2064,11 +2096,13 @@ exception Nanakuli argues here.
     parol evidence rule in Article 1 of the Code as implicitly
     restricting the types of evidence that a court could exclude for
     other types of contracts
+
 [^ascribed]: Chase had offered proof of a usage "that termination of a
     subordination agreement prior to extinction of the debt allegedly
     secured by that agreement, would be commercially unsound. (Thus) no
     bank or commercial institution would propose or countenance such
     charity." _Id._ at 1047
+
 [^reducing]: More recently the same court has explained that the Code departs
     from the traditional parol evidence rule, which barred as
     irrelevant "the subjective intent of one ... unless it is shown
@@ -2176,7 +2210,7 @@ REVERSED AND REMANDED WITH DIRECTIONS TO ENTER FINAL JUDGMENT.
     in the plain text of the agreement based solely on trade usage and course of
     performance between the parties?
 
-### 3. Course of Dealing {#3-course-of-dealing}
+### 3. Course of Dealing {#course-of-dealing}
 
 A court may look to evidence of the parties' conduct prior to the formation of
 the agreement to supplement its understanding of the express terms of the
@@ -2200,17 +2234,17 @@ known as "course of dealing" evidence.[^dealers]
     otherwise agreed, a course of dealing between the parties gives
     meaning to or supplements or qualifies their agreement."). \
 
-\
 Courts consider course of dealing evidence when resolving ambiguous terms
 because the parties' prior dealings may indicate what was intended by that term
 at the time of contracting. Recall that the parol evidence rule generally
 discourages evidence of discussions and agreements prior to the fully integrated
-written agreement.[^insidejokes] For the same policy reasons encouraging
+written agreement.[^inside] For the same policy reasons encouraging
 parties' to capture their final intended terms in the written agreement, courts
 give less weight to course of dealing evidence than to course of performance
 evidence.[^insidedealing]
 
-[^insidejokes]: _See supra_ discussion of parol evidence rule.
+[^inside]: _See supra_ discussion of parol evidence rule.
+
 [^insidedealing]: Restatement (Second) of Contracts § 203(b) (1981) ("[E]xpress
     terms are given greater weight than course of performance,
     course of dealing, and usage of trade, course of performance
@@ -2695,7 +2729,7 @@ certification.
     publisher need to be either a licensor or licensee in order for it to be
     considered as one of these sources of evidence?
 
-### 4. Trade Usage {#4-trade-usage}
+### 4. Trade Usage {#trade-usage}
 
 Trade usage is the least important source of evidence a court will look to when
 interpreting an ambiguous term in an an agreement.[^mvp] Trade usage will not be
@@ -2724,6 +2758,7 @@ parties' course of performance, or the parties' course of dealing.[^prevalent]
     trade in the vocation or trade in which the parties are engaged or a
     usage of trade of which they know or have reason to know gives meaning
     to or supplements or qualifies their agreement.").
+
 [^prevalent]: _See_ Restatement (Second) of Contracts § 203(b) (1981)
     (Stipulating that the express terms and evidence of course of
     performance and course of dealing are all given greater weight
@@ -2895,7 +2930,7 @@ written agreement.
 The trial court heard several hours of arguments on the motion over two court
 days. The trial court questioned Wolf regarding his proffered extrinsic evidence
 that the term "gross receipts" was interpreted in the entertainment industry to
-mean cash or other valuable consideration.[^readreceipts] The court acknowledged
+mean cash or other valuable consideration.[^receipts] The court acknowledged
 Wolf's expert's testimony created an ambiguity regarding the meaning of the term
 "gross receipts." However, the court was persuaded the contract term clearly and
 unambiguously meant Disney's obligation to pay Wolf royalties only arose with
@@ -2904,7 +2939,7 @@ characters. The trial court found the term "gross receipts" was not reasonably
 susceptible to the meaning urged by Wolf and rejected his proffered extrinsic
 evidence.
 
-[^readreceipts]: The trial court read, and thus to this extent, "considered"
+[^receipts]: The trial court read, and thus to this extent, "considered"
     Wolf's proffered extrinsic evidence.
 
 In its written order the trial court ruled Disney had met its burden of showing
@@ -2930,7 +2965,7 @@ the gross receipts, until monies have been received by Disney. Although the
 court has read all papers filed in support of and opposition to the instant
 motion, extrinsic evidence is not admitted for the reasons stated. Only
 admissible, non-extrinsic evidence has been considered in deciding this
-motion."[^mcmuffin]
+motion."[^mcobligation]
 
 Wolf filed a petition for writ of mandate to compel the trial court to vacate
 its order for summary adjudication. We issued an order directing the trial court
@@ -2939,7 +2974,7 @@ order denying the motion for summary adjudication, or in the alternative, to
 show cause why the requested relief should not be granted. Respondent Superior
 Court did not respond and we now consider the petition.
 
-[^mcmuffin]: Italics in original.
+[^mcobligation]: Italics in original.
 
 **DISCUSSION**
 
@@ -3078,7 +3113,7 @@ All such statements shall be mailed to Seller at the address specified for
 notices herein, unless or until Purchaser is otherwise instructed in writing.
 All statements and accountings furnished by Purchaser hereunder shall be
 conclusively deemed correct unless the same shall be objected to within ninety
-(90) days from Purchaser's rendition thereof...."[^nineties]
+(90) days from Purchaser's rendition thereof...."[^timelyobjection]
 
 Disney emphasizes this paragraph uses the terms "monies" and "monies so
 received" and discusses "statements" for monies "so received." Based on this
@@ -3086,7 +3121,7 @@ language in the paragraph on royalty rights Disney argues "gross receipts"
 clearly and unambiguously means only cash, and then only when actual cash is
 received.
 
-[^nineties]: Italics added. The balance of paragraph 21 provides: "Purchaser's
+[^timelyobjection]: Italics added. The balance of paragraph 21 provides: "Purchaser's
     said obligation shall not apply to picture books or other books
     containing no text material (or containing text material averaging
     not more than two lines per page), comic strips, comic books,
@@ -3113,7 +3148,7 @@ received.
 
 In support of its argument "gross receipts" can only mean "cash received" Disney
 relies on the decision in _County of Sacramento v. Pacific Gas and Electric
-Company_.[^cashmoney] There the court held the utility's gross receipts for
+Company_.[^cash] There the court held the utility's gross receipts for
 purposes of calculating its franchise fee did not include the value of
 electricity consumed by the utility itself in generating electricity for sale to
 consumers. The decision in County of Sacramento is of no assistance here. In the
@@ -3124,7 +3159,7 @@ and not sold for cash. Accordingly, the decision in County of Sacramento sheds
 no light on the issue whether the term "gross receipts" may be subject to
 multiple meanings in a private contract in the entertainment industry context.
 
-[^cashmoney]: _County of Sacramento v. Pacific Gas & Elec. Co._ (1987) 193 Cal.
+[^cash]: _County of Sacramento v. Pacific Gas & Elec. Co._ (1987) 193 Cal.
     App. 3d 300, 238 Cal. Rptr. 305.
 
 Wolf offered extrinsic evidence to show the term "gross receipts" meant not just
@@ -3136,10 +3171,11 @@ performing services."[^considerations] Wolf also referred the court to an
 appellate decision in which the court stated the term "gross receipts" was such
 a familiar and commonplace term in accounting and taxation that when used in its
 ordinary sense meant the "total amount of money or the value of other
-consideration received."[^sactown]
+consideration received."[^sacramento]
 
 [^considerations]: _Black's Law Dictionary_ (6th ed.1990) page 703, 2d column.
-[^sactown]: _See County of Sacramento v. Pac. Gas & Elec. Co._, _supra_, 193
+
+[^sacramento]: _See County of Sacramento v. Pac. Gas & Elec. Co._, _supra_, 193
     Cal. App. 3d 300, 309, 238 Cal. Rptr. 305 ["the courts have always
     considered that gross receipts are measured by money or other
     consideration actually received by a party or paid for his
@@ -3201,7 +3237,7 @@ extrinsic evidence on the ground it did not comport with the court's own view of
 the contract language as unambiguous.
 
 This case is analogous to the situation presented in _Pacific Gas and Electric
-Company v. G.W. Thomas Drayage & Rigging Company_.[^galapagos] In _Thomas
+Company v. G.W. Thomas Drayage & Rigging Company_.[^drayage] In _Thomas
 Drayage_, the Supreme Court considered a contract clause in which the defendant
 agreed to indemnify the plaintiff for injury to property arising out of or
 connected with the performance of the contract. The trial court agreed with the
@@ -3217,10 +3253,12 @@ education and experience.' [Citation.] The exclusion of testimony that might
 contradict the linguistic background of the judge reflects a judicial belief in
 the possibility of perfect verbal expression...."[^beliefs]
 
-[^galapagos]: _Pacific Gas & Elec. Co. v. G.W. Thomas Drayage & Rigging Co._
+[^drayage]: _Pacific Gas & Elec. Co. v. G.W. Thomas Drayage & Rigging Co._
     (1968) 69 Cal. 2d 33, 69 Cal. Rptr. 561, 442 P.2d 641.
+
 [^injurious]: _Pacific Gas & Elec. Co. v. G.W. Thomas Drayage & Rigging Co._,
     _supra_, 69 Cal. 2d 33, 36, 69 Cal. Rptr. 561, 442 P.2d 641.
+
 [^beliefs]: _Pacific Gas & Elec. Co. v. G.W. Thomas Drayage & Rigging Co._,
     _supra_, 69 Cal. 2d 33, 36-37, 69 Cal. Rptr. 561, 442 P.2d 641; _see
     also_, _Southern Pacific Transportation Co. v. Santa Fe Pacific
@@ -3268,14 +3306,15 @@ Construction Equipment Co_.(1994) 28 Cal. App. 4th 1791, 1814, 34 Cal. Rptr. 2d
     1264, 10 Cal. Rptr. 2d 538, 833 P.2d 545; _Parsons v. Bristol
     Development Co._ (1965) 62 Cal. 2d 861, 865, 44 Cal. Rptr. 767,
     402 P.2d 839.
+
 [^witkins]: _Morey v. Vannucci, supra,_ 64 Cal. App. 4th 904, 912, 75 Cal. Rptr.
     2d 573.
 
 Because there is no evidence in this case of objective manifestations of the
-parties' intent,[^manifestdestiny] and because the term at issue is undefined in
+parties' intent,[^manifestations] and because the term at issue is undefined in
 the parties' contract, the only way to construe the meaning of the term "gross
 receipts" is to consider the nature of the contract and the circumstances under
-which the parties negotiated.[^naturalcontract] In this case, both the nature of
+which the parties negotiated.[^nature] In this case, both the nature of
 the contract and the circumstances involved the motion picture industry. The
 offered evidence of industry custom and usage revealed the term "gross receipts"
 had more than one possible meaning. Thus, the industry expert's statements of
@@ -3286,7 +3325,7 @@ suggests.[^mickey] On the contrary, the proffered evidence regarding trade usage
 and custom was relevant to prove an interpretation to which the agreements were
 reasonably susceptible in the entertainment industry context.
 
-[^manifestdestiny]: This is distinct from evidence of the uncommunicated
+[^manifestations]: This is distinct from evidence of the uncommunicated
     subjective intent of two of Disney's employees who
     acknowledged never discussing the term with Wolf or his
     representatives, but who testified they understood the term
@@ -3307,8 +3346,10 @@ reasonably susceptible in the entertainment industry context.
     1254, 1265, 10 Cal. Rptr. 2d 538, 833 P.2d 545.) As we later
     note, Wolf's objectively reasonable expectations at the time
     of negotiations remains a material triable issue of fact.
-[^naturalcontract]: _See, e.g._, _General Motors Corp. v. Superior Court_ (1993)
+
+[^nature]: _See, e.g._, _General Motors Corp. v. Superior Court_ (1993)
     12 Cal. App. 4th 435, 442, 15 Cal. Rptr. 2d 622.
+
 [^mickey]: _Compare_, _Bionghi v. Metropolitan Water Dist. of So. California_
     (1999) 70 Cal. App. 4th 1358, 83 Cal. Rptr. 2d 388 [integrated
     agreement which gave the district the right to cancel the contract on
@@ -3336,6 +3377,7 @@ relief.
 
 [^scotus]: _Ermolieff v. R.K.O. Radio Pictures, Inc._ (1942) 19 Cal. 2d 543, 122
     P.2d 3.
+
 [^ireland]: _Ermolieff v. R.K.O. Radio Pictures, Inc._, _supra_, 19 Cal. 2d 543,
     545-546, 122 P.2d 3.
 
@@ -3362,6 +3404,7 @@ interpretation."[^aid]
 
 [^incompetent]: _Ermolieff v. R.K.O. Radio Pictures, Inc._, _supra_, 19 Cal. 2d
     543, 546, 122 P.2d 3.
+
 [^aid]: _Ermolieff v. R.K.O. Radio Pictures, Inc._, _supra_, 19 Cal. 2d 543,
     550, 122 P.2d 3.
 
@@ -3381,7 +3424,7 @@ valuable consideration received.
 WHICH PRECLUDE A DETERMINATION AS A MATTER OF LAW.**
 
 Having determined the contract is reasonably susceptible to the meaning given it
-by Wolf, we address the second step in the analysisthe ultimate construction to
+by Wolf, we address the second step in the analysis: the ultimate construction to
 be placed on the ambiguous language. As noted, where no extrinsic evidence is
 introduced or the evidence is not in conflict, an appellate court will
 independently construe the contract.[^noconflict] "Where, however, a conflict in
@@ -3391,6 +3434,7 @@ matter of law."[^yesconflict]
 
 [^noconflict]: _Parsons v. Bristol Development Co._, _supra_, 62 Cal. 2d 861,
     866, 44 Cal. Rptr. 767, 402 P.2d 839.
+
 [^yesconflict]: _Southern Cal. Edison Co. v. Superior Court_ (1995) 37 Cal. App.
     4th 839, 852, 44 Cal. Rptr. 2d 227; _see also_, _Walter E.
     Heller Western, Inc. v. Tecrim Corp._ (1987) 196 Cal. App. 3d
