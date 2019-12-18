@@ -14,7 +14,7 @@ The Casebook reproduces and discusses primary sources like case law, statutes, a
 - [Contract and Copyright Remedies Available under Open Source Licenses](remedies/)
 - [Patent Licensing and Exhaustion in Open Source](patents/)
 - [Trademarks in Open Source](trademarks/)
-- [Authorship in Open Souce](authorship/)
+- [Authorship in Open Source](authorship/)
 - [Resolving Contractual Ambiguity in Open Source Licenses](ambiguity/)
 
 ## Practitioner's Guide
