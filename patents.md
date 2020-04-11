@@ -2050,7 +2050,7 @@ ___
 Patent exhaustion is a U.S. common law doctrine limiting the scope of control
 that a patent holder can have after the "authorized sale" of a patented object.
 Under the doctrine, an authorized sale "exhausts" and thus entirely removes
-the ability of the patent older to use the threat of patent infringement to
+the ability of the patent holder to use the threat of patent infringement to
 control the use and sale of the sold object. The purchaser is free to *use* or
 *resell* the patented object without restrictions based in patent law.[^Repair]
 This right to use and resell the object extends to subsequent purchasers, even
