@@ -49,13 +49,13 @@ interest.[^7] Punitive damages are unrecoverable for breach of contract unless
 the breach itself is a tort for which punitive damages are recoverable.[^8]
 
 The remedies for copyright infringement, on the other hand, can include up to
-$150,000 in statutory damages per work infringed.[^12] Alternatively, a
+$150,000 in statutory damages per work infringed.[^9] Alternatively, a
 copyright holder can seek "to recover the actual damages suffered by him or her
 as a result of the infringement, and any profits of the infringer that are
-attributable to the infringement.[^13] A court may order injunctive relief, such
-as blocking a copyright infringer from making derivative works.[^14] A court may
-also impound all articles embodying a reproduction of the copyrighted work.[^15]
-A court may also award costs and attorney's fees.[^16]
+attributable to the infringement".[^10] A court may order injunctive relief, such
+as blocking a copyright infringer from making derivative works.[^11] A court may
+also impound all articles embodying a reproduction of the copyrighted work.[^12]
+A court may also award costs and attorney's fees.[^13]
 
 ## Cases
 
@@ -97,7 +97,7 @@ source of the definition files, and (5) a description of how the files or
 computer code had been changed from the original source code. The Decoder
 Commander software also changed various computer file names of DecoderPro files
 without providing a reference to the original JMRI files or information on where
-to get the Standard Version.[^17]
+to get the Standard Version.[^14]
 
 Jacobsen moved for a preliminary injunction, arguing that the violation of the
 terms of the Artistic License constituted copyright infringement and that, under
@@ -106,7 +106,7 @@ infringement case. The District Court reviewed the Artistic License and
 determined that "Defendants' alleged violation of the conditions of the license
 may have constituted a breach of the nonexclusive license, but does not create
 liability for copyright infringement where it would not otherwise exist."
-[cite]. The District Court found that Jacobsen had a cause of action only for
+[^15]. The District Court found that Jacobsen had a cause of action only for
 breach of contract, rather than an action for copyright infringement based on a
 breach of the conditions of the Artistic License. Because a breach of contract
 creates no presumption of irreparable harm, the District Court denied the motion
@@ -150,7 +150,7 @@ lower cost than if the copyright holder were required to do all of the work
 independently. In exchange and in consideration for this collaborative work, the
 copyright holder permits users to copy, modify and distribute the software code
 subject to conditions that serve to protect downstream users and to keep the
-code accessible.[^18] By requiring that users copy and restate the license and
+code accessible.[^16] By requiring that users copy and restate the license and
 attribution information, a copyright holder can ensure that recipients of the
 redistributed computer code know the identity of the owner as well as the scope
 of the license granted by the original owner. The Artistic License in this case
@@ -170,8 +170,8 @@ Similarly, a programmer or company may increase its national or international
 reputation by incubating open source projects. Improvement to a product can come
 rapidly and free of charge from an expert not even known to the copyright
 holder. The Eleventh Circuit has recognized the economic motives inherent in
-public licenses, even where profit is not immediate. See Planetary Motion, Inc.
-v. Techsplosion, Inc., 261 F.3d 1188, 1200 (11th Cir. 2001) (Program creator
+public licenses, even where profit is not immediate. *See Planetary Motion, Inc.
+v. Techsplosion, Inc*., 261 F.3d 1188, 1200 (11th Cir. 2001) (Program creator
 "derived value from the distribution [under a public license] because he was
 able to improve his Software based on suggestions sent by end-users. . . . It is
 logical that as the Software improved, more end-users used his Software, thereby
@@ -181,7 +181,7 @@ that the Software would be improved even further.").
 B.
 
 The parties do not dispute that Jacobsen is the holder of a copyright for
-certain materials distributed through his website.[^19] Katzer/Kamind also
+certain materials distributed through his website.[^17] Katzer/Kamind also
 admits that portions of the DecoderPro software were copied, modified, and
 distributed as part of the Decoder Commander software. Accordingly, Jacobsen has
 made out a prima facie case of copyright infringement. Katzer/Kamind argues that
@@ -193,35 +193,35 @@ labeled to include a copyright notification and a COPYING file that includes the
 text of the Artistic License. The Artistic License grants users the right to
 copy, modify, and distribute the software:
 
-provided that [the user] insert a prominent notice in each changed file stating
-how and when [the user] changed that file, and provided that [the user] do at
-least ONE of the following:
+    provided that [the user] insert a prominent notice in each changed file stating
+    how and when [the user] changed that file, and provided that [the user] do at
+    least ONE of the following:
 
-a) place [the user's] modifications in the Public Domain or otherwise make them
-Freely Available, such as by posting said modifications to Usenet or an
-equivalent medium, or placing the modifications on a major archive site such as
-ftp.uu.net, or by allowing the Copyright Holder to include [the user's]
-modifications in the Standard Version of the Package.
+    a) place [the user's] modifications in the Public Domain or otherwise make them
+    Freely Available, such as by posting said modifications to Usenet or an
+    equivalent medium, or placing the modifications on a major archive site such as
+    ftp.uu.net, or by allowing the Copyright Holder to include [the user's]
+    modifications in the Standard Version of the Package.
 
-b) use the modified Package only within [the user's] corporation or
-organization.
+    b) use the modified Package only within [the user's] corporation or
+    organization.
 
-c) rename any non-standard executables so the names do not conflict with the
-standard executables, which must also be provided, and provide a separate manual
-page for each nonstandard executable that clearly documents how it differs from
-the Standard Version, or
+    c) rename any non-standard executables so the names do not conflict with the
+    standard executables, which must also be provided, and provide a separate manual
+    page for each nonstandard executable that clearly documents how it differs from
+    the Standard Version, or
 
-d) make other distribution arrangements with the Copyright Holder.
+    d) make other distribution arrangements with the Copyright Holder.
 
 The heart of the argument on appeal concerns whether the terms of the Artistic
 License are conditions of, or merely covenants to, the copyright license.
 Generally, a "copyright owner who grants a nonexclusive license to use his
 copyrighted material waives his right to sue the licensee for copyright
-infringement" and can sue only for breach of contract. Sun Microsystems, Inc.,
-v. Microsoft Corp., 188 F.3d 1115, 1121 (9th Cir. 1999); Graham v. James, 144
+infringement" and can sue only for breach of contract. *Sun Microsystems, Inc.,
+v. Microsoft Corp*., 188 F.3d 1115, 1121 (9th Cir. 1999); *Graham v. James*, 144
 F.3d 229, 236 (2d Cir. 1998). If, however, a license is limited in scope and the
 licensee acts outside the scope, the licensor can bring an action for copyright
-infringement. See S.O.S., Inc. v. Payday, Inc., 886 F.2d 1081, 1087 (9th
+infringement. *See S.O.S., Inc. v. Payday, Inc*., 886 F.2d 1081, 1087 (9th
 Cir.1989); Nimmer on Copyright, § 1015[A]\(1999\).
 
 Thus, if the terms of the Artistic License allegedly violated are both covenants
@@ -229,13 +229,13 @@ and conditions, they may serve to limit the scope of the license and are
 governed by copyright law. If they are merely covenants, by contrast, they are
 governed by contract law. *See Graham*, 144 F.3d at 236-37 whether breach of
 license is actionable as copyright infringement or breach of contract turns on
-whether provision breached is condition of the license, or mere covenant); Sun
-Microsystems, 188 F.3d at 1121 (following Graham; independent covenant does not
+whether provision breached is condition of the license, or mere covenant); *Sun
+Microsystems*, 188 F.3d at 1121 (following *Graham*; independent covenant does not
 limit scope of copyright license). The District Court did not expressly state
 whether the limitations in the Artistic License are independent covenants or,
 rather, conditions to the scope; its analysis, however, clearly treated the
 license limitations as contractual covenants rather than conditions of the
-copyright license.[^20]
+copyright license.[^18]
 
 Jacobsen argues that the terms of the Artistic License define the scope of the
 license and that any use outside of these restrictions is copyright
@@ -246,7 +246,7 @@ nor subject to injunctive relief. Katzer/Kamind's argument is premised upon the
 assumption that Jacobsen's copyright gave him no economic rights because he made
 his computer code available to the public at no charge. From this assumption,
 Katzer/Kamind argues that copyright law does not recognize a cause of action for
-non-economic rights, relying on Gilliam v. ABC, 538 F.2d 14, 20-21 (2d Cir.
+non-economic rights, relying on *Gilliam v. ABC*, 538 F.2d 14, 20-21 (2d Cir.
 1976) "American copyright law, as presently written, does not recognize moral
 rights or provide a cause of action for their violation, since the law seeks to
 vindicate the economic, rather than the personal rights of authors."). The
@@ -256,10 +256,10 @@ to which we now turn.
 III.
 
 The Artistic License states on its face that the document creates conditions:
-"The intent of this document is to state the conditions under which a Package
+"The intent of this document is to state the *conditions* under which a Package
 may be copied." (Emphasis added.) The Artistic License also uses the traditional
 language of conditions by noting that the rights to copy, modify, and distribute
-are granted "provided that" the conditions are met. Under California contract
+are granted "*provided that*" the conditions are met. Under California contract
 law, "provided that" typically denotes a condition. *See, e.g., Diepenbrock v.
 Luiz*, 159 Cal. 716, 115 P. 743 (1911) (interpreting a real property lease
 reciting that when the property was sold, "this lease shall cease and be at an
@@ -297,7 +297,7 @@ shows how it differs from the original.
 
 Copyright holders who engage in open source licensing have the right to control
 the modification and distribution of copyrighted material. As the Second Circuit
-explained in Gilliam v. ABC, 538 F.2d 14, 21 (2d Cir. 1976), the "unauthorized
+explained in *Gilliam v. ABC*, 538 F.2d 14, 21 (2d Cir. 1976), the "unauthorized
 editing of the underlying work, if proven, would constitute an infringement of
 the copyright in that work similar to any other use of a work that exceeded the
 license granted by the proprietor of the copyright." Copyright licenses are
@@ -314,9 +314,9 @@ to make modifications and to distribute the materials "provided that" the user
 follows the restrictive terms of the Artistic License. A copyright holder can
 grant the right to make certain modifications, yet retain his right to prevent
 other modifications. Indeed, such a goal is exactly the purpose of adding
-conditions to a license grant.[^21] The Artistic License, like many other common
+conditions to a license grant.[^19] The Artistic License, like many other common
 copyright licenses, requires that any copies that are distributed contain the
-copyright notices and the COPYING file. See, e.g., 3-10 Nimmer on Copyright §
+copyright notices and the COPYING file. *See, e.g.*, 3-10 Nimmer on Copyright §
 10.15 ("An express (or possibly an implied) condition that a licensee must affix
 a proper copyright notice to all copies of the work that he causes to be
 published will render a publication devoid of such notice without authority from
@@ -354,62 +354,63 @@ consistent with this opinion.
     California law:
 
         "A covenant 'is another word for a contractual promise.' A promise for
-        contract purposes 'is a manifestation of intention to act or refrain from
-        acting in a specified way, so made as to justify a promisee in understanding
-        that a commitment has been made.' Implied covenants are disfavored and will
-        only be found if they effectuate the intent of the parties, are a legal
-        necessity and 'after examining the contract as a whole it is [] obvious that
-        the parties had no reason to state the covenant[.]' A condition, on the
-        other hand, 'is an event, not certain to occur, which must occur, unless its
-        non-occurrence is excused, before performance under a contract becomes due.'
-        Under California law a conditional obligation is one 'when the rights or
-        duties of any party thereto depend upon the occurrence of an uncertain
-        event.'" [Netbula, LLC v. Storage Tech. Corp., No. C06-07391 MJJ, 2008 U.S.
-        Dist. LEXIS 4119, at 9 (N.D. Cal. Jan. 17,
-        2008)](https://advance.lexis.com/api/document/collection/cases/id/4RN5-M7P0-TXFP-C34C-00000-00?page=9&reporter=1293&context=1000516)*
+        contract purposes 'is a manifestation of intention to act or refrain
+        from acting in a specified way, so made as to justify a promisee in
+        understanding that a commitment has been made.' Implied covenants are
+        disfavored and will only be found if they effectuate the intent of the
+        parties, are a legal necessity and 'after examining the contract as a
+        whole it is [] obvious that the parties had no reason to state the cov-
+        enant[.]' A condition, on the other hand, 'is an event, not certain to
+        occur, which must occur, unless its non-occurrence is excused, before
+        performance under a contract becomes due.' Under California law a con-
+        ditional obligation is one 'when the rights or duties of any party
+        thereto depend upon the occurrence of an uncertain event.'" [Netbula,
+        LLC v. Storage Tech. Corp., No. C06-07391 MJJ, 2008 U.S. Dist. LEXIS
+        4119, at 9 (N.D. Cal. Jan. 17, 2008)]
+        (https://advance.lexis.com/api/document/collection/cases/id/4RN5-M7P0-TXFP-C34C-00000-00?page=9&reporter=1293&context=1000516)*
         (internal citations omitted).
 
 2.  When might a license term be a condition rather than a covenant?
 
-    See [Sun Microsystems, Inc. v. Microsoft Corp., 81 F. Supp. 2d 1026, 1032-33
+    See *[Sun Microsystems, Inc. v. Microsoft Corp., 81 F. Supp. 2d 1026, 1032-33
     (N.D. Cal.
     2000)](https://advance.lexis.com/api/document/collection/cases/id/3YP8-G380-0038-Y0HN-00000-00?page=1032&reporter=1109&context=1000516)*
     (finding breached compatibility obligations to be a covenant, emphasizing
     that the license grant was not stated as being conditioned on the
     compatibility obligations and emphasizing the presence of a cure provision
-    within the agreement); [Montalvo v. LT's Benjamin Records, Inc., 56 F. Supp.
+    within the agreement); *[Montalvo v. LT's Benjamin Records, Inc., 56 F. Supp.
     3d 121, 130 (D.P.R.
-    2014)](https://advance.lexis.com/api/document/collection/cases/id/5DHT-78M1-F04F-50S6-00000-00?page=130&reporter=1121&context=1000516)
+    2014)](https://advance.lexis.com/api/document/collection/cases/id/5DHT-78M1-F04F-50S6-00000-00?page=130&reporter=1121&context=1000516)*
     (holding failure to pay royalties to be a breach of a covenant); *[Sleash,
     LLC v. One Pet Planet, LLC, No. 3:14-cv-00863-ST, 2014 U.S. Dist. LEXIS
     109253, at 51 (D. Or. Aug. 6,
-    2014)](https://advance.lexis.com/api/document/collection/cases/id/5CVC-W4C1-F04F-30TP-00000-00?page=51&reporter=1293&context=1000516)
+    2014)](https://advance.lexis.com/api/document/collection/cases/id/5CVC-W4C1-F04F-30TP-00000-00?page=51&reporter=1293&context=1000516)*
     (finding one contract term to be a covenant where the term appeared in a
     separate section from the license grant and finding another contract term to
     be a covenant where the term was stated in promissory, as opposed to
     conditional, terms).
 
-    But see [Accusoft Corp. v. Quest Diagnostics, Inc., No. 12-cv-40007-TSH,
+    But see *[Accusoft Corp. v. Quest Diagnostics, Inc., No. 12-cv-40007-TSH,
     2015 U.S. Dist. LEXIS 156693, at 76 (D. Mass. Aug. 19,
     2015)](https://advance.lexis.com/api/document/collection/cases/id/5HDR-RB11-F04D-D0HK-00000-00?page=76&reporter=1293&context=1000516)*
     (finding a number of EULA terms to be conditions under Massachusetts law, as
     the terms clearly limited the scope of the license and were stated with
-    emphatic, conditional language); [Alaska Stock, LLC v. Pearson Educ., Inc.,
+    emphatic, conditional language); *[Alaska Stock, LLC v. Pearson Educ., Inc.,
     975 F. Supp. 2d 1027, 1044 (D. Alaska
-    2013)](https://advance.lexis.com/api/document/collection/cases/id/59HT-5V91-F04C-N013-00000-00?page=1044&reporter=1109&context=1000516)
+    2013)](https://advance.lexis.com/api/document/collection/cases/id/59HT-5V91-F04C-N013-00000-00?page=1044&reporter=1109&context=1000516)*
     (holding that a term limiting "the number of publications in which an image
     could appear [was] no different from the Ninth Circuit's example of the
     person who made a hundred copies of a book while licensed to make only one"
-    and was therefore a condition); [Jacobsen v. Katzer, 535 F.3d 1373, 1381
+    and was therefore a condition); *[Jacobsen v. Katzer, 535 F.3d 1373, 1381
     (Fed. Cir.
-    2008)](https://advance.lexis.com/api/document/collection/cases/id/4T6V-54Y0-TX4N-G15K-00000-00?page=1381&reporter=1107&context=1000516)
+    2008)](https://advance.lexis.com/api/document/collection/cases/id/4T6V-54Y0-TX4N-G15K-00000-00?page=1381&reporter=1107&context=1000516)*
     ("Under California contract law, 'provided that' typically denotes a
     condition.").
 
-3.  The Jacobsen court recognizes that open source licensing schemes can confer
-    an economic benefit upon licensors. [Jacobsen v. Katzer, 535 F.3d 1373, 1382
+3.  The *Jacobsen* court recognizes that open source licensing schemes can confer
+    an economic benefit upon licensors. *[Jacobsen v. Katzer, 535 F.3d 1373, 1382
     (Fed. Cir.
-    2008)](https://advance.lexis.com/api/document/collection/cases/id/4T6V-54Y0-TX4N-G15K-00000-00?page=1382&reporter=1107&context=1000516)("The
+    2008)](https://advance.lexis.com/api/document/collection/cases/id/4T6V-54Y0-TX4N-G15K-00000-00?page=1382&reporter=1107&context=1000516)*("The
     clear language of the Artistic License creates conditions to protect the
     economic rights at issue in the granting of a public license. These
     conditions govern the rights to modify and distribute the computer programs
@@ -608,9 +609,9 @@ IV.
 
 We first consider whether MDY committed contributory or vicarious infringement
 (collectively, "secondary infringement") of Blizzard's copyright by selling
-Glider to WoW players.[^22] *See ProCD, Inc. v. Zeidenberg*, 86 F.3d 1447, 1454
+Glider to WoW players.[^20] *See ProCD, Inc. v. Zeidenberg*, 86 F.3d 1447, 1454
 (7th Cir. 1996) ("A copyright is a right against the world. Contracts, by
-contrast, generally affect only their parties.").* *To establish secondary
+contrast, generally affect only their parties."). To establish secondary
 infringement, Blizzard must first demonstrate direct infringement. *See A&M
 Records, Inc. v. Napster, Inc*., 239 F.3d 1004, 1019, 1022 (9th Cir. 2001). To
 establish direct infringement, Blizzard must demonstrate copyright ownership and
@@ -659,7 +660,7 @@ Autodesk, Inc*., 621 F.3d 1102, 1108-09 (9th Cir. 2010; *see also MAI Sys. Corp.
 v. Peak Computer, Inc*., 991 F.2d 511, 519 n.5 (9th Cir. 1993); *Triad Sys.
 Corp. v. Se. Express Co*., 64 F.3d 1330, 1333, 1335-36 (9th Cir. 1995); *Wall
 Data, Inc. v. Los Angeles County Sheriff's Dep't*, 447 F.3d 769, 784-85 (9th
-Cir. 2006). In *Vernor*, we held "that* *a software user is a licensee rather
+Cir. 2006). In *Vernor*, we held "that a software user is a licensee rather
 than an owner of a copy where the copyright owner (1) specifies that the user is
 granted a license; (2) significantly restricts the user's ability to transfer
 the software; and (3) imposes notable use" restrictions. 621 F.3d at 1111
@@ -728,7 +729,7 @@ Del. 2006) (citing Delaware state law); *see also* Restatement (Second) of
 Contracts § 224. Conditions precedent are disfavored because they tend to work
 forfeitures. *AES*, 429 F. Supp. 2d at 717 (internal citations omitted).
 Wherever possible, equity construes ambiguous contract provisions as covenants
-rather than conditions. See* Wilmington Tr. Co. v. Clark*, 325 A.2d 383, 386
+rather than conditions. *See Wilmington Tr. Co. v. Clark*, 325 A.2d 383, 386
 (Del. Ch. 1974). However, if the contract is unambiguous, the court construes it
 according to its terms. *AES*, 429 F. Supp. 2d at 717 (citing 17 Am. Jur. 2d
 Contracts § 460 (2006)).
@@ -767,12 +768,12 @@ book, but read the last ten pages, the only cause of action would be for breach
 of contract, because reading a book does not violate any right protected by
 copyright law.
 
-*Id*. at 1316. Consistent with this approach, we have held that* *the potential
+*Id*. at 1316. Consistent with this approach, we have held that the potential
 for infringement exists only where the licensee's action (1) exceeds the
 license's scope (2) in a manner that implicates one of the licensor's exclusive
 statutory rights. *See, e.g., Sun I*, 118 F.3d at 1121-22 (remanding for
 infringement determination where defendant allegedly violated a license term
-regulating the creation of derivative works).[^23]
+regulating the creation of derivative works).[^21]
 
 Here, ToU § 4 contains certain restrictions that are grounded in Blizzard's
 exclusive rights of copyright and other restrictions that are not. For instance,
@@ -797,11 +798,11 @@ disfavored conduct. The rationale would be that because the conduct occurs while
 the player's computer is copying the software code into RAM in order for it to
 run, the violation is copyright infringement. This would allow software
 copyright owners far greater rights than Congress has generally conferred on
-copyright owners.[^24]
+copyright owners.[^22]
 
 We conclude that for a licensee's violation of a contract to constitute
 copyright infringement, there must be a nexus between the condition and the
-licensor's exclusive rights of copyright.[^25] Here, WoW players do not commit
+licensor's exclusive rights of copyright.[^23] Here, WoW players do not commit
 copyright infringement by using Glider in violation of the ToU. MDY is thus not
 liable for secondary copyright infringement, which requires the existence of
 direct copyright infringement. *Grokster*, 545 U.S. at 930.
@@ -873,12 +874,12 @@ copyrights in WoW software."
     project, which is a significant economic goal of the copyright holder that
     the law will enforce.").
 
-5.  In Jacobsen, the Federal Circuit held that certain terms of the Artistic
+5.  In *Jacobsen*, the Federal Circuit held that certain terms of the Artistic
     License should be regarded as conditions: the requirement that licensees
     "duplicate all of the original copyright notices and associated
     disclaimers," and the requirement that modifiers of the software insert
     "prominent notices in each changed file stating how and when you changed
-    that file."[^26] Would a court applying *MDY's* nexus test* *find that these
+    that file."[^24] Would a court applying *MDY's* nexus test find that these
     conditions of the artistic license bear a nexus to the licensor's exclusive
     rights of copyright? If so, which rights? See 17 U.S.C. § 106(2) (exclusive
     right to prepare derivative works); and see [17 U.S.C. §§ 1202 (b)(1) and
@@ -902,7 +903,7 @@ copyrights in WoW software."
     book does not violate any right protected by copyright law.").
 
     What other kinds of complaints are grounded in an exclusive right of
-    copyright? See* [Adobe Sys. v. A & S Elecs., Inc., 153 F. Supp. 3d 1136,
+    copyright? See *[Adobe Sys. v. A & S Elecs., Inc., 153 F. Supp. 3d 1136,
     1144 (N.D. Cal.
     2015)](https://advance.lexis.com/api/document/collection/cases/id/5HRG-4JP1-F04C-T0BK-00000-00?page=1144&reporter=1121&context=1000516)*
     (finding that defendant exceeded scope of license and committed copyright
@@ -955,7 +956,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 #### Discussion
 
-1.  What terms MIT license that could be considered covenants or conditions?
+1.  Which terms of the MIT license could be considered covenants or conditions?
     Would the Jacobsen court regard the requirement that licensees include the
     copyright notice in all copies or portions of the software to be a
     condition? Is there a connection between this term and an economic interest
@@ -989,54 +990,56 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 [...]
 
-b) You must cause any work that you distribute or publish, that in whole or in
-part contains or is derived from the Program or any part thereof, to be licensed
-as a whole at no charge to all third parties under the terms of this License.
+        b) You must cause any work that you distribute or publish, that in whole or in
+        part contains or is derived from the Program or any part thereof, to be licensed
+        as a whole at no charge to all third parties under the terms of this License.
 
-These requirements apply to the modified work as a whole. If identifiable
-sections of that work are not derived from the Program, and can be reasonably
-considered independent and separate works in themselves, then this License, and
-its terms, do not apply to those sections when you distribute them as separate
-works. But when you distribute the same sections as part of a whole which is a
-work based on the Program, the distribution of the whole must be on the terms of
-this License, whose permissions for other licensees extend to the entire whole,
-and thus to each and every part regardless of who wrote it.
+[...]
 
-1.  You may copy and distribute the Program (or a work based on it, under
+   These requirements apply to the modified work as a whole. If identifiable
+   sections of that work are not derived from the Program, and can be reasonably
+   considered independent and separate works in themselves, then this License, and
+   its terms, do not apply to those sections when you distribute them as separate
+   works. But when you distribute the same sections as part of a whole which is a
+   work based on the Program, the distribution of the whole must be on the terms of
+   this License, whose permissions for other licensees extend to the entire whole,
+   and thus to each and every part regardless of who wrote it.
+
+3.  You may copy and distribute the Program (or a work based on it, under
     Section 2) in object code or executable form under the terms of Sections 1
     and 2 above provided that you also do one of the following:
 
-a) Accompany it with the complete corresponding machine-readable source code,
-which must be distributed under the terms of Sections 1 and 2 above on a medium
-customarily used for software interchange; or,
+        a) Accompany it with the complete corresponding machine-readable source code,
+        which must be distributed under the terms of Sections 1 and 2 above on a medium
+        customarily used for software interchange; or,
 
-b) Accompany it with a written offer, valid for at least three years, to give
-any third party, for a charge no more than your cost of physically performing
-source distribution, a complete machine-readable copy of the corresponding
-source code, to be distributed under the terms of Sections 1 and 2 above on a
-medium customarily used for software interchange; or,
+        b) Accompany it with a written offer, valid for at least three years, to give
+        any third party, for a charge no more than your cost of physically performing
+        source distribution, a complete machine-readable copy of the corresponding
+        source code, to be distributed under the terms of Sections 1 and 2 above on a
+        medium customarily used for software interchange; or,
 
-c) Accompany it with the information you received as to the offer to distribute
-corresponding source code. (This alternative is allowed only for noncommercial
-distribution and only if you received the program in object code or executable
-form with such an offer, in accord with Subsection b above.)
+        c) Accompany it with the information you received as to the offer to distribute
+        corresponding source code. (This alternative is allowed only for noncommercial
+        distribution and only if you received the program in object code or executable
+        form with such an offer, in accord with Subsection b above.)
 
-The source code for a work means the preferred form of the work for making
-modifications to it. For an executable work, complete source code means all the
-source code for all modules it contains, plus any associated interface
-definition files, plus the scripts used to control compilation and installation
-of the executable.
+    The source code for a work means the preferred form of the work for making
+    modifications to it. For an executable work, complete source code means all the
+    source code for all modules it contains, plus any associated interface
+    definition files, plus the scripts used to control compilation and installation
+    of the executable.
 
 [...]
 
 #### Discussion
 
-1.  Is Section 2 requirement that independent and separate works, when combined
-    with GPL v.2-licensed code to form a larger whole, must be licensed under
-    the GPL v.2, a covenant or a condition? How about the Section 3 requirement
-    that distribution of any GPL v.2-licensed code in binary form (as an
+1.  Is the Section 2 requirement that independent and separate works, when combined
+    with GPLv2-licensed code to form a larger whole, must be licensed under
+    the GPLv2 a covenant or a condition? How about the Section 3 requirement
+    that distribution of any GPLv2-licensed code in binary form (as an
     executable program or as part of an executable program) be accompanied with
-    distribution of the complete source code for the entire binary? See* *Infra,
+    distribution of the complete source code for the entire binary? See *Infra*,
     *Jacobsen* Discussion, point 2.
 
 2.  Does the re-licensing requirement in Section 2 have a nexus to the
@@ -1070,7 +1073,7 @@ of the executable.
 
 [...]
 
-1.  Protecting Users' Legal Rights From Anti-Circumvention Law.
+3.  Protecting Users' Legal Rights From Anti-Circumvention Law.
 
 No covered work shall be deemed part of an effective technological measure under
 any applicable law fulfilling obligations under article 11 of the WIPO copyright
@@ -1082,9 +1085,11 @@ circumvention of technological measures to the extent such circumvention is
 effected by exercising rights under this License with respect to the covered
 work, and you disclaim any intention to limit operation or modification of the
 work as a means of enforcing, against the work's users, your or third parties'
-legal rights to forbid circumvention of technological measures. [...]
+legal rights to forbid circumvention of technological measures.
 
-1.  Termination.
+[...]
+
+8.  Termination.
 
 You may not propagate or modify a covered work except as expressly provided
 under this License. Any attempt otherwise to propagate or modify it is void, and
@@ -1110,8 +1115,8 @@ to receive new licenses for the same material under section 10.
 
 #### Discussion
 
-1.  Read Section 3 of the GPLv3. How would a court apply the MDY and Jacobsen
-    tests to a contractual condition bears a nexus to an exclusive right of
+1.  Read Section 3 of the GPLv3. How would a court apply the *MDY* and *Jacobsen*
+    tests to a contractual condition that bears a nexus to an exclusive right of
     copyright, but not to the licensor's exclusive rights of copyright in the
     copyrighted work being licensed? Could a licensor's expectation interest in
     the scheme of Section 3 be fulfilled without specific performance?
@@ -1132,26 +1137,37 @@ to receive new licenses for the same material under section 10.
 ## Notes
 
 [^1]: See Infra, The Penalties Compared
+
 [^2]: *[Sun Microsystems, Inc. v. Microsoft Corp., 188 F.3d 1115, 1121 (9th Cir.
     1999)](https://advance.lexis.com/api/document/collection/cases/id/3X7T-TDB0-0038-X066-00000-00?page=1121&reporter=1107&context=1000516)*.
 
 [^3]: Id.
+
 [^4]: Restat 2d of Contracts, § 347.
+
 [^5]: Id. at Comment a.
+
 [^6]: Restat 2d of Contracts, § 345(d).
+
 [^7]: Restat 2d of Contracts, § 359(1).
+
 [^8]: Restat 2d of Contracts, § 355.
-[^12]: 17 USC 504(c)(2); See also *[Capitol Records, Inc. v. Thomas-Rasset, 692
+
+[^9]: 17 USC 504(c)(2); See also *[Capitol Records, Inc. v. Thomas-Rasset, 692
     F.3d 899 (8th Cir.
     2012)](https://advance.lexis.com/api/document/collection/cases/id/56JC-B7G1-F04K-S2WM-00000-00?page=901&reporter=1107&context=1000516)*(affirming
     statutory damages award of $222,000; holding the $150,000 statutory cap
     to apply on a 'per work infringed' basis).
 
-[^13]: 17 USC 504(b).
-[^14]: 17 USC 502.
-[^15]: 17 USC 503(a)(1)(B).
-[^16]: 17 USC 505.
-[^17]: FN1. Katzer/Kamind represents that all potentially infringing activities
+[^10]: 17 USC 504(b).
+
+[^11]: 17 USC 502.
+
+[^12]: 17 USC 503(a)(1)(B).
+
+[^13]: 17 USC 505.
+
+[^14]: FN1. Katzer/Kamind represents that all potentially infringing activities
     using any of the disputed material have been voluntarily ceased. The
     district court held that it could not find as a matter of law that
     Katzer/Kamind's voluntary termination of allegedly wrongful activity
@@ -1167,17 +1183,20 @@ to receive new licenses for the same material under section 10.
     is *absolutely* clear that the allegedly wrongful behavior could not
     reasonably be expected to recur." (emphasis in original)).
 
-[^18]: FN2. For example, the GNU General Public License, which is used for the
+[^15]: *[Jacobsen, 2007 U.S. Dist. LEXIS 63568, 2007 WL 2358628 at *7]
+    (https://advance.lexis.com/document?crid=fea82229-8d17-4893-b80f-513bb7af0d56&pddocfullpath=%2Fshared%2Fdocument%2Fcases%2Furn%3AcontentItem%3A4T6V-54Y0-TX4N-G15K-00000-00&pdcontentcomponentid=6396&pdpinpoint=PAGE_1375_1107&pdmfid=1000516&pdisurlapi=true#)*.
+
+[^16]: FN2. For example, the GNU General Public License, which is used for the
     Linux operating system, prohibits downstream users from charging for a
-    license to the software. See *Wallace v. IBM Corp.*, 467 F.3d 1104,
+    license to the software. *See Wallace v. IBM Corp*., 467 F.3d 1104,
     1105-06 (7th Cir.2006).
 
-[^19]: FN3. Jacobsen's copyright registration creates the presumption of a valid
-    copyright. See, e.g.,* [Triad Sys. Corp. v. Se. EXP. Co., 64 F.3d 1330,
+[^17]: FN3. Jacobsen's copyright registration creates the presumption of a valid
+    copyright. *See, e.g., [Triad Sys. Corp. v. Se. EXP. Co., 64 F.3d 1330,
     1335 (9th Cir.
     1995)](https://advance.lexis.com/document?crid=fea82229-8d17-4893-b80f-513bb7af0d56&pddocfullpath=%2Fshared%2Fdocument%2Fcases%2Furn%3AcontentItem%3A4T6V-54Y0-TX4N-G15K-00000-00&pdcontentcomponentid=6396&pdpinpoint=PAGE_1375_1107&pdmfid=1000516&pdisurlapi=true#)*.
 
-[^20]: FN4. The District Court held that "Defendants' alleged violation of the
+[^18]: FN4. The District Court held that "Defendants' alleged violation of the
     conditions of the license may have constituted a breach of the
     nonexclusive license . . . [and] the Court finds that Plaintiff's claim
     properly sounds in contract." *[Jacobsen, 2007 U.S. Dist. LEXIS 63568,
@@ -1187,9 +1206,9 @@ to receive new licenses for the same material under section 10.
     treated the terms of the Artistic License as contractual covenants which
     did not limit the scope of the license.
 
-[^21]: FN5. Open source licensing restrictions are easily distinguished from
+[^19]: FN5. Open source licensing restrictions are easily distinguished from
     mere "author attribution" cases. Copyright law does not automatically
-    protect the rights of authors to credit for copyrighted materials. See*
+    protect the rights of authors to credit for copyrighted materials. *See
     [Gilliam, 538 F.2d at
     20-21](https://advance.lexis.com/document?crid=fea82229-8d17-4893-b80f-513bb7af0d56&pddocfullpath=%2Fshared%2Fdocument%2Fcases%2Furn%3AcontentItem%3A4T6V-54Y0-TX4N-G15K-00000-00&pdcontentcomponentid=6396&pdpinpoint=PAGE_1375_1107&pdmfid=1000516&pdisurlapi=true#)*
     ("American copyright law, as presently written, does not recognize moral
@@ -1198,7 +1217,7 @@ to receive new licenses for the same material under section 10.
     authors."); *[Graham, 144 F.3d at
     236](https://advance.lexis.com/document?crid=fea82229-8d17-4893-b80f-513bb7af0d56&pddocfullpath=%2Fshared%2Fdocument%2Fcases%2Furn%3AcontentItem%3A4T6V-54Y0-TX4N-G15K-00000-00&pdcontentcomponentid=6396&pdpinpoint=PAGE_1375_1107&pdmfid=1000516&pdisurlapi=true#)*.
     Whether such rights are protected by a specific license grant depends on
-    the language of the license. See* [County of Ventura v. Blackburn, 362
+    the language of the license. *See [County of Ventura v. Blackburn, 362
     F.2d 515, 520 (9th Cir.
     1966)](https://advance.lexis.com/document?crid=fea82229-8d17-4893-b80f-513bb7af0d56&pddocfullpath=%2Fshared%2Fdocument%2Fcases%2Furn%3AcontentItem%3A4T6V-54Y0-TX4N-G15K-00000-00&pdcontentcomponentid=6396&pdpinpoint=PAGE_1375_1107&pdmfid=1000516&pdisurlapi=true#)*
     (copyright infringement found where the county removed copyright notices
@@ -1206,11 +1225,11 @@ to receive new licenses for the same material under section 10.
     to obtain duplicate tracings" from photographic negatives that contained
     copyright notices).
 
-[^22]: FN1. Alternatively, MDY asks that we determine whether there are any
+[^20]: FN1. Alternatively, MDY asks that we determine whether there are any
     genuine issues of material fact that warrant a remand for trial on
     Blizzard's secondary copyright infringement claims. We find none.
 
-[^23]: FN2. See also* [S.O.S., 886 F.2d at
+[^21]: FN2. *See also [S.O.S., 886 F.2d at
     1089](https://advance.lexis.com/document/?pdmfid=1000516&crid=06650db3-0f63-4524-9068-1e89116d90ac&pddocfullpath=%2Fshared%2Fdocument%2Fcases%2Furn%3AcontentItem%3A51PJ-CY71-652R-8004-00000-00&pddocid=urn%3AcontentItem%3A51PJ-CY71-652R-8004-00000-00&pdcontentcomponentid=6393&pdshepid=urn%3AcontentItem%3A51P5-94G1-DXC7-J10H-00000-00&pdteaserkey=sr0&ecomp=r89tk&earg=sr0&prid=029365ab-656c-46c5-a540-be903eb10e58#)*
     (remanding for infringement determination where licensee exceeded the
     license's scope by preparing a modified version of software programs
@@ -1227,7 +1246,7 @@ to receive new licenses for the same material under section 10.
     representations of movie scenes, where its public performance license
     expressly prohibited the use of accompanying visual representations).
 
-[^24]: FN3. A copyright holder may wish to enforce violations of license
+[^22]: FN3. A copyright holder may wish to enforce violations of license
     agreements as copyright infringements for several reasons. First, breach
     of contract damages are generally limited to the value of the actual loss
     caused by the breach. See 24 Richard A. Lord, *Williston on Contracts* §
@@ -1235,7 +1254,7 @@ to receive new licenses for the same material under section 10.
     owner's actual damages and the infringer's actual profits, or statutory
     damages of up to $150,000 per work. [17 U.S.C. §
     504](https://advance.lexis.com/document/?pdmfid=1000516&crid=06650db3-0f63-4524-9068-1e89116d90ac&pddocfullpath=%2Fshared%2Fdocument%2Fcases%2Furn%3AcontentItem%3A51PJ-CY71-652R-8004-00000-00&pddocid=urn%3AcontentItem%3A51PJ-CY71-652R-8004-00000-00&pdcontentcomponentid=6393&pdshepid=urn%3AcontentItem%3A51P5-94G1-DXC7-J10H-00000-00&pdteaserkey=sr0&ecomp=r89tk&earg=sr0&prid=029365ab-656c-46c5-a540-be903eb10e58#);
-    see* [Frank Music Corp. v. MGM, Inc., 772 F.2d 505, 512 n.5 (9th Cir.
+    see *[Frank Music Corp. v. MGM, Inc., 772 F.2d 505, 512 n.5 (9th Cir.
     1985)](https://advance.lexis.com/document/?pdmfid=1000516&crid=06650db3-0f63-4524-9068-1e89116d90ac&pddocfullpath=%2Fshared%2Fdocument%2Fcases%2Furn%3AcontentItem%3A51PJ-CY71-652R-8004-00000-00&pddocid=urn%3AcontentItem%3A51PJ-CY71-652R-8004-00000-00&pdcontentcomponentid=6393&pdshepid=urn%3AcontentItem%3A51P5-94G1-DXC7-J10H-00000-00&pdteaserkey=sr0&ecomp=r89tk&earg=sr0&prid=029365ab-656c-46c5-a540-be903eb10e58#)*.
     Second, copyright law offers injunctive relief, seizure of infringing
     articles, and awards of costs and attorneys' fees. [17 U.S.C. §§
@@ -1243,15 +1262,15 @@ to receive new licenses for the same material under section 10.
     [505](https://advance.lexis.com/document/?pdmfid=1000516&crid=06650db3-0f63-4524-9068-1e89116d90ac&pddocfullpath=%2Fshared%2Fdocument%2Fcases%2Furn%3AcontentItem%3A51PJ-CY71-652R-8004-00000-00&pddocid=urn%3AcontentItem%3A51PJ-CY71-652R-8004-00000-00&pdcontentcomponentid=6393&pdshepid=urn%3AcontentItem%3A51P5-94G1-DXC7-J10H-00000-00&pdteaserkey=sr0&ecomp=r89tk&earg=sr0&prid=029365ab-656c-46c5-a540-be903eb10e58#).
     Third, as amicus Software & Information Industry Association highlights,
     copyright law allows copyright owners a remedy against "downstream"
-    infringers with whom they are not in privity of contract. See* [ProCD,
+    infringers with whom they are not in privity of contract. See *[ProCD,
     Inc., 86 F.3d at
     1454](https://advance.lexis.com/document/?pdmfid=1000516&crid=06650db3-0f63-4524-9068-1e89116d90ac&pddocfullpath=%2Fshared%2Fdocument%2Fcases%2Furn%3AcontentItem%3A51PJ-CY71-652R-8004-00000-00&pddocid=urn%3AcontentItem%3A51PJ-CY71-652R-8004-00000-00&pdcontentcomponentid=6393&pdshepid=urn%3AcontentItem%3A51P5-94G1-DXC7-J10H-00000-00&pdteaserkey=sr0&ecomp=r89tk&earg=sr0&prid=029365ab-656c-46c5-a540-be903eb10e58#)*.
 
-[^25]: FN4. A licensee arguably may commit copyright infringement by continuing
+[^23]: FN4. A licensee arguably may commit copyright infringement by continuing
     to use the licensed work while failing to make required payments, even
     though a failure to make payments otherwise lacks a nexus to the
     licensor's exclusive statutory rights. We view payment as *sui generis*,
     however, because of the distinct nexus between payment and all commercial
     copyright licenses, not just those concerning software.
 
-[^26]: https://opensource.org/licenses/artistic-license-1.0
+[^24]: https://opensource.org/licenses/artistic-license-1.0
